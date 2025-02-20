@@ -1,0 +1,5 @@
+GET_M = 'GET'
+POST_M = 'POST'
+PUT_M = 'PUT'
+DELETE_M = 'DELETE'
+PATCH_M = 'PATCH'

@@ -1,0 +1,12 @@
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'January', '88');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'February', '34');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'March', '27');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'April', '38');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'May', '45');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'June', '35');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'July', '0');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'August', '0');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'September', '23');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'October', '38');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'November', '56');
+INSERT OR IGNORE INTO Monthly_Trend_Cert_Empl (Fiscal_Year, Buwan, CertifiedEmployees) VALUES ('FY24', 'December', '57');

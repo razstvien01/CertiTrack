@@ -1,0 +1,1001 @@
+﻿EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EID,MANAGEMENT_LEVEL,CAPABILITY,PROJECT_NAME,MANAGER_EID,TARGET_CERTIFICATION,1ST_TARGET_CERTIFICATION_DATE,CURRENT_PROGRESS,WITH_VOUCHER?,1ST_TAKE_RESULT,RETAKE_EXAM_DATE,RETAKE_RESULT,EXPIRATION_DATE,Fiscal Year,Month,Quarter
+1,Andrew,Goodman,andrew.goodman,12,Data,Yangtze River Port and Logistics ,sheryl.baxter,AWS Certified Cloud Practitioner,12/17/2021,Passed,Yes,Passed,,,12/17/2024,FY22,December,Q2
+2,Alvin,Lane,alvin.lane,12,Data,YanGuFang International Group ,preston.lozano,Google - Cloud Digital Leader,1/4/2022,Passed,Yes,Passed,,,1/4/2025,FY22,January,Q2
+3,Jenna,Harding,jenna.harding,12,Data,Yangzijiang Financial Holding ,roy.berry,Google - Associate Cloud Engineer,11/29/2023,Passed,Yes,Passed,,,11/29/2026,FY24,November,Q1
+4,Fernando,Ford,fernando.ford,12,Data,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Google - Cloud Digital Leader,1/6/2024,Passed,Yes,Passed,,,1/6/2027,FY24,January,Q2
+5,Kara,Woods,kara.woods,12,Data,Yankuang Energy Group Company ,joanna.bender,Google - Cloud Digital Leader,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+6,Marissa,Gamble,marissa.gamble,12,Data,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Google - Cloud Digital Leader,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+7,Julie,Cooley,julie.cooley,12,Data,01 Communique Laboratory ,darren.peck,Google - Associate Cloud Engineer,11/20/2023,Passed,Yes,Passed,,,11/20/2026,FY24,November,Q1
+8,Lauren,Villa,lauren.villa,12,Data,0187279 BC ,brett.mullen,Google - Associate Cloud Engineer,10/26/2023,Passed,Yes,Passed,,,10/26/2026,FY24,October,Q1
+9,Emily,Bryant,emily.bryant,12,Data,1-800-FLOWERSCOM,sheryl.meyers,AWS Certified Cloud Practitioner,12/28/2021,Passed,Yes,Passed,,,12/28/2024,FY22,December,Q2
+10,Marie,Estrada,marie.estrada,12,Data,10X Capital Venture Acquisition Corp III,michelle.gallagher,Microsoft - Azure Data Fundamentals,5/20/2022,Passed,Yes,Passed,,,5/20/2025,FY22,May,Q3
+11,Nichole,Cannon,nichole.cannon,12,Data,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Microsoft - Azure Data Engineer Associate,4/7/2023,Passed,Yes,Passed,,,4/7/2026,FY23,April,Q3
+12,Bernard,Ritter,bernard.ritter,12,Data,10x Genomics,jenna.dodson,Google - Cloud Digital Leader,8/7/2023,Passed,Yes,Failed/For Retake,8/30/2023,Passed,8/30/2026,FY23,August,Q4
+13,Darryl,Archer,darryl.archer,12,Data,111 - Depositary Receipt (Common Stock),tracey.mata,Google - Cloud Digital Leader,8/3/2023,Passed,Yes,Failed/For Retake,8/31/2023,Passed,8/31/2026,FY23,August,Q4
+14,Ryan,Li,ryan.li,12,Data,1399 Internet Technology Application Group ,kristine.cox,Google - Cloud Digital Leader,8/10/2023,Passed,Yes,Failed/For Retake,9/25/2023,Passed,9/25/2026,FY24,September,Q1
+15,Vicki,Nunez,vicki.nunez,12,Data,141 Capital,faith.lutz,AWS Certified Cloud Practitioner,6/16/2023,Passed,Yes,Failed/For Retake,7/29/2023,Passed,7/29/2026,FY23,July,Q4
+16,Sean,Townsend,sean.townsend,12,Data,1511419 Ontario ,miranda.beasley,AWS Certified Cloud Practitioner,6/12/2023,Passed,Yes,Failed/For Retake,8/5/2023,Passed,8/5/2026,FY23,August,Q4
+17,Sophia,Mathis,sophia.mathis,12,Data,1606 Corp,caroline.foley,AWS Certified Cloud Practitioner,9/17/2023,Passed,Yes,Failed/For Retake,9/17/2023,Passed,9/17/2026,FY24,September,Q1
+18,Helen,Potts,helen.potts,12,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Microsoft - Azure Data Fundamentals,6/7/2023,Passed,Yes,Failed/For Retake,8/14/2023,Passed,8/14/2026,FY23,August,Q4
+19,Joann,Finley,joann.finley,12,AI,180 Degree Capital Corp,clifford.jacobson,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+20,Thomas,Walsh,thomas.walsh,12,AI,180 Life Sciences Corp,joanna.kirk,Google - Associate Cloud Engineer,11/7/2023,Passed,Yes,Passed,,,11/7/2026,FY24,November,Q1
+21,Cristina,Lam,cristina.lam,12,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Google - Associate Cloud Engineer,10/30/2023,Passed,Yes,Passed,,,10/30/2026,FY24,October,Q1
+22,Vicki,Heath,vicki.heath,12,AI,1812 Brewing Company ,kiara.houston,Google - Cloud Digital Leader,8/31/2023,Passed,Yes,Passed,,,8/31/2026,FY23,August,Q4
+23,Glenn,Wang,glenn.wang,12,AI,1847 Holdings LLC,colleen.howard,Google - Associate Cloud Engineer,11/22/2023,Passed,Yes,Passed,,,11/22/2026,FY24,November,Q1
+24,Darius,Benitez,darius.benitez,12,AI,1867 Western Financial Corporation,janet.valenzuela,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Failed/For Retake,12/15/2023,Passed,12/15/2026,FY24,December,Q2
+25,Xavier,Cruz,xavier.cruz,12,AI,1895 Bancorp of Wisconsin,shane.wilcox,Google - Associate Cloud Engineer,12/2/2023,Passed,Yes,Passed,,,12/2/2026,FY24,December,Q2
+26,Douglas,Galloway,douglas.galloway,12,AI,1911 Gold Corporation,marcus.moody,Google - Associate Cloud Engineer,11/19/2023,Passed,Yes,Failed/For Retake,12/10/2023,Passed,12/10/2026,FY24,December,Q2
+27,Phyllis,Becker,phyllis.becker,12,AI,1933 Industries ,dakota.poole,Microsoft - Azure Data Fundamentals,10/13/2022,Passed,Yes,Passed,,,10/13/2025,FY23,October,Q1
+28,Ebony,Murphy,ebony.murphy,12,AI,1CM ,frederick.harper,Google - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+29,Tyler,Stevenson,tyler.stevenson,12,AI,1mage Software,stefanie.fitzpatrick,Google - Cloud Digital Leader,8/21/2023,Passed,Yes,Passed,,,8/21/2026,FY23,August,Q4
+30,Cesar,Bernard,cesar.bernard,12,AI,1PM Industries,kent.bradshaw,Google - Associate Cloud Engineer,1/14/2024,Passed,Yes,Passed,,,1/14/2027,FY24,January,Q2
+31,Darrell,Santos,darrell.santos,12,AI,1st Capital Bancorp,jack.tate,Google - Associate Cloud Engineer,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+32,Amanda,Santiago,amanda.santiago,12,AI,1st Colonial Bancorp,tom.trujillo,Google - Associate Cloud Engineer,1/21/2024,Passed,Yes,Passed,,,1/21/2027,FY24,January,Q2
+33,Marcus,Mcdonald,marcus.mcdonald,12,AI,1st Federal Savings Bank of SC,gabriel.mejia,Google - Associate Cloud Engineer,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+34,Lauren,Montes,lauren.montes,12,AI,1st NRG Corp,kaitlyn.santana,Google - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+35,Brent,Hinton,brent.hinton,12,AI,1st Source Corporation,faith.moon,Google - Associate Cloud Engineer,11/30/2023,Passed,Yes,Failed/For Retake,12/30/2023,Passed,12/30/2026,FY24,December,Q2
+36,Jill,Mayo,jill.mayo,12,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Google - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+37,Herbert,Byrd,herbert.byrd,12,AI,1stdibsCom,nicholas.sosa,Google - Associate Cloud Engineer,12/7/2023,Passed,Yes,Passed,,,12/7/2026,FY24,December,Q2
+38,Don,Krueger,don.krueger,12,AI,2020 Bulkers ,jordan.gay,Google - Professional Cloud Data Engineer,6/21/2024,Passed,Yes,Passed,,,6/21/2027,FY24,June,Q4
+39,Cheryl,Gonzales,cheryl.gonzales,12,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+40,Rickey,Mays,rickey.mays,12,AI,22nd Century ,sherry.garza,Microsoft - Azure AI Fundamentals,1/13/2022,Passed,Yes,Passed,,,1/13/2025,FY22,January,Q2
+41,Cassidy,Dillon,cassidy.dillon,12,AI,23andMe Holding ,natalie.gentry,Microsoft - Azure AI Engineer Associate,11/26/2022,Passed,Yes,Passed,,,11/26/2025,FY23,November,Q1
+42,Christina,Bautista,christina.bautista,12,AI,24SevenOffice Group AB (publ),bryan.dunn,Microsoft - Azure AI Engineer Associate,11/25/2023,Passed,Yes,Passed,,,11/25/2026,FY24,November,Q1
+43,Alexandra,Castro,alexandra.castro,12,AI,286 Lenox Partners LLC,wayne.simpson,Google - Cloud Digital Leader,5/27/2024,Failed,Yes,Failed/For Retake,9/15/2023,Failed,,FY24,May,Q3
+44,Krystal,Mendoza,krystal.mendoza,12,AI,29Metals ,luis.greer,Google - Cloud Digital Leader,10/2/2023,Failed,Yes,Failed/For Retake,12/22/2023,Failed,,FY24,October,Q1
+45,Ivan,Schroeder,ivan.schroeder,12,AI,2seventy bio,rhonda.frost,Google - Cloud Digital Leader,12/2/2023,Failed,Yes,Failed/For Retake,12/22/2023,Failed,,FY24,December,Q2
+46,Stephanie,Bradshaw,stephanie.bradshaw,12,AI,2U,joanne.montes,Google - Cloud Digital Leader,6/18/2023,Failed,Yes,Failed/For Retake,11/10/2023,Failed,,FY23,June,Q4
+47,Levi,Grimes,levi.grimes,12,AI,3 Sixty Risk Solutions ,geoffrey.guzman,Google - Cloud Digital Leader,9/23/2023,In progress - 1st take,Requested,,,,,FY23,September,Q1
+48,Peter,Sosa,peter.sosa,12,AI,361 Degrees International ,gloria.mccall,Google - Associate Cloud Engineer,8/7/2023,In progress - 1st take,Requested,,,,,FY23,August,Q4
+49,Valerie,Haney,valerie.haney,12,AI,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google - Cloud Digital Leader,5/16/2023,In progress - 1st take,Requested,,,,,FY23,May,Q3
+50,Tom,Gardner,tom.gardner,12,AI,37 Capital ,latoya.mccann,AWS Certified Cloud Practitioner,6/1/2023,In progress - 1st take,Requested,,,,,FY23,June,Q4
+51,Randall,Galloway,randall.galloway,12,AI,374Water ,gerald.hawkins,Google - Cloud Digital Leader,8/4/2023,Failed,Yes,Failed/For Retake,8/25/2023,Failed,,FY23,August,Q4
+52,Perry,Whitaker,perry.whitaker,12,AI,3D Pioneer Systems ,samuel.crawford,AWS Certified Cloud Practitioner,8/8/2023,Failed,Yes,Failed/For Retake,9/16/2023,Failed,,FY23,August,Q4
+53,Gloria,Mosley,gloria.mosley,12,AI,3D Systems Corporation,patricia.goodwin,Google - Associate Cloud Engineer,12/18/2023,Failed,Yes,Failed/For Retake,1/27/2024,Failed,,FY24,December,Q2
+54,Cameron,Little,cameron.little,12,AI,3DShoppingcom,stacie.richard,Google - Associate Cloud Engineer,3/27/2023,Failed,Yes,Failed/For Retake,11/26/2023,Failed,,FY23,March,Q3
+55,Glen,Gonzalez,glen.gonzalez,12,AI,3DX Industries,robin.west,Google - Associate Cloud Engineer,12/20/2023,Failed,Yes,Failed/For Retake,1/28/2024,Failed,,FY24,December,Q2
+56,Melvin,Day,melvin.day,12,AI,3i Group plc,ralph.haas,Google - Associate Cloud Engineer,8/25/2023,Failed,Yes,Failed/For Retake,12/6/2023,Failed,,FY23,August,Q4
+57,Kent,Salinas,kent.salinas,12,AI,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Google - Associate Cloud Engineer,10/9/2023,Failed,Yes,Failed/For Retake,11/17/2023,Failed,,FY24,October,Q1
+58,Stacey,Martinez,stacey.martinez,12,AI,3iQ Bitcoin ETF,danny.parrish,Google - Associate Cloud Engineer,6/20/2023,Failed,Yes,Failed/For Retake,12/5/2023,Failed,,FY23,June,Q4
+59,Jennifer,Fleming,jennifer.fleming,12,AI,3M Company,kathy.hill,Google - Associate Cloud Engineer,11/22/2023,Failed,Yes,Failed/For Retake,1/29/2024,Failed,,FY24,November,Q1
+60,Teresa,Oconnell,teresa.oconnell,12,AI,3Power Energy ,kelli.hardy,Google - Associate Cloud Engineer,6/10/2023,Failed,Yes,Failed/For Retake,12/11/2023,Failed,,FY23,June,Q4
+61,Bruce,Bass,bruce.bass,12,AI,3SBio ,lynn.pham,Google - Associate Cloud Engineer,11/30/2023,Failed,Yes,Failed/For Retake,12/29/2023,Failed,,FY24,November,Q1
+62,Sarah,Sweeney,sarah.sweeney,12,AI,420 Property Management,shelley.harris,Google - Cloud Digital Leader,6/28/2023,Not Started,No,,,,,FY23,June,Q4
+63,Eddie,Salinas,eddie.salinas,12,AI,49 North Resources ,eddie.jimenez,Google - Cloud Digital Leader,1/11/2024,Not Started,No,,,,,FY24,January,Q2
+64,Trevor,Rowland,trevor.rowland,12,AI,4Cable TV International,chloe.hutchinson,Google - Cloud Digital Leader,5/26/2023,Not Started,No,,,,,FY23,May,Q3
+65,Marcus,Chang,marcus.chang,12,AI,4D Molecular Therapeutics,eileen.lynch,Google - Cloud Digital Leader,9/9/2023,Not Started,No,,,,,FY24,September,Q1
+66,Sabrina,Roberts,sabrina.roberts,12,AI,4D pharma plc - Equity Warrant,fernando.lambert,Google - Cloud Digital Leader,7/7/2023,Failed,Yes,Failed/For Retake,12/24/2023,Failed,,FY23,July,Q4
+67,Norman,French,norman.french,12,AI,4DMedical ,makayla.cannon,Google - Cloud Digital Leader,8/11/2023,Failed,Yes,Failed/For Retake,12/22/2023,Failed,,FY23,August,Q4
+68,Lonnie,Novak,lonnie.novak,11,AI,4DS Memory ,tom.alvarado,Microsoft - Azure Data Fundamentals,9/13/2023,Failed,Yes,Failed/For Retake,12/28/2023,Failed,,FY24,September,Q1
+69,Casey,Bauer,casey.bauer,11,AI,4Front Ventures Corp,virginia.dudley,Google - Associate Cloud Engineer,12/19/2022,Failed,Yes,Failed/For Retake,12/30/2022,Failed,,FY23,December,Q2
+70,David,Goodman,david.goodman,11,AI,4imprint Group plc,riley.good,AWS Certified Cloud Practitioner,1/30/2024,Failed,Yes,Failed/For Retake,2/11/2024,Failed,,FY24,January,Q2
+71,Garrett,Rosario,garrett.rosario,11,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Google - Associate Cloud Engineer,12/23/2023,Failed,Yes,Failed/For Retake,2/10/2024,Failed,,FY24,December,Q2
+72,Colin,Vaughan,colin.vaughan,11,AI,5:01 Acquisition Corp,richard.roth,AWS Certified Cloud Practitioner,2/22/2024,In progress - 2nd take,Requested,Failed/For Retake,8/6/2024,,,FY24,February,Q2
+73,Maxwell,Griffin,maxwell.griffin,11,AI,5E Advanced Materials,candice.keller,Google - Associate Cloud Engineer,8/30/2023,In progress - 2nd take,Requested,Failed/For Retake,8/6/2024,,,FY23,August,Q4
+74,Diamond,Barnett,diamond.barnett,11,AI,5G Networks ,anita.benson,Google - Associate Cloud Engineer,1/23/2024,In progress - 2nd take,Requested,Failed/For Retake,8/6/2024,,,FY24,January,Q2
+75,Kellie,Munoz,kellie.munoz,11,AI,5N Plus ,regina.stein,Microsoft - Azure AI Engineer Associate,10/20/2023,In progress - 2nd take,Requested,Failed/For Retake,8/6/2024,,,FY24,October,Q1
+76,Sandy,Finley,sandy.finley,11,AI,5th Planet Games A/S,debra.riddle,Google - Associate Cloud Engineer,6/29/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY23,June,Q4
+77,Katelyn,Petersen,katelyn.petersen,11,AI,60 Degrees Pharmaceuticals,brittany.zuniga,Google - Associate Cloud Engineer,10/30/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY24,October,Q1
+78,Neil,Murray,neil.murray,11,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Google - Professional Machine Learning Engineer,8/16/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY23,August,Q4
+79,Carlos,Wilcox,carlos.wilcox,11,AI,727 Communications,laurie.pennington,Google - Associate Cloud Engineer,3/26/2024,In progress - 1st take,No,,,,,FY24,March,Q3
+80,Adrienne,Lamb,adrienne.lamb,11,AI,79North ,alejandro.blair,Google - Associate Cloud Engineer,6/5/2024,In progress - 1st take,No,,,,,FY24,June,Q4
+81,Traci,Levy,traci.levy,11,AI,7C Solarparken AG,leslie.jennings,AWS Certified Solutions Architect - Associate,5/29/2023,In progress - 1st take,No,,,,,FY23,May,Q3
+82,Tammy,Harmon,tammy.harmon,11,AI,8000 Inc,kathleen.mckay,Google - Associate Cloud Engineer,6/15/2023,In progress - 1st take,No,,,,,FY23,June,Q4
+83,Nicholas,Arias,nicholas.arias,11,AI,808 Renewable Energy Corporation,hunter.moreno,Google - Associate Cloud Engineer,8/15/2023,In progress - 1st take,No,,,,,FY23,August,Q4
+84,Sydney,Solis,sydney.solis,11,AI,88 Energy ,chad.davidson,AWS Certified Solutions Architect - Associate,6/17/2023,In progress - 1st take,No,,,,,FY23,June,Q4
+85,Jody,Beltran,jody.beltran,11,AI,89bio,corey.holt,Microsoft - Azure AI Fundamentals,11/11/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+86,Autumn,Choi,autumn.choi,11,AI,8x8,emma.cunningham,Microsoft - Azure AI Fundamentals,5/4/2024,In progress - 1st take,No,,,,,FY24,May,Q3
+87,Chelsey,Boyer,chelsey.boyer,11,AI,9 Meters Biopharma,duane.woods,Microsoft - Azure AI Fundamentals,3/11/2024,In progress - 1st take,No,,,,,FY24,March,Q3
+88,Trevor,Key,trevor.key,11,AI,908 Devices ,alison.vargas,Google - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+89,Bridget,Molina,bridget.molina,11,AI,9342-8530 Québec ,vernon.kane,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+90,Calvin,Rocha,calvin.rocha,11,AI,99 Acquisition Group ,lori.flowers,Google - Associate Cloud Engineer,10/27/2023,Passed,Yes,Passed,,,10/27/2026,FY24,October,Q1
+91,Austin,Matthews,austin.matthews,11,AI,99 Acquisition Group  - Equity Right,nina.chavez,Microsoft - Azure AI Engineer Associate,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+92,Molly,Murphy,molly.murphy,11,AI,99 Acquisition Group  - Equity Warrant,shane.foley,Google - Associate Cloud Engineer,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+93,Jeremy,Haynes,jeremy.haynes,11,AI,9F  - Depositary Receipt (Common Stock),collin.ayers,Google - Cloud Digital Leader,8/4/2023,Passed,Yes,Passed,,,8/4/2026,FY23,August,Q4
+94,Don,Henry,don.henry,11,AI,A SPAC II Acquisition Corp,sherry.young,Google - Associate Cloud Engineer,1/19/2024,Passed,Yes,Passed,,,1/19/2027,FY24,January,Q2
+95,Dakota,Bowman,dakota.bowman,11,AI,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Google - Associate Cloud Engineer,11/11/2023,Passed,Yes,Passed,,,11/11/2026,FY24,November,Q1
+96,Manuel,Maynard,manuel.maynard,11,AI,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,Google - Cloud Digital Leader,3/22/2023,Passed,Yes,Passed,,,3/22/2026,FY23,March,Q3
+97,Howard,Simmons,howard.simmons,11,AI,A&W Revenue Royalties Income Fund,lynn.atkinson,Google - Associate Cloud Engineer,3/30/2024,Passed,Yes,Passed,,,3/30/2027,FY24,March,Q3
+98,Jeffery,Wall,jeffery.wall,11,AI,A-Mark Precious Metals,fred.guerra,Google - Associate Cloud Engineer,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+99,Colleen,Estes,colleen.estes,11,AI,A-Sonic Aerospace ,yvonne.farmer,Google - Professional Machine Learning Engineer,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+100,Bianca,Henry,bianca.henry,11,AI,A O Smith Corporation,clarence.haynes,Google - Associate Cloud Engineer,1/14/2024,Passed,Yes,Passed,,,1/14/2027,FY24,January,Q2
+101,Michelle,Good,michelle.good,11,AI,Yangtze River Port and Logistics ,sheryl.baxter,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+102,Eileen,Skinner,eileen.skinner,11,AI,YanGuFang International Group ,preston.lozano,Google - Associate Cloud Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+103,Kyle,Richmond,kyle.richmond,11,AI,Yangzijiang Financial Holding ,roy.berry,Google - Associate Cloud Engineer,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+104,Omar,Davies,omar.davies,11,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Google - Associate Cloud Engineer,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+105,Chelsea,Giles,chelsea.giles,11,AI,Yankuang Energy Group Company ,joanna.bender,Google - Associate Cloud Engineer,12/2/2023,Passed,Yes,Passed,,,12/2/2026,FY24,December,Q2
+106,Pam,Crane,pam.crane,11,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Microsoft - Azure Data Fundamentals,12/8/2022,Passed,Yes,Passed,,,12/8/2025,FY23,December,Q2
+107,Sandy,Kaufman,sandy.kaufman,11,AI,01 Communique Laboratory ,darren.peck,Google - Associate Cloud Engineer,2/6/2024,Passed,Yes,Passed,,,2/6/2027,FY24,February,Q2
+108,Madison,Clark,madison.clark,11,AI,0187279 BC ,brett.mullen,Google Cloud Certified - Associate Cloud Engineer,3/30/2024,Passed,Yes,Passed,,,3/30/2027,FY24,March,Q3
+109,Leah,Coffey,leah.coffey,11,AI,1-800-FLOWERSCOM,sheryl.meyers,Google Cloud Certified - Associate Cloud Engineer,9/29/2023,Passed,Yes,Passed,,,9/29/2026,FY23,September,Q1
+110,Julie,Montgomery,julie.montgomery,11,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Google Cloud Certified - Associate Cloud Engineer,1/15/2024,Passed,Yes,Passed,,,1/15/2027,FY24,January,Q2
+111,Darrell,Small,darrell.small,11,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Amazon Web Services (AWS) Certified Cloud Practitioner,12/18/2023,Passed,Yes,Passed,,,12/18/2026,FY24,December,Q2
+112,Andrew,Bolton,andrew.bolton,11,AI,10x Genomics,jenna.dodson,Google Cloud Certified - Associate Cloud Engineer,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+113,Jaime,Hayden,jaime.hayden,11,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Google Cloud Certified - Associate Cloud Engineer,12/8/2022,Passed,Yes,Passed,,,12/8/2025,FY23,December,Q2
+114,Logan,Carney,logan.carney,11,AI,1399 Internet Technology Application Group ,kristine.cox,Google Cloud Certified - Associate Cloud Engineer,12/18/2023,Passed,Yes,Passed,,,12/18/2026,FY24,December,Q2
+115,Pedro,Franco,pedro.franco,11,AI,141 Capital,faith.lutz,Microsoft Certified: Azure Data Scientist Associate,1/6/2024,Passed,Yes,Passed,,,1/6/2027,FY24,January,Q2
+116,Daryl,Meza,daryl.meza,11,AI,1511419 Ontario ,miranda.beasley,Microsoft Certified: Azure AI Engineer Associate,12/8/2022,Passed,Yes,Passed,,,12/8/2025,FY23,December,Q2
+117,Haley,Levine,haley.levine,11,AI,1606 Corp,caroline.foley,Microsoft Certified: Azure AI Engineer Associate,12/30/2023,Passed,Yes,Passed,,,12/30/2026,FY24,December,Q2
+118,Caitlyn,Vazquez,caitlyn.vazquez,11,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Microsoft Certified: Azure AI Engineer Associate,3/30/2024,Not Started,No,,,,,FY24,March,Q3
+119,Keith,Combs,keith.combs,11,AI,180 Degree Capital Corp,clifford.jacobson,Microsoft Certified: Azure AI Fundamentals,10/22/2023,Not Started,No,,,,,FY24,October,Q1
+120,Hayden,Cline,hayden.cline,11,AI,180 Life Sciences Corp,joanna.kirk,Microsoft Certified: Azure AI Fundamentals,12/10/2023,Not Started,No,,,,,FY24,December,Q2
+121,Jeanette,Sanford,jeanette.sanford,11,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Microsoft Certified: Azure AI Fundamentals,11/25/2023,Not Started,No,,,,,FY24,November,Q1
+122,Brandon,Richmond,brandon.richmond,11,AI,1812 Brewing Company ,kiara.houston,Microsoft Certified: Azure AI Fundamentals,4/16/2024,Not Started,No,,,,,FY24,April,Q3
+123,Latasha,Miller,latasha.miller,11,AI,1847 Holdings LLC,colleen.howard,Microsoft Certified: Azure AI Fundamentals,9/26/2023,Not Started,No,,,,,FY24,September,Q1
+124,Shaun,Luna,shaun.luna,11,AI,1867 Western Financial Corporation,janet.valenzuela,Microsoft Certified: Azure AI Fundamentals,6/26/2023,Not Started,No,,,,,FY23,June,Q4
+125,Allen,Mayer,allen.mayer,11,AI,1895 Bancorp of Wisconsin,shane.wilcox,Microsoft Certified: Azure AI Fundamentals,5/22/2024,Not Started,No,,,,,FY24,May,Q3
+126,Yvonne,Jordan,yvonne.jordan,11,AI,1911 Gold Corporation,marcus.moody,Microsoft Certified: Azure AI Fundamentals,5/7/2023,Not Started,No,,,,,FY23,May,Q3
+127,Joanne,Miranda,joanne.miranda,11,AI,1933 Industries ,dakota.poole,Microsoft Certified: Azure AI Fundamentals,11/12/2023,Not Started,No,,,,,FY24,November,Q1
+128,Jaclyn,Rice,jaclyn.rice,11,AI,1CM ,frederick.harper,Microsoft Certified: Azure AI Fundamentals,11/29/2023,Not Started,No,,,,,FY24,November,Q1
+129,Glen,Conway,glen.conway,11,AI,1mage Software,stefanie.fitzpatrick,Microsoft Certified: Azure AI Fundamentals,12/22/2023,Not Started,No,,,,,FY24,December,Q2
+130,Stacey,Travis,stacey.travis,11,AI,1PM Industries,kent.bradshaw,Microsoft Certified: Azure AI Fundamentals,6/19/2023,Not Started,No,,,,,FY23,June,Q4
+131,Courtney,Hughes,courtney.hughes,11,AI,1st Capital Bancorp,jack.tate,Microsoft Certified: Azure AI Fundamentals,2/16/2024,Not Started,No,,,,,FY24,February,Q2
+132,Raven,Nelson,raven.nelson,11,AI,1st Colonial Bancorp,tom.trujillo,Microsoft Certified: Azure AI Fundamentals,8/2/2023,Failed,Yes,Failed/For Retake,9/12/2023,Failed,,FY23,August,Q4
+133,Kyle,Odonnell,kyle.odonnell,11,AI,1st Federal Savings Bank of SC,gabriel.mejia,Microsoft Certified: Azure AI Fundamentals,9/30/2023,Failed,Yes,Failed/For Retake,10/11/2023,Failed,,FY24,September,Q1
+134,Sherry,Ponce,sherry.ponce,11,AI,1st NRG Corp,kaitlyn.santana,Microsoft Certified: Azure AI Fundamentals,6/25/2023,Failed,Yes,Failed/For Retake,9/12/2023,Failed,,FY23,June,Q4
+135,Kirk,Villa,kirk.villa,11,AI,1st Source Corporation,faith.moon,Microsoft Certified: Azure AI Fundamentals,10/5/2023,Failed,Yes,Failed/For Retake,11/12/2023,Failed,,FY24,October,Q1
+136,Luke,Lucas,luke.lucas,11,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Microsoft Certified: Azure AI Fundamentals,9/12/2023,Failed,Yes,Failed/For Retake,10/12/2023,Failed,,FY24,September,Q1
+137,Lynn,Tran,lynn.tran,11,AI,1stdibsCom,nicholas.sosa,Microsoft Certified: Azure AI Fundamentals,9/11/2023,Failed,Yes,Failed/For Retake,10/23/2023,Failed,,FY24,September,Q1
+138,Brian,Beasley,brian.beasley,11,AI,2020 Bulkers ,jordan.gay,Microsoft Certified: Azure AI Fundamentals,4/14/2024,Failed,Yes,Failed/For Retake,9/26/2023,Failed,,FY24,April,Q3
+139,Christopher,Savage,christopher.savage,11,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Microsoft Certified: Azure AI Fundamentals,2/29/2024,Failed,Yes,Failed/For Retake,3/23/20244,Failed,,FY24,February,Q2
+140,Dominique,Mckinney,dominique.mckinney,11,AI,22nd Century ,sherry.garza,Microsoft Certified: Azure AI Fundamentals,1/19/2024,Failed,Yes,Failed/For Retake,3/13/2023,Failed,,FY24,January,Q2
+141,Dwayne,Crane,dwayne.crane,11,AI,23andMe Holding ,natalie.gentry,Microsoft Certified: Azure AI Fundamentals,1/15/2024,Failed,Yes,Failed/For Retake,2/4/2024,Failed,,FY24,January,Q2
+142,Autumn,Cuevas,autumn.cuevas,11,AI,24SevenOffice Group AB (publ),bryan.dunn,Databricks - Databricks Certified Machine Learning Associate,6/10/2024,Passed,Yes,Passed,,,6/10/2027,FY24,June,Q4
+143,Gregory,Collins,gregory.collins,11,AI,286 Lenox Partners LLC,wayne.simpson,"Informatica - Cloud Data Integration Developer R41, Certified Professional",6/2/2024,Passed,Yes,Passed,,,6/2/2027,FY24,June,Q4
+144,Isaac,Schmidt,isaac.schmidt,11,AI,29Metals ,luis.greer,"Informatica - Cloud Data Integration Developer R41, Certified Professional",5/30/2024,Passed,Yes,Passed,,,5/30/2027,FY24,May,Q3
+145,Bradley,Rangel,bradley.rangel,11,AI,2seventy bio,rhonda.frost,Databricks - Databricks Certified Data Engineer Associate,4/6/2024,Passed,Yes,Passed,,,4/6/2027,FY24,April,Q3
+146,Paige,Page,paige.page,11,AI,2U,joanne.montes,Databricks - Databricks Certified Data Engineer Associate,3/28/2024,Passed,Yes,Passed,,,3/28/2027,FY24,March,Q3
+147,Gwendolyn,Bradshaw,gwendolyn.bradshaw,11,AI,3 Sixty Risk Solutions ,geoffrey.guzman,Databricks - Databricks Certified Data Engineer Associate,3/16/2024,Passed,Yes,Passed,,,3/16/2027,FY24,March,Q3
+148,Belinda,Ferguson,belinda.ferguson,11,AI,361 Degrees International ,gloria.mccall,Databricks - Databricks Certified Data Engineer Associate,3/16/2024,Passed,Yes,Passed,,,3/16/2027,FY24,March,Q3
+149,Ivan,Hines,ivan.hines,11,AI,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Databricks - Databricks Certified Data Engineer Associate,3/16/2024,Passed,Yes,Passed,,,3/16/2027,FY24,March,Q3
+150,Brett,Lin,brett.lin,11,AI,37 Capital ,latoya.mccann,Databricks - Databricks Certified Data Engineer Associate,3/16/2024,Passed,Yes,Passed,,,3/16/2027,FY24,March,Q3
+151,Katherine,Williams,katherine.williams,11,AI,374Water ,gerald.hawkins,Databricks - Databricks Certified Data Engineer Associate,3/15/2024,Passed,Yes,Passed,,,3/15/2027,FY24,March,Q3
+152,Andre,Burgess,andre.burgess,11,AI,3D Pioneer Systems ,samuel.crawford,Databricks - Databricks Certified Data Engineer Associate,3/15/2024,Passed,Yes,Passed,,,3/15/2027,FY24,March,Q3
+153,Laura,Decker,laura.decker,11,AI,3D Systems Corporation,patricia.goodwin,SnowPro Core Certification,3/11/2024,Passed,Yes,Passed,,,3/11/2027,FY24,March,Q3
+154,Tommy,Herman,tommy.herman,11,AI,3DShoppingcom,stacie.richard,Databricks - Databricks Certified Data Engineer Associate,3/9/2024,Passed,Yes,Passed,,,3/9/2027,FY24,March,Q3
+155,Amber,Lyons,amber.lyons,11,AI,3DX Industries,robin.west,Google Cloud Certified - Associate Cloud Engineer,2/3/2024,Passed,Yes,Passed,,,2/3/2027,FY24,February,Q2
+156,Shelia,Yang,shelia.yang,11,AI,3i Group plc,ralph.haas,Amazon Web Services (AWS) Certified Data Analytics - Specialty,2/27/2024,Passed,Yes,Passed,,,2/27/2027,FY24,February,Q2
+157,Russell,Martin,russell.martin,11,AI,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Microsoft Certified: Azure AI Fundamentals,2/22/2024,Passed,Yes,Passed,,,2/22/2027,FY24,February,Q2
+158,Yvette,Willis,yvette.willis,11,AI,3iQ Bitcoin ETF,danny.parrish,Google Cloud Certified - Associate Cloud Engineer,1/21/2024,Passed,Yes,Passed,,,1/21/2027,FY24,January,Q2
+159,Don,Ho,don.ho,11,AI,3M Company,kathy.hill,Google Cloud Certified - Associate Cloud Engineer,1/19/2024,Passed,Yes,Passed,,,1/19/2027,FY24,January,Q2
+160,Ellen,Torres,ellen.torres,11,AI,3Power Energy ,kelli.hardy,Google Cloud Certified - Associate Cloud Engineer,1/14/2024,Passed,Yes,Passed,,,1/14/2027,FY24,January,Q2
+161,Hayley,Morse,hayley.morse,11,AI,3SBio ,lynn.pham,Google Cloud Certified - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+162,Ellen,Kerr,ellen.kerr,11,AI,420 Property Management,shelley.harris,Google Cloud Certified - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+163,Martha,Cruz,martha.cruz,11,AI,49 North Resources ,eddie.jimenez,Google Cloud Certified - Associate Cloud Engineer,1/6/2024,Passed,Yes,Passed,,,1/6/2027,FY24,January,Q2
+164,Douglas,Carson,douglas.carson,11,AI,4Cable TV International,chloe.hutchinson,Google Cloud Certified - Associate Cloud Engineer,12/29/2023,Passed,Yes,Passed,,,12/29/2026,FY24,December,Q2
+165,Toni,Cline,toni.cline,11,AI,4D Molecular Therapeutics,eileen.lynch,Databricks - Databricks Certified Data Engineer Associate,12/27/2023,Passed,Yes,Passed,,,12/27/2026,FY24,December,Q2
+166,Robyn,Berger,robyn.berger,11,AI,4D pharma plc - Equity Warrant,fernando.lambert,Amazon Web Services (AWS) Certified Machine Learning - Specialty,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+167,Calvin,Roach,calvin.roach,11,AI,4DMedical ,makayla.cannon,Google Cloud Certified - Associate Cloud Engineer,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+168,Angel,Park,angel.park,11,AI,4DS Memory ,tom.alvarado,Google Cloud Certified - Associate Cloud Engineer,12/7/2023,Passed,Yes,Passed,,,12/7/2026,FY24,December,Q2
+169,Bradley,Delacruz,bradley.delacruz,11,AI,4Front Ventures Corp,virginia.dudley,Google Cloud Certified - Associate Cloud Engineer,12/6/2023,Passed,Yes,Passed,,,12/6/2026,FY24,December,Q2
+170,Donald,Cross,donald.cross,11,AI,4imprint Group plc,riley.good,Google Cloud Certified - Associate Cloud Engineer,12/2/2023,Passed,Yes,Passed,,,12/2/2026,FY24,December,Q2
+171,Jeremiah,Guerrero,jeremiah.guerrero,11,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Google Cloud Certified - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+172,Perry,Trujillo,perry.trujillo,11,AI,5:01 Acquisition Corp,richard.roth,Google Cloud Certified - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+173,Brent,Beasley,brent.beasley,11,AI,5E Advanced Materials,candice.keller,AZ-305: Designing Microsoft Azure Infrastructure Solutions,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+174,Ariana,Velasquez,ariana.velasquez,10,AI,5G Networks ,anita.benson,Google Cloud Certified - Associate Cloud Engineer,11/29/2023,Passed,Yes,Passed,,,11/29/2026,FY24,November,Q1
+175,Don,Vincent,don.vincent,10,AI,5N Plus ,regina.stein,Microsoft Certified: Azure AI Engineer Associate,11/25/2023,Passed,Yes,Passed,,,11/25/2026,FY24,November,Q1
+176,Bradley,Blair,bradley.blair,10,AI,5th Planet Games A/S,debra.riddle,Microsoft Certified: Power BI Data Analyst Associate,11/24/2023,Passed,Yes,Passed,,,11/24/2026,FY24,November,Q1
+177,Henry,Conway,henry.conway,10,AI,60 Degrees Pharmaceuticals,brittany.zuniga,Google Cloud Certified - Associate Cloud Engineer,11/14/2023,Passed,Yes,Passed,,,11/14/2026,FY24,November,Q1
+178,Norman,Waters,norman.waters,10,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Amazon Web Services (AWS) Certified Cloud Practitioner,11/20/2023,Passed,Yes,Passed,,,11/20/2026,FY24,November,Q1
+179,Breanna,Miranda,breanna.miranda,10,AI,727 Communications,laurie.pennington,Google Cloud Certified - Associate Cloud Engineer,11/14/2023,Passed,Yes,Passed,,,11/14/2026,FY24,November,Q1
+180,Seth,Osborne,seth.osborne,10,AI,79North ,alejandro.blair,Microsoft Certified: Azure AI Engineer Associate,11/18/2023,Passed,Yes,Passed,,,11/18/2026,FY24,November,Q1
+181,Lydia,Ponce,lydia.ponce,10,AI,7C Solarparken AG,leslie.jennings,Google Cloud Certified - Associate Cloud Engineer,11/11/2023,Passed,Yes,Passed,,,11/11/2026,FY24,November,Q1
+182,Sherri,Bradshaw,sherri.bradshaw,10,AI,8000 Inc,kathleen.mckay,Google Cloud Certified - Associate Cloud Engineer,11/9/2023,Passed,Yes,Passed,,,11/9/2026,FY24,November,Q1
+183,Alejandra,Lowe,alejandra.lowe,10,AI,808 Renewable Energy Corporation,hunter.moreno,Google Cloud Certified - Associate Cloud Engineer,11/9/2023,Passed,Yes,Passed,,,11/9/2026,FY24,November,Q1
+184,Raymond,Bernard,raymond.bernard,10,AI,88 Energy ,chad.davidson,Google Cloud Certified - Associate Cloud Engineer,11/6/2023,Passed,Yes,Passed,,,11/6/2026,FY24,November,Q1
+185,Patricia,Moss,patricia.moss,10,AI,89bio,corey.holt,Google Cloud Certified - Associate Cloud Engineer,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+186,Hector,Meyers,hector.meyers,10,AI,8x8,emma.cunningham,Google Cloud Certified - Associate Cloud Engineer,11/3/2023,Passed,Yes,Passed,,,11/3/2026,FY24,November,Q1
+187,Pedro,Zhang,pedro.zhang,10,AI,9 Meters Biopharma,duane.woods,Google Cloud Certified - Associate Cloud Engineer,11/2/2023,Passed,Yes,Passed,,,11/2/2026,FY24,November,Q1
+188,Marco,Donaldson,marco.donaldson,10,AI,908 Devices ,alison.vargas,Google Cloud Certified - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+189,Shannon,Yoder,shannon.yoder,10,AI,9342-8530 Québec ,vernon.kane,Google Cloud Certified - Associate Cloud Engineer,10/27/2023,Passed,Yes,Passed,,,10/27/2026,FY24,October,Q1
+190,Brian,Downs,brian.downs,10,AI,99 Acquisition Group ,lori.flowers,Google Cloud Certified - Associate Cloud Engineer,10/27/2023,Passed,Yes,Passed,,,10/27/2026,FY24,October,Q1
+191,Dillon,Cooley,dillon.cooley,10,AI,99 Acquisition Group  - Equity Right,nina.chavez,Google Cloud Certified - Associate Cloud Engineer,10/27/2023,Passed,Yes,Passed,,,10/27/2026,FY24,October,Q1
+192,Joyce,Chaney,joyce.chaney,10,AI,99 Acquisition Group  - Equity Warrant,shane.foley,Google Cloud Certified - Associate Cloud Engineer,10/16/2023,Passed,Yes,Passed,,,10/16/2026,FY24,October,Q1
+193,Angelica,Schaefer,angelica.schaefer,10,AI,9F  - Depositary Receipt (Common Stock),collin.ayers,Microsoft Certified: Azure AI Fundamentals,10/28/2023,Passed,Yes,Passed,,,10/28/2026,FY24,October,Q1
+194,Marcia,Horton,marcia.horton,10,AI,A SPAC II Acquisition Corp,sherry.young,Google Cloud Certified - Associate Cloud Engineer,7/31/2023,Passed,Yes,Passed,,,7/31/2026,FY23,July,Q4
+195,Sydney,Barr,sydney.barr,10,AI,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Google Cloud Certified - Associate Cloud Engineer,5/23/2023,Passed,Yes,Passed,,,5/23/2026,FY23,May,Q3
+196,Jay,Hodge,jay.hodge,10,AI,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,Google Cloud Certified - Associate Cloud Engineer,5/7/2023,Passed,Yes,Passed,,,5/7/2026,FY23,May,Q3
+197,Angela,Jackson,angela.jackson,10,AI,A&W Revenue Royalties Income Fund,lynn.atkinson,Google Cloud Certified - Associate Cloud Engineer,5/3/2023,Passed,Yes,Passed,,,5/3/2026,FY23,May,Q3
+198,Bethany,Barrera,bethany.barrera,10,AI,A-Mark Precious Metals,fred.guerra,Amazon Web Services (AWS) Certified Cloud Practitioner,10/11/2023,Passed,Yes,Passed,,,10/11/2026,FY24,October,Q1
+199,Cindy,Valenzuela,cindy.valenzuela,10,AI,A-Sonic Aerospace ,yvonne.farmer,Google Cloud Certified - Associate Cloud Engineer,3/17/2023,Passed,Yes,Passed,,,3/17/2026,FY23,March,Q3
+200,Christine,Camacho,christine.camacho,10,AI,A O Smith Corporation,clarence.haynes,Google Cloud Certified - Associate Cloud Engineer,2/10/2023,Passed,Yes,Passed,,,2/10/2026,FY23,February,Q2
+201,Tyrone,Hendrix,tyrone.hendrix,10,AI,Yangtze River Port and Logistics ,sheryl.baxter,Google Cloud Certified - Associate Cloud Engineer,1/23/2023,Passed,Yes,Passed,,,1/23/2026,FY23,January,Q2
+202,Roy,Gould,roy.gould,10,AI,YanGuFang International Group ,preston.lozano,Microsoft Certified: Azure Data Scientist Associate,7/8/2023,In progress - 2nd take,Requested,Failed/For Retake,7/12/2024,,,FY23,July,Q4
+203,Matthew,Mann,matthew.mann,10,AI,Yangzijiang Financial Holding ,roy.berry,Microsoft Certified: Azure AI Engineer Associate,9/1/2023,In progress - 2nd take,Requested,Failed/For Retake,10/12/2023,,,FY24,September,Q1
+204,Taylor,Torres,taylor.torres,10,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Microsoft Certified: Azure AI Engineer Associate,6/13/2023,In progress - 2nd take,Requested,Failed/For Retake,7/12/2024,,,FY23,June,Q4
+205,Hannah,Waller,hannah.waller,10,AI,Yankuang Energy Group Company ,joanna.bender,Microsoft Certified: Azure AI Engineer Associate,12/11/2023,In progress - 2nd take,Requested,Failed/For Retake,7/12/2024,,,FY24,December,Q2
+206,Randy,Cannon,randy.cannon,10,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Microsoft Certified: Azure AI Engineer Associate,8/3/2023,In progress - 2nd take,Requested,Failed/For Retake,7/15/2024,,,FY23,August,Q4
+207,Adrienne,Hunter,adrienne.hunter,10,AI,01 Communique Laboratory ,darren.peck,Microsoft Certified: Azure Data Scientist Associate,6/7/2024,In progress - 2nd take,Requested,Failed/For Retake,7/15/2024,,,FY24,June,Q4
+208,Raven,Weaver,raven.weaver,10,AI,0187279 BC ,brett.mullen,Microsoft Certified: Azure AI Engineer Associate,8/1/2023,In progress - 2nd take,Requested,Failed/For Retake,7/15/2024,,,FY23,August,Q4
+209,Isaac,Murillo,isaac.murillo,10,AI,1-800-FLOWERSCOM,sheryl.meyers,Databricks - Databricks Certified Data Engineer Associate,12/6/2023,In progress - 1st take,Yes,,,,,FY24,December,Q2
+210,Kelly,Branch,kelly.branch,10,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Databricks - Databricks Certified Data Engineer Associate,10/11/2023,In progress - 1st take,Yes,,,,,FY24,October,Q1
+211,Chelsey,Larson,chelsey.larson,10,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Databricks - Databricks Certified Data Engineer Associate,3/9/2024,In progress - 1st take,Yes,,,,,FY24,March,Q3
+212,Rick,Marquez,rick.marquez,10,AI,10x Genomics,jenna.dodson,SnowPro Core Certification,7/28/2023,In progress - 1st take,Requested,,,,,FY23,July,Q4
+213,Tricia,Mckee,tricia.mckee,10,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Databricks - Databricks Certified Data Engineer Associate,5/25/2023,In progress - 1st take,Requested,,,,,FY23,May,Q3
+214,Rebecca,Blake,rebecca.blake,10,AI,1399 Internet Technology Application Group ,kristine.cox,Google Cloud Certified - Associate Cloud Engineer,7/31/2023,In progress - 1st take,Requested,,,,,FY23,July,Q4
+215,Dan,Mcmillan,dan.mcmillan,10,Data,141 Capital,faith.lutz,Amazon Web Services (AWS) Certified Data Analytics - Specialty,2/6/2024,In progress - 1st take,Yes,,,,,FY24,February,Q2
+216,Sabrina,Hill,sabrina.hill,10,Data,1511419 Ontario ,miranda.beasley,Microsoft Certified: Power Platform Fundamentals,6/17/2023,Passed,Yes,Passed,,,6/17/2026,FY23,June,Q4
+217,Victoria,Walter,victoria.walter,10,Data,1606 Corp,caroline.foley,Google Cloud Certified - Cloud Digital Leader,8/23/2023,Passed,Yes,Passed,,,8/23/2026,FY23,August,Q4
+218,Jorge,Hendrix,jorge.hendrix,10,Data,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Google Cloud Certified - Cloud Digital Leader,8/21/2023,Passed,Yes,Passed,,,8/21/2026,FY23,August,Q4
+219,Jodi,Fox,jodi.fox,10,Data,180 Degree Capital Corp,clifford.jacobson,SnowPro Core Certification,5/9/2023,Passed,Yes,Passed,,,5/9/2026,FY23,May,Q3
+220,Sara,Vargas,sara.vargas,10,Data,180 Life Sciences Corp,joanna.kirk,Microsoft Certified: Azure AI Engineer Associate,5/5/2023,Passed,Yes,Passed,,,5/5/2026,FY23,May,Q3
+221,Cynthia,Johns,cynthia.johns,10,Data,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Google Cloud Certified - Cloud Digital Leader,8/14/2023,Passed,Yes,Passed,,,8/14/2026,FY23,August,Q4
+222,Jordan,Hanna,jordan.hanna,10,Data,1812 Brewing Company ,kiara.houston,Google Cloud Certified - Cloud Digital Leader,8/14/2023,Passed,Yes,Passed,,,8/14/2026,FY23,August,Q4
+223,Maurice,Ramsey,maurice.ramsey,10,Data,1847 Holdings LLC,colleen.howard,Google Cloud Certified - Cloud Digital Leader,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+224,Catherine,Nicholson,catherine.nicholson,10,Data,1867 Western Financial Corporation,janet.valenzuela,Google Cloud Certified - Cloud Digital Leader,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+225,Sean,Todd,sean.todd,10,Data,1895 Bancorp of Wisconsin,shane.wilcox,Google Cloud Certified - Cloud Digital Leader,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+226,Lacey,Bond,lacey.bond,10,Data,1911 Gold Corporation,marcus.moody,Google Cloud Certified - Cloud Digital Leader,8/9/2023,Passed,Yes,Passed,,,8/9/2026,FY23,August,Q4
+227,Katelyn,Wise,katelyn.wise,10,Data,1933 Industries ,dakota.poole,Microsoft Certified: Azure Fundamentals,2/20/2023,Passed,Yes,Passed,,,2/20/2026,FY23,February,Q2
+228,Christine,Bowers,christine.bowers,10,Data,1CM ,frederick.harper,Microsoft Certified: Azure Fundamentals,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+229,Adam,Levy,adam.levy,10,Data,1mage Software,stefanie.fitzpatrick,Automation Anywhere Certified Advanced RPA Professional (Automation 360) – 2023,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+230,Hayley,Ellison,hayley.ellison,10,Data,1PM Industries,kent.bradshaw,Automation Anywhere Certified Advanced RPA Professional (Automation 360) – 2023,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+231,Vernon,Warner,vernon.warner,10,Data,1st Capital Bancorp,jack.tate,Automation Anywhere Certified Advanced RPA Professional (Automation 360) – 2023,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+232,Fernando,Townsend,fernando.townsend,10,Data,1st Colonial Bancorp,tom.trujillo,Automation Anywhere Certified Advanced RPA Professional (Automation 360),2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+233,Walter,Parsons,walter.parsons,10,Data,1st Federal Savings Bank of SC,gabriel.mejia,Automation Anywhere Certified Advanced RPA Professional (Automation 360),2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+234,Brady,Hill,brady.hill,10,Data,1st NRG Corp,kaitlyn.santana,Automation Anywhere Certified Advanced RPA Professional (Automation 360),2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+235,Loretta,Rice,loretta.rice,10,Data,1st Source Corporation,faith.moon,Google Cloud Certified - Cloud Digital Leader,8/7/2023,Passed,Yes,Passed,,,8/7/2026,FY23,August,Q4
+236,Hannah,Beck,hannah.beck,10,Data,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Microsoft Certified: Power Platform Fundamentals,2/10/2023,Passed,Yes,Passed,,,2/10/2026,FY23,February,Q2
+237,Jocelyn,Stephens,jocelyn.stephens,10,Data,1stdibsCom,nicholas.sosa,Google Cloud Certified - Cloud Digital Leader,8/5/2023,Passed,Yes,Passed,,,8/5/2026,FY23,August,Q4
+238,Benjamin,Chan,benjamin.chan,10,Data,2020 Bulkers ,jordan.gay,Microsoft Certified: Azure Fundamentals,2/6/2023,Passed,Yes,Passed,,,2/6/2026,FY23,February,Q2
+239,Caroline,Clarke,caroline.clarke,10,Data,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google Cloud Certified - Cloud Digital Leader,8/5/2023,Passed,Yes,Passed,,,8/5/2026,FY23,August,Q4
+240,Cameron,Forbes,cameron.forbes,10,Data,22nd Century ,sherry.garza,Amazon Web Services (AWS) Certified Developer - Associate,1/29/2023,Passed,Yes,Passed,,,1/29/2026,FY23,January,Q2
+241,Wyatt,Mclean,wyatt.mclean,10,Data,23andMe Holding ,natalie.gentry,Amazon Web Services (AWS) Certified Cloud Practitioner,1/29/2023,Passed,Yes,Passed,,,1/29/2026,FY23,January,Q2
+242,Kendra,Waters,kendra.waters,10,Data,24SevenOffice Group AB (publ),bryan.dunn,Microsoft Certified: Azure Fundamentals,1/25/2023,Passed,Yes,Passed,,,1/25/2026,FY23,January,Q2
+243,Tom,Bradley,tom.bradley,10,Data,286 Lenox Partners LLC,wayne.simpson,Databricks - Databricks Certified Data Engineer Associate,1/6/2023,Passed,Yes,Passed,,,1/6/2026,FY22,January,Q2
+244,Adrian,Frazier,adrian.frazier,10,Data,29Metals ,luis.greer,Google Cloud Certified - Cloud Digital Leader,7/30/2023,Passed,Yes,Passed,,,7/30/2026,FY23,July,Q4
+245,Beverly,Kirby,beverly.kirby,10,Data,2seventy bio,rhonda.frost,Google Cloud Certified - Cloud Digital Leader,7/29/2023,Passed,Yes,Passed,,,7/29/2026,FY23,July,Q4
+246,Priscilla,Stuart,priscilla.stuart,10,Data,2U,joanne.montes,Google Cloud Certified - Cloud Digital Leader,7/29/2023,Passed,Yes,Passed,,,7/29/2026,FY23,July,Q4
+247,Roberto,Hogan,roberto.hogan,10,Data,3 Sixty Risk Solutions ,geoffrey.guzman,Google Cloud Certified - Cloud Digital Leader,7/29/2023,Passed,Yes,Passed,,,7/29/2026,FY23,July,Q4
+248,Victor,Rogers,victor.rogers,10,Data,361 Degrees International ,gloria.mccall,Google Cloud Certified - Cloud Digital Leader,7/29/2023,Passed,Yes,Passed,,,7/29/2026,FY23,July,Q4
+249,Alisha,Gallegos,alisha.gallegos,10,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google Cloud Certified - Cloud Digital Leader,6/27/2023,Passed,Yes,Passed,,,6/27/2026,FY23,June,Q4
+250,Stefanie,Fuller,stefanie.fuller,10,Data,37 Capital ,latoya.mccann,Microsoft Certified: Power Platform Fundamentals,12/8/2022,Passed,Yes,Passed,,,12/8/2025,FY23,December,Q2
+251,Jackson,Grimes,jackson.grimes,10,Data,374Water ,gerald.hawkins,Microsoft Certified: Azure Data Engineer Associate,12/5/2022,Passed,Yes,Passed,,,12/5/2025,FY23,December,Q2
+252,Miranda,Robles,miranda.robles,10,Data,3D Pioneer Systems ,samuel.crawford,Amazon Web Services (AWS) Certified Cloud Practitioner,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+253,Gilbert,Bowers,gilbert.bowers,10,Data,3D Systems Corporation,patricia.goodwin,Microsoft Certified: Azure AI Engineer Associate,11/26/2022,Passed,Yes,Passed,,,11/26/2025,FY23,November,Q1
+254,Jon,Gay,jon.gay,10,Data,3DShoppingcom,stacie.richard,Amazon Web Services (AWS) Certified Cloud Practitioner,11/18/2022,Passed,Yes,Passed,,,11/18/2025,FY23,November,Q1
+255,Julia,Davila,julia.davila,10,Data,3DX Industries,robin.west,Microsoft Certified: Azure Fundamentals,11/15/2022,Passed,Yes,Passed,,,11/15/2025,FY23,November,Q1
+256,Aaron,Potts,aaron.potts,10,Data,3i Group plc,ralph.haas,Amazon Web Services (AWS) Certified Cloud Practitioner,11/12/2022,Passed,Yes,Passed,,,11/12/2025,FY23,November,Q1
+257,Rachael,Jimenez,rachael.jimenez,10,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Amazon Web Services (AWS) Certified Developer - Associate,11/11/2022,Passed,Yes,Passed,,,11/11/2025,FY23,November,Q1
+258,Lucas,Macdonald,lucas.macdonald,10,Data,3iQ Bitcoin ETF,danny.parrish,Amazon Web Services (AWS) Certified Cloud Practitioner,11/11/2022,Passed,Yes,Passed,,,11/11/2025,FY23,November,Q1
+259,Kristopher,Sanders,kristopher.sanders,10,Data,3M Company,kathy.hill,Amazon Web Services (AWS) Certified Cloud Practitioner,11/11/2022,Passed,Yes,Passed,,,11/11/2025,FY23,November,Q1
+260,Alexandria,Hutchinson,alexandria.hutchinson,10,Data,3Power Energy ,kelli.hardy,Amazon Web Services (AWS) Certified Solutions Architect - Associate,11/8/2022,Passed,Yes,Passed,,,11/8/2025,FY23,November,Q1
+261,Natasha,Schmitt,natasha.schmitt,10,Data,3SBio ,lynn.pham,Amazon Web Services (AWS) Certified Cloud Practitioner,10/30/2022,Passed,Yes,Passed,,,10/30/2025,FY23,October,Q1
+262,Jose,Acosta,jose.acosta,10,Data,420 Property Management,shelley.harris,Microsoft Certified: Azure Fundamentals,10/27/2022,Passed,Yes,Passed,,,10/27/2025,FY23,October,Q1
+263,Cassidy,Dominguez,cassidy.dominguez,10,Data,49 North Resources ,eddie.jimenez,Microsoft Certified: Azure Fundamentals,10/21/2022,Passed,Yes,Passed,,,10/21/2025,FY23,October,Q1
+264,Debbie,Savage,debbie.savage,10,Data,4Cable TV International,chloe.hutchinson,Microsoft Certified: Azure Fundamentals,10/13/2022,Passed,Yes,Passed,,,10/13/2025,FY23,October,Q1
+265,Felicia,Burnett,felicia.burnett,10,Data,4D Molecular Therapeutics,eileen.lynch,Microsoft Certified: Azure Fundamentals,10/13/2022,Passed,Yes,Passed,,,10/13/2025,FY23,October,Q1
+266,Hayley,Gutierrez,hayley.gutierrez,10,Data,4D pharma plc - Equity Warrant,fernando.lambert,Microsoft Certified: Azure Fundamentals,10/13/2022,Passed,Yes,Passed,,,10/13/2025,FY23,October,Q1
+267,Melinda,Parrish,melinda.parrish,10,Data,4DMedical ,makayla.cannon,Microsoft Certified: Azure Fundamentals,10/12/2022,Passed,Yes,Passed,,,10/12/2025,FY23,October,Q1
+268,Jeremy,Keith,jeremy.keith,10,Data,4DS Memory ,tom.alvarado,Amazon Web Services (AWS) Certified Cloud Practitioner,10/8/2022,Passed,Yes,Passed,,,10/8/2025,FY23,October,Q1
+269,James,Washington,james.washington,10,Data,4Front Ventures Corp,virginia.dudley,Amazon Web Services (AWS) Certified Cloud Practitioner,10/3/2022,Passed,Yes,Passed,,,10/3/2025,FY23,October,Q1
+270,Karen,Leblanc,karen.leblanc,10,Data,4imprint Group plc,riley.good,Amazon Web Services (AWS) Certified Cloud Practitioner,9/29/2022,Passed,Yes,Passed,,,9/29/2025,FY23,September,Q1
+271,Ivan,Malone,ivan.malone,10,Data,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Amazon Web Services (AWS) Certified Solutions Architect - Associate,9/23/2022,Passed,Yes,Passed,,,9/23/2025,FY23,September,Q1
+272,Jesus,Cox,jesus.cox,10,Data,5:01 Acquisition Corp,richard.roth,Amazon Web Services (AWS) Certified Cloud Practitioner,9/23/2022,Passed,Yes,Passed,,,9/23/2025,FY23,September,Q1
+273,Michelle,Lowery,michelle.lowery,10,Data,5E Advanced Materials,candice.keller,Google Cloud Certified - Cloud Digital Leader,4/14/2023,Passed,Yes,Passed,,,4/14/2026,FY23,April,Q3
+274,Paul,Meyers,paul.meyers,10,Data,5G Networks ,anita.benson,Google Cloud Certified - Cloud Digital Leader,3/8/2023,Passed,Yes,Passed,,,3/8/2026,FY23,March,Q3
+275,Eileen,Graves,eileen.graves,10,Data,5N Plus ,regina.stein,Google Cloud Certified - Cloud Digital Leader,3/6/2023,Passed,Yes,Passed,,,3/6/2026,FY23,March,Q3
+276,Christian,Jennings,christian.jennings,10,Data,5th Planet Games A/S,debra.riddle,Google Cloud Certified - Cloud Digital Leader,3/3/2023,Passed,Yes,Passed,,,3/3/2026,FY23,March,Q3
+277,Don,Hendrix,don.hendrix,10,Data,60 Degrees Pharmaceuticals,brittany.zuniga,Google Cloud Certified - Cloud Digital Leader,3/3/2023,Passed,Yes,Passed,,,3/3/2026,FY23,March,Q3
+278,Dominique,Summers,dominique.summers,10,Data,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Google Cloud Certified - Cloud Digital Leader,3/1/2023,Passed,Yes,Passed,,,3/1/2026,FY23,March,Q3
+279,Wayne,Anderson,wayne.anderson,10,Data,727 Communications,laurie.pennington,Google Cloud Certified - Cloud Digital Leader,3/1/2023,Passed,Yes,Passed,,,3/1/2026,FY23,March,Q3
+280,Chloe,Franklin,chloe.franklin,10,Data,79North ,alejandro.blair,Google Cloud Certified - Cloud Digital Leader,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+281,Carolyn,Hendrix,carolyn.hendrix,10,Data,7C Solarparken AG,leslie.jennings,Google Cloud Certified - Cloud Digital Leader,11/16/2022,Passed,Yes,Passed,,,11/16/2025,FY23,November,Q1
+282,Isaiah,Buckley,isaiah.buckley,10,Data,8000 Inc,kathleen.mckay,Google Cloud Certified - Cloud Digital Leader,9/29/2022,Passed,Yes,Passed,,,9/29/2025,FY23,September,Q1
+283,Gina,Townsend,gina.townsend,10,Data,808 Renewable Energy Corporation,hunter.moreno,Google Cloud Certified - Cloud Digital Leader,9/9/2022,Passed,Yes,Passed,,,9/9/2025,FY23,September,Q1
+284,Stefanie,Grant,stefanie.grant,10,Data,88 Energy ,chad.davidson,Google Cloud Certified - Professional Cloud Architect,12/23/2023,Passed,Yes,Passed,,,12/23/2026,FY24,December,Q2
+285,Cole,Combs,cole.combs,10,Data,89bio,corey.holt,Google Cloud Certified - Professional Data Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+286,Suzanne,Pope,suzanne.pope,10,Data,8x8,emma.cunningham,Google Cloud Certified - Professional Google Workspace Administrator,5/3/2024,Passed,Yes,Passed,,,5/3/2027,FY24,May,Q3
+287,Gabriel,Green,gabriel.green,10,Data,9 Meters Biopharma,duane.woods,AWS Certified Developer - Associate,1/3/2024,Not Started,No,,,,,FY24,January,Q2
+288,Jeanne,Atkinson,jeanne.atkinson,10,Data,908 Devices ,alison.vargas,Google - Professional Cloud Data Engineer,11/24/2023,Not Started,No,,,,,FY24,November,Q1
+289,Lindsay,Ferguson,lindsay.ferguson,10,Data,9342-8530 Québec ,vernon.kane,AWS Certified Developer - Associate,9/17/2023,Not Started,No,,,,,FY24,September,Q1
+290,Ronald,Byrd,ronald.byrd,10,Data,99 Acquisition Group ,lori.flowers,AWS Certified Solutions Architect - Associate,7/9/2023,Not Started,No,,,,,FY23,July,Q4
+291,Marco,Holden,marco.holden,10,Data,99 Acquisition Group  - Equity Right,nina.chavez,Google Cloud Certified - Associate Cloud Engineer,6/2/2023,Passed,Yes,Passed,,,6/2/2026,FY23,June,Q4
+292,Isabel,English,isabel.english,10,Data,99 Acquisition Group  - Equity Warrant,shane.foley,Google Cloud Certified - Associate Cloud Engineer,5/16/2023,Passed,Yes,Passed,,,5/16/2026,FY23,May,Q3
+293,Nichole,Green,nichole.green,10,Data,9F  - Depositary Receipt (Common Stock),collin.ayers,Google Cloud Certified - Associate Cloud Engineer,3/27/2023,Passed,Yes,Passed,,,3/27/2026,FY23,March,Q3
+294,Joann,Gonzales,joann.gonzales,10,Data,A SPAC II Acquisition Corp,sherry.young,Google Cloud Certified - Associate Cloud Engineer,3/24/2023,Passed,Yes,Passed,,,3/24/2026,FY23,March,Q3
+295,Francis,Miller,francis.miller,10,Data,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Google Cloud Certified - Associate Cloud Engineer,3/1/2023,Passed,Yes,Passed,,,3/1/2026,FY23,March,Q3
+296,Stuart,Valdez,stuart.valdez,10,Data,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,Google Cloud Certified - Associate Cloud Engineer,3/1/2023,Passed,Yes,Passed,,,3/1/2026,FY23,March,Q3
+297,Tricia,Berg,tricia.berg,10,Data,A&W Revenue Royalties Income Fund,lynn.atkinson,Google Cloud Certified - Associate Cloud Engineer,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+298,Roger,Bauer,roger.bauer,10,Data,A-Mark Precious Metals,fred.guerra,Google Cloud Certified - Associate Cloud Engineer,12/30/2022,Passed,Yes,Passed,,,12/30/2025,FY23,December,Q2
+299,Tanner,Hernandez,tanner.hernandez,10,Data,A-Sonic Aerospace ,yvonne.farmer,Google Cloud Certified - Associate Cloud Engineer,12/26/2022,Passed,Yes,Passed,,,12/26/2025,FY23,December,Q2
+300,Ellen,Cisneros,ellen.cisneros,10,Data,A O Smith Corporation,clarence.haynes,Google Cloud Certified - Associate Cloud Engineer,12/23/2022,Passed,Yes,Passed,,,12/23/2025,FY23,December,Q2
+301,Latasha,Hancock,latasha.hancock,10,Data,Yangtze River Port and Logistics ,sheryl.baxter,Google Cloud Certified - Associate Cloud Engineer,12/23/2022,Passed,Yes,Passed,,,12/23/2025,FY23,December,Q2
+302,Jenna,Lamb,jenna.lamb,10,Data,YanGuFang International Group ,preston.lozano,Google Cloud Certified - Associate Cloud Engineer,12/20/2022,Passed,Yes,Passed,,,12/20/2025,FY23,December,Q2
+303,Francis,Ball,francis.ball,10,Data,Yangzijiang Financial Holding ,roy.berry,Google Cloud Certified - Associate Cloud Engineer,12/19/2022,Passed,Yes,Passed,,,12/19/2025,FY23,December,Q2
+304,Jade,Archer,jade.archer,10,Data,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Google Cloud Certified - Associate Cloud Engineer,12/19/2022,Passed,Yes,Passed,,,12/19/2025,FY23,December,Q2
+305,Zachary,Parker,zachary.parker,10,Data,Yankuang Energy Group Company ,joanna.bender,Google Cloud Certified - Associate Cloud Engineer,12/15/2022,Passed,Yes,Passed,,,12/15/2025,FY23,December,Q2
+306,Karen,Kent,karen.kent,10,Data,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Google Cloud Certified - Associate Cloud Engineer,12/2/2022,Passed,Yes,Passed,,,12/2/2025,FY23,December,Q2
+307,Joshua,Dalton,joshua.dalton,10,Data,01 Communique Laboratory ,darren.peck,Google Cloud Certified - Associate Cloud Engineer,11/22/2022,Passed,Yes,Passed,,,11/22/2025,FY23,November,Q1
+308,Kiara,Ashley,kiara.ashley,10,Data,0187279 BC ,brett.mullen,Google Cloud Certified - Associate Cloud Engineer,11/18/2022,Passed,Yes,Passed,,,11/18/2025,FY23,November,Q1
+309,Doris,Greene,doris.greene,10,Data,1-800-FLOWERSCOM,sheryl.meyers,Google Cloud Certified - Associate Cloud Engineer,11/14/2022,Passed,Yes,Passed,,,11/14/2025,FY23,November,Q1
+310,Helen,Kaiser,helen.kaiser,10,Data,10X Capital Venture Acquisition Corp III,michelle.gallagher,Databricks - Databricks Certified Data Engineer Associate,9/18/2023,Passed,Yes,Passed,,,9/18/2026,FY23,September,Q1
+311,Ariel,Francis,ariel.francis,10,Data,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Amazon Web Services (AWS) Certified Developer - Associate,8/25/2023,Passed,Yes,Passed,,,8/25/2026,FY23,August,Q4
+312,Heidi,Singleton,heidi.singleton,10,Data,10x Genomics,jenna.dodson,Microsoft Certified: Azure Data Engineer Associate,6/30/2023,Passed,Yes,Passed,,,6/30/2026,FY23,June,Q4
+313,Guy,Keller,guy.keller,10,Data,111 - Depositary Receipt (Common Stock),tracey.mata,Amazon Web Services (AWS) Certified Solutions Architect - Associate,6/18/2023,Passed,Yes,Passed,,,6/18/2026,FY23,June,Q4
+314,Meghan,Moses,meghan.moses,10,Data,1399 Internet Technology Application Group ,kristine.cox,Microsoft Certified: Power BI Data Analyst Associate,6/17/2023,Passed,Yes,Passed,,,6/17/2026,FY23,June,Q4
+315,Jodi,Moran,jodi.moran,10,Data,141 Capital,faith.lutz,Amazon Web Services (AWS) Certified Solutions Architect - Associate,6/17/2023,Passed,Yes,Passed,,,6/17/2026,FY23,June,Q4
+316,Heather,York,heather.york,10,Data,1511419 Ontario ,miranda.beasley,Microsoft Certified: Power BI Data Analyst Associate,6/15/2023,Passed,Yes,Passed,,,6/15/2026,FY23,June,Q4
+317,Gail,Salazar,gail.salazar,10,Data,1606 Corp,caroline.foley,Amazon Web Services (AWS) Certified SysOps Administrator - Associate,6/15/2023,Passed,Yes,Passed,,,6/15/2026,FY23,June,Q4
+318,Tammy,Cantu,tammy.cantu,10,Data,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Amazon Web Services (AWS) Certified Developer - Associate,6/3/2023,Passed,Yes,Passed,,,6/3/2026,FY23,June,Q4
+319,Olivia,Mcgrath,olivia.mcgrath,10,Data,180 Degree Capital Corp,clifford.jacobson,Amazon Web Services (AWS) Certified Developer - Associate,5/19/2023,Passed,Yes,Passed,,,5/19/2026,FY23,May,Q3
+320,Michele,Case,michele.case,10,Data,180 Life Sciences Corp,joanna.kirk,Amazon Web Services (AWS) Certified Solutions Architect - Associate,5/13/2023,Passed,Yes,Passed,,,5/13/2026,FY23,May,Q3
+321,Matthew,Brock,matthew.brock,10,Data,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Amazon Web Services (AWS) Certified Solutions Architect - Associate,4/17/2023,Passed,Yes,Passed,,,4/17/2026,FY23,April,Q3
+322,Jenna,Henry,jenna.henry,10,Data,1812 Brewing Company ,kiara.houston,Microsoft Certified: Azure Data Engineer Associate,4/10/2023,Passed,Yes,Passed,,,4/10/2026,FY23,April,Q3
+323,Kristina,Hunter,kristina.hunter,10,Data,1847 Holdings LLC,colleen.howard,Microsoft Certified: Azure Data Engineer Associate,4/7/2023,Passed,Yes,Passed,,,4/7/2026,FY23,April,Q3
+324,Shirley,Bowman,shirley.bowman,10,Data,1867 Western Financial Corporation,janet.valenzuela,Databricks - Databricks Certified Data Engineer Associate,3/22/2023,Passed,Yes,Passed,,,3/22/2026,FY23,March,Q3
+325,Allison,Walter,allison.walter,10,Data,1895 Bancorp of Wisconsin,shane.wilcox,Amazon Web Services (AWS) Certified Solutions Architect - Associate,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+326,Frances,Beltran,frances.beltran,10,Data,1911 Gold Corporation,marcus.moody,Microsoft Certified: Azure Data Engineer Associate,1/30/2023,Passed,Yes,Passed,,,1/30/2026,FY23,January,Q2
+327,Bailey,Waters,bailey.waters,10,Data,1933 Industries ,dakota.poole,Microsoft Certified: Power BI Data Analyst Associate,1/15/2023,Passed,Yes,Passed,,,1/15/2026,FY23,January,Q2
+328,Jeanne,Horn,jeanne.horn,10,Data,1CM ,frederick.harper,Microsoft Certified: Azure Data Engineer Associate,1/11/2023,Passed,Yes,Passed,,,1/11/2026,FY23,January,Q2
+329,Jermaine,Hodges,jermaine.hodges,10,Data,1mage Software,stefanie.fitzpatrick,Amazon Web Services (AWS) Certified Developer - Associate,12/30/2022,Passed,Yes,Passed,,,12/30/2025,FY23,December,Q2
+330,Jeremy,Clayton,jeremy.clayton,10,Data,1PM Industries,kent.bradshaw,Amazon Web Services (AWS) Certified Developer - Associate,12/30/2022,Passed,Yes,Passed,,,12/30/2025,FY23,December,Q2
+331,Tracey,Hardy,tracey.hardy,10,Data,1st Capital Bancorp,jack.tate,Amazon Web Services (AWS) Certified Solutions Architect - Associate,12/27/2022,Passed,Yes,Passed,,,12/27/2025,FY23,December,Q2
+332,Leslie,Mcmahon,leslie.mcmahon,10,Data,1st Colonial Bancorp,tom.trujillo,Microsoft Certified: Azure Database Administrator Associate,12/3/2022,Passed,Yes,Passed,,,12/3/2025,FY23,December,Q2
+333,Peter,Moore,peter.moore,10,Data,1st Federal Savings Bank of SC,gabriel.mejia,Amazon Web Services (AWS) Certified Developer - Associate,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+334,Ian,Krueger,ian.krueger,10,Data,1st NRG Corp,kaitlyn.santana,Microsoft Certified: Azure Data Engineer Associate,11/29/2022,Passed,Yes,Passed,,,11/29/2025,FY23,November,Q1
+335,Crystal,Choi,crystal.choi,10,Data,1st Source Corporation,faith.moon,Microsoft Certified: Azure Data Engineer Associate,11/26/2022,Passed,Yes,Passed,,,11/26/2025,FY23,November,Q1
+336,Lydia,Peterson,lydia.peterson,10,Data,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Amazon Web Services (AWS) Certified Solutions Architect - Associate,11/19/2022,Passed,Yes,Passed,,,11/19/2025,FY23,November,Q1
+337,Douglas,Waters,douglas.waters,10,Data,1stdibsCom,nicholas.sosa,Amazon Web Services (AWS) Certified Developer - Associate,11/14/2022,Passed,Yes,Passed,,,11/14/2025,FY23,November,Q1
+338,Tonya,Bond,tonya.bond,10,Data,2020 Bulkers ,jordan.gay,Microsoft Certified: Power BI Data Analyst Associate,10/29/2022,Passed,Yes,Passed,,,10/29/2025,FY23,October,Q1
+339,Caleb,Henson,caleb.henson,10,Data,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Amazon Web Services (AWS) Certified Solutions Architect - Associate,10/28/2022,Passed,Yes,Passed,,,10/28/2025,FY23,October,Q1
+340,Tristan,Lynch,tristan.lynch,10,Data,22nd Century ,sherry.garza,Amazon Web Services (AWS) Certified Solutions Architect - Associate,10/20/2022,Passed,Yes,Passed,,,10/20/2025,FY23,October,Q1
+341,Tami,Mendoza,tami.mendoza,10,Data,23andMe Holding ,natalie.gentry,Microsoft Certified: Azure Administrator Associate,10/14/2022,Passed,Yes,Passed,,,10/14/2025,FY23,October,Q1
+342,Leslie,Howe,leslie.howe,10,Data,24SevenOffice Group AB (publ),bryan.dunn,Amazon Web Services (AWS) Certified Developer - Associate,9/19/2022,Passed,Yes,Passed,,,9/19/2025,FY23,September,Q1
+343,Luke,Perez,luke.perez,10,Data,286 Lenox Partners LLC,wayne.simpson,Amazon Web Services (AWS) Certified Solutions Architect - Associate,9/11/2022,Passed,Yes,Passed,,,9/11/2025,FY23,September,Q1
+344,Gina,Rowe,gina.rowe,10,Data,29Metals ,luis.greer,Amazon Web Services (AWS) Certified Solutions Architect - Associate,9/10/2022,Passed,Yes,Passed,,,9/10/2025,FY23,September,Q1
+345,Darius,Riggs,darius.riggs,10,Data,2seventy bio,rhonda.frost,Microsoft Certified: Azure Administrator Associate,9/3/2022,Passed,Yes,Passed,,,9/3/2025,FY23,September,Q1
+346,Hailey,Hart,hailey.hart,10,Data,2U,joanne.montes,Google Cloud Certified - Associate Cloud Engineer,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+347,Larry,Paul,larry.paul,10,Data,3 Sixty Risk Solutions ,geoffrey.guzman,Google Cloud Certified - Associate Cloud Engineer,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+348,Krystal,Woods,krystal.woods,10,Data,361 Degrees International ,gloria.mccall,Databricks - Databricks Certified Data Engineer Associate,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+349,Tabitha,Reilly,tabitha.reilly,10,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google Cloud Certified - Associate Cloud Engineer,12/1/2023,Passed,Yes,Passed,,,12/1/2026,FY24,December,Q2
+350,Roberta,Quinn,roberta.quinn,10,Data,37 Capital ,latoya.mccann,Google Cloud Certified - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+351,Reginald,Pitts,reginald.pitts,10,Data,374Water ,gerald.hawkins,Microsoft Certified: Azure Data Engineer Associate,12/3/2023,Passed,Yes,Passed,,,12/3/2026,FY24,December,Q2
+352,Jesus,Rogers,jesus.rogers,10,Data,3D Pioneer Systems ,samuel.crawford,Google Cloud Certified - Associate Cloud Engineer,11/28/2023,Passed,Yes,Passed,,,11/28/2026,FY24,November,Q1
+353,Roberto,Roy,roberto.roy,10,Data,3D Systems Corporation,patricia.goodwin,Google Cloud Certified - Associate Cloud Engineer,11/26/2023,Passed,Yes,Passed,,,11/26/2026,FY24,November,Q1
+354,Jillian,Mccullough,jillian.mccullough,10,Data,3DShoppingcom,stacie.richard,Google Cloud Certified - Associate Cloud Engineer,11/24/2023,Passed,Yes,Passed,,,11/24/2026,FY24,November,Q1
+355,Alan,Valenzuela,alan.valenzuela,10,Data,3DX Industries,robin.west,Google Cloud Certified - Associate Cloud Engineer,11/22/2023,Passed,Yes,Passed,,,11/22/2026,FY24,November,Q1
+356,Kristy,Dixon,kristy.dixon,10,Data,3i Group plc,ralph.haas,Google Cloud Certified - Associate Cloud Engineer,5/19/2023,Passed,Yes,Passed,,,5/19/2026,FY23,May,Q3
+357,Henry,Holland,henry.holland,10,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Google Cloud Certified - Associate Cloud Engineer,5/13/2023,Passed,Yes,Passed,,,5/13/2026,FY23,May,Q3
+358,Diana,Cox,diana.cox,10,Data,3iQ Bitcoin ETF,danny.parrish,Google Cloud Certified - Associate Cloud Engineer,4/17/2023,Passed,Yes,Passed,,,4/17/2026,FY23,April,Q3
+359,Sara,Middleton,sara.middleton,10,Data,3M Company,kathy.hill,Google Cloud Certified - Associate Cloud Engineer,4/10/2023,Passed,Yes,Passed,,,4/10/2026,FY23,April,Q3
+360,Jade,Jimenez,jade.jimenez,10,Data,3Power Energy ,kelli.hardy,Databricks - Databricks Certified Data Engineer Associate,4/7/2023,Passed,Yes,Passed,,,4/7/2026,FY23,April,Q3
+361,Carmen,Mcclain,carmen.mcclain,10,Data,3SBio ,lynn.pham,Amazon Web Services (AWS) Certified Developer - Associate,3/22/2023,Passed,Yes,Passed,,,3/22/2026,FY23,March,Q3
+362,Wanda,Sanchez,wanda.sanchez,10,Data,420 Property Management,shelley.harris,Microsoft Certified: Azure Data Engineer Associate,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+363,Valerie,Wilcox,valerie.wilcox,10,Data,49 North Resources ,eddie.jimenez,Amazon Web Services (AWS) Certified Solutions Architect - Associate,1/30/2023,Passed,Yes,Passed,,,1/30/2026,FY23,January,Q2
+364,Chloe,Hurst,chloe.hurst,10,Data,4Cable TV International,chloe.hutchinson,Microsoft Certified: Power BI Data Analyst Associate,1/15/2023,Passed,Yes,Passed,,,1/15/2026,FY23,January,Q2
+365,Virginia,Goodman,virginia.goodman,10,Data,4D Molecular Therapeutics,eileen.lynch,Amazon Web Services (AWS) Certified Solutions Architect - Associate,1/11/2023,Passed,Yes,Passed,,,1/11/2026,FY23,January,Q2
+366,Erin,Woods,erin.woods,10,Data,4D pharma plc - Equity Warrant,fernando.lambert,Microsoft Certified: Power BI Data Analyst Associate,12/30/2022,Passed,Yes,Passed,,,12/30/2025,FY23,December,Q2
+367,Cassidy,Bruce,cassidy.bruce,10,Data,4DMedical ,makayla.cannon,Amazon Web Services (AWS) Certified SysOps Administrator - Associate,12/30/2022,Passed,Yes,Passed,,,12/30/2025,FY23,December,Q2
+368,Sally,Hinton,sally.hinton,10,Data,4DS Memory ,tom.alvarado,Amazon Web Services (AWS) Certified Developer - Associate,12/27/2022,Passed,Yes,Passed,,,12/27/2025,FY23,December,Q2
+369,Jessica,Randolph,jessica.randolph,10,Data,4Front Ventures Corp,virginia.dudley,Amazon Web Services (AWS) Certified Developer - Associate,12/3/2022,Passed,Yes,Passed,,,12/3/2025,FY23,December,Q2
+370,Kelly,Hogan,kelly.hogan,10,Data,4imprint Group plc,riley.good,Amazon Web Services (AWS) Certified Solutions Architect - Associate,11/30/2022,Passed,Yes,Passed,,,11/30/2025,FY23,November,Q1
+371,Derek,Chung,derek.chung,10,Data,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Amazon Web Services (AWS) Certified Solutions Architect - Associate,12/27/2022,Passed,Yes,Passed,,,12/27/2025,FY23,December,Q2
+372,Shirley,York,shirley.york,10,Data,5:01 Acquisition Corp,richard.roth,Microsoft Certified: Azure Data Engineer Associate,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+373,Cody,Potts,cody.potts,10,Data,5E Advanced Materials,candice.keller,Microsoft Certified: Azure Data Engineer Associate,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+374,Erin,Gill,erin.gill,10,Data,5G Networks ,anita.benson,Amazon Web Services (AWS) Certified Solutions Architect - Associate,1/7/2024,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY24,January,Q2
+375,Nicole,Vargas,nicole.vargas,10,Data,5N Plus ,regina.stein,Amazon Web Services (AWS) Certified Solutions Architect - Associate,8/14/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY23,August,Q4
+376,Sharon,Mack,sharon.mack,10,Data,5th Planet Games A/S,debra.riddle,Microsoft Certified: Azure Administrator Associate,6/27/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY23,June,Q4
+377,Monica,Lopez,monica.lopez,10,Data,60 Degrees Pharmaceuticals,brittany.zuniga,Amazon Web Services (AWS) Certified Developer - Associate,8/19/2023,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY23,August,Q4
+378,April,Jones,april.jones,10,Data,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Amazon Web Services (AWS) Certified Solutions Architect - Associate,5/13/2024,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY24,May,Q3
+379,Johnny,Reeves,johnny.reeves,10,Data,727 Communications,laurie.pennington,Amazon Web Services (AWS) Certified Solutions Architect - Associate,11/8/2023,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY24,November,Q1
+380,Brandi,Owens,brandi.owens,10,Data,79North ,alejandro.blair,Microsoft Certified: Azure Administrator Associate,4/18/2024,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY24,April,Q3
+381,Max,Rasmussen,max.rasmussen,10,Data,7C Solarparken AG,leslie.jennings,Google Cloud Certified - Associate Cloud Engineer,8/31/2023,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY23,August,Q4
+382,Christian,Moore,christian.moore,10,Data,8000 Inc,kathleen.mckay,Google Cloud Certified - Associate Cloud Engineer,3/8/2024,In progress - 2nd take,Requested,Failed/For Retake,8/9/2024,,,FY24,March,Q3
+383,Tyrone,Holloway,tyrone.holloway,10,Data,808 Renewable Energy Corporation,hunter.moreno,Databricks - Databricks Certified Data Engineer Associate,5/22/2023,In progress - 2nd take,Requested,Failed/For Retake,8/10/2024,,,FY23,May,Q3
+384,Victor,Ferguson,victor.ferguson,10,Data,88 Energy ,chad.davidson,Google Cloud Certified - Associate Cloud Engineer,5/13/2023,In progress - 2nd take,Requested,Failed/For Retake,8/8/2024,,,FY23,May,Q3
+385,Logan,Carroll,logan.carroll,10,Data,89bio,corey.holt,Google Cloud Certified - Associate Cloud Engineer,9/16/2023,Failed,Yes,Failed/For Retake,11/9/2023,Failed,,FY24,September,Q1
+386,Alexis,Hawkins,alexis.hawkins,10,Data,8x8,emma.cunningham,Microsoft Certified: Azure Data Engineer Associate,5/25/2024,Failed,Yes,Failed/For Retake,11/30/2023,Failed,,FY24,May,Q3
+387,Diane,Reid,diane.reid,10,Data,9 Meters Biopharma,duane.woods,Google - Associate Cloud Engineer,1/20/2024,Failed,Yes,Failed/For Retake,3/30/2024,Failed,,FY24,January,Q2
+388,Dylan,Sweeney,dylan.sweeney,10,Data,908 Devices ,alison.vargas,Google - Associate Cloud Engineer,1/12/2024,Failed,Yes,Failed/For Retake,1/30/2023,Failed,,FY24,January,Q2
+389,Craig,Gonzales,craig.gonzales,10,Data,9342-8530 Québec ,vernon.kane,Google - Associate Cloud Engineer,2/13/2024,Failed,Yes,Failed/For Retake,3/6/2024,Failed,,FY24,February,Q2
+390,Jill,Cardenas,jill.cardenas,10,Data,99 Acquisition Group ,lori.flowers,Google - Associate Cloud Engineer,11/17/2023,Failed,Yes,Failed/For Retake,1/7/2024,Failed,,FY24,November,Q1
+391,Timothy,Chambers,timothy.chambers,10,Data,99 Acquisition Group  - Equity Right,nina.chavez,Google - Associate Cloud Engineer,6/2/2023,Failed,Yes,Failed/For Retake,11/30/2023,Failed,,FY23,June,Q4
+392,Jaime,Terrell,jaime.terrell,10,Data,99 Acquisition Group  - Equity Warrant,shane.foley,Google - Associate Cloud Engineer,11/28/2023,Failed,Yes,Failed/For Retake,12/15/2023,Failed,,FY24,November,Q1
+393,Alejandro,Hancock,alejandro.hancock,10,Data,9F  - Depositary Receipt (Common Stock),collin.ayers,Google - Associate Cloud Engineer,5/30/2024,Failed,Yes,Failed/For Retake,11/15/2023,Failed,,FY24,May,Q3
+394,Gregg,Rodriguez,gregg.rodriguez,10,Data,A SPAC II Acquisition Corp,sherry.young,Google - Associate Cloud Engineer,12/15/2023,Failed,Yes,Failed/For Retake,1/15/2024,Failed,,FY24,December,Q2
+395,Deanna,Pacheco,deanna.pacheco,10,Data,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Google - Associate Cloud Engineer,1/26/2024,Failed,Yes,Failed/For Retake,6/1/2024,Failed,,FY24,January,Q2
+396,Mariah,Barton,mariah.barton,10,Data,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,AWS Certified Solutions Architect - Associate,9/8/2023,Failed,Yes,Failed/For Retake,10/31/2023,Failed,,FY24,September,Q1
+397,Valerie,Branch,valerie.branch,10,Data,A&W Revenue Royalties Income Fund,lynn.atkinson,AWS Certified Data Analytics - Specialty,5/19/2023,Not Started,No,,,,,FY23,May,Q3
+398,Jonathan,Norman,jonathan.norman,10,Data,A-Mark Precious Metals,fred.guerra,Google - Associate Cloud Engineer,11/6/2023,Not Started,No,,,,,FY24,November,Q1
+399,Samuel,Drake,samuel.drake,10,Data,A-Sonic Aerospace ,yvonne.farmer,Microsoft - Azure Data Fundamentals,7/3/2023,Not Started,No,,,,,FY23,July,Q4
+400,Riley,Aguirre,riley.aguirre,10,Data,A O Smith Corporation,clarence.haynes,Microsoft - Azure Data Scientist Associate,7/25/2023,Not Started,No,,,,,FY23,July,Q4
+401,Jermaine,Baker,jermaine.baker,9,Data,Yangtze River Port and Logistics ,sheryl.baxter,Microsoft - Azure Data Scientist Associate,11/20/2023,Not Started,No,,,,,FY24,November,Q1
+402,Holly,Hartman,holly.hartman,9,Data,YanGuFang International Group ,preston.lozano,Google - Associate Cloud Engineer,12/7/2023,Not Started,No,,,,,FY24,December,Q2
+403,Haley,Frost,haley.frost,9,Data,Yangzijiang Financial Holding ,roy.berry,Microsoft - Azure Developer Associate,12/13/2023,Not Started,No,,,,,FY24,December,Q2
+404,Lindsay,Crane,lindsay.crane,9,Data,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,AWS Certified Developer - Associate,9/18/2023,Not Started,No,,,,,FY23,September,Q1
+405,Adriana,Bartlett,adriana.bartlett,9,Data,Yankuang Energy Group Company ,joanna.bender,AWS Certified Cloud Practitioner,6/8/2024,Not Started,No,,,,,FY24,June,Q4
+406,Bethany,Ruiz,bethany.ruiz,9,Data,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,AWS Certified Data Analytics - Specialty,5/3/2024,Not Started,No,,,,,FY24,May,Q3
+407,Gabriel,Weaver,gabriel.weaver,9,Data,01 Communique Laboratory ,darren.peck,Google - Associate Cloud Engineer,12/30/2023,Not Started,No,,,,,FY24,December,Q2
+408,Jimmy,Heath,jimmy.heath,9,Data,0187279 BC ,brett.mullen,AWS Certified Developer - Associate,11/16/2023,Not Started,No,,,,,FY24,November,Q1
+409,Craig,Powers,craig.powers,9,Data,1-800-FLOWERSCOM,sheryl.meyers,AWS Certified Solutions Architect - Associate,2/12/2024,Not Started,No,,,,,FY24,February,Q2
+410,Colin,Howard,colin.howard,9,Data,10X Capital Venture Acquisition Corp III,michelle.gallagher,Google - Professional Machine Learning Engineer,2/25/2024,Not Started,No,,,,,FY24,February,Q2
+411,Edgar,Zhang,edgar.zhang,9,Data,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,AWS Certified Developer - Associate,1/9/2024,Not Started,No,,,,,FY24,January,Q2
+412,Carolyn,Lucero,carolyn.lucero,9,Data,10x Genomics,jenna.dodson,AWS Certified Cloud Practitioner,5/17/2024,Passed,Yes,Passed,,,5/17/2027,FY24,May,Q3
+413,Tonya,Parsons,tonya.parsons,9,Data,111 - Depositary Receipt (Common Stock),tracey.mata,Google - Professional Cloud Data Engineer,5/17/2024,Passed,Yes,Passed,,,5/17/2027,FY24,May,Q3
+414,Marc,Small,marc.small,9,Data,1399 Internet Technology Application Group ,kristine.cox,AWS Certified Cloud Practitioner,5/16/2024,Passed,Yes,Passed,,,5/16/2027,FY24,April,Q3
+415,Dakota,Elliott,dakota.elliott,9,Data,141 Capital,faith.lutz,Microsoft - Azure Data Fundamentals,5/13/2024,Passed,Yes,Passed,,,5/13/2027,FY24,May,Q3
+416,Hector,Barry,hector.barry,9,Data,1511419 Ontario ,miranda.beasley,Microsoft - Azure AI Fundamentals,5/11/2024,Passed,Yes,Passed,,,5/11/2027,FY24,May,Q3
+417,Morgan,Wells,morgan.wells,9,Data,1606 Corp,caroline.foley,Google - Associate Cloud Engineer,5/8/2024,Passed,Yes,Passed,,,5/8/2027,FY24,May,Q3
+418,Maxwell,Glenn,maxwell.glenn,9,Data,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Microsoft - Azure Data Fundamentals,5/4/2024,Passed,Yes,Passed,,,5/4/2027,FY24,May,Q3
+419,Melody,Young,melody.young,9,Data,180 Degree Capital Corp,clifford.jacobson,AWS Certified Machine Learning - Specialty,2/16/2024,Passed,Yes,Passed,,,2/16/2027,FY24,February,Q2
+420,Alejandro,Sutton,alejandro.sutton,9,Data,180 Life Sciences Corp,joanna.kirk,Google - Associate Cloud Engineer,5/2/2024,Passed,Yes,Passed,,,5/2/2027,FY24,May,Q3
+421,Jermaine,Banks,jermaine.banks,9,Data,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Microsoft - Azure Data Engineer Associate,4/29/2024,Passed,Yes,Passed,,,4/29/2027,FY24,April,Q3
+422,Terry,Woodward,terry.woodward,9,Data,1812 Brewing Company ,kiara.houston,AWS Certified Cloud Practitioner,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+423,Tanner,Cherry,tanner.cherry,9,Data,1847 Holdings LLC,colleen.howard,Google - Associate Cloud Engineer,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+424,Troy,Elliott,troy.elliott,9,Data,1867 Western Financial Corporation,janet.valenzuela,AWS Certified Developer - Associate,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+425,Barry,Rubio,barry.rubio,9,Data,1895 Bancorp of Wisconsin,shane.wilcox,AWS Certified Cloud Practitioner,4/21/2024,Passed,Yes,Passed,,,4/21/2027,FY24,April,Q3
+426,Samantha,Lutz,samantha.lutz,9,Data,1911 Gold Corporation,marcus.moody,AWS Certified Solutions Architect - Associate,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+427,Wendy,Trevino,wendy.trevino,9,Data,1933 Industries ,dakota.poole,AWS Certified Cloud Practitioner,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+428,Greg,Mcneil,greg.mcneil,9,Data,1CM ,frederick.harper,AWS Certified Data Analytics - Specialty,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+429,Rita,Hutchinson,rita.hutchinson,9,Data,1mage Software,stefanie.fitzpatrick,AWS Certified Solutions Architect - Associate,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+430,Rose,Robertson,rose.robertson,9,Data,1PM Industries,kent.bradshaw,AWS Certified Solutions Architect - Associate,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+431,Paige,Aguirre,paige.aguirre,9,Data,1st Capital Bancorp,jack.tate,AWS Certified Cloud Practitioner,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+432,Xavier,Terry,xavier.terry,9,Data,1st Colonial Bancorp,tom.trujillo,AWS Certified Solutions Architect - Associate,6/21/2024,Passed,Yes,Passed,,,6/21/2027,FY24,June,Q4
+433,Michaela,Thornton,michaela.thornton,9,Data,1st Federal Savings Bank of SC,gabriel.mejia,Google - Associate Cloud Engineer,6/19/2024,Passed,Yes,Passed,,,6/19/2027,FY24,June,Q4
+434,Kyle,Rojas,kyle.rojas,9,Data,1st NRG Corp,kaitlyn.santana,Google - Associate Cloud Engineer,6/18/2024,Passed,Yes,Passed,,,6/18/2027,FY24,June,Q4
+435,Devin,Baxter,devin.baxter,9,Data,1st Source Corporation,faith.moon,Google - Associate Cloud Engineer,6/18/2024,Passed,Yes,Passed,,,6/18/2027,FY24,June,Q4
+436,Omar,Farmer,omar.farmer,9,Data,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Google - Associate Cloud Engineer,6/18/2024,Passed,Yes,Passed,,,6/18/2027,FY24,June,Q4
+437,Desiree,Vang,desiree.vang,9,Data,1stdibsCom,nicholas.sosa,Google - Associate Cloud Engineer,6/17/2024,Passed,Yes,Passed,,,6/17/2027,FY24,June,Q4
+438,Fernando,Wade,fernando.wade,9,Data,2020 Bulkers ,jordan.gay,Google - Professional Cloud Data Engineer,6/16/2024,Passed,Yes,Passed,,,6/16/2027,FY24,June,Q4
+439,Anne,Winters,anne.winters,9,Data,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google - Associate Cloud Engineer,6/16/2024,Passed,Yes,Passed,,,6/16/2027,FY24,June,Q4
+440,Glenn,Harrell,glenn.harrell,9,Data,22nd Century ,sherry.garza,Google - Associate Cloud Engineer,6/15/2024,Passed,Yes,Passed,,,6/15/2027,FY24,June,Q4
+441,Tracey,Boyd,tracey.boyd,9,Data,23andMe Holding ,natalie.gentry,Google - Associate Cloud Engineer,6/8/2024,Passed,Yes,Passed,,,6/8/2027,FY24,June,Q4
+442,Catherine,Becker,catherine.becker,9,Data,24SevenOffice Group AB (publ),bryan.dunn,Google - Associate Cloud Engineer,6/7/2024,Passed,Yes,Passed,,,6/7/2027,FY24,June,Q4
+443,Sharon,Farrell,sharon.farrell,9,Data,286 Lenox Partners LLC,wayne.simpson,Google - Associate Cloud Engineer,6/5/2024,Passed,Yes,Passed,,,6/5/2027,FY24,June,Q4
+444,Clinton,Schwartz,clinton.schwartz,9,Data,29Metals ,luis.greer,Google - Associate Cloud Engineer,6/2/2024,Passed,Yes,Passed,,,6/2/2027,FY24,June,Q4
+445,Sheri,Perez,sheri.perez,9,Data,2seventy bio,rhonda.frost,Microsoft - Azure Data Fundamentals,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+446,Beth,White,beth.white,9,Data,2U,joanne.montes,Microsoft - Azure Data Fundamentals,5/27/2024,Passed,Yes,Passed,,,5/27/2027,FY24,May,Q3
+447,Cole,Benitez,cole.benitez,9,Data,3 Sixty Risk Solutions ,geoffrey.guzman,AWS Certified Machine Learning - Specialty,5/25/2024,Passed,Yes,Passed,,,5/25/2027,FY24,May,Q3
+448,Caleb,Chapman,caleb.chapman,9,Data,361 Degrees International ,gloria.mccall,Google - Cloud Digital Leader,5/22/2024,Passed,Yes,Passed,,,5/22/2027,FY24,May,Q3
+449,Glen,Eaton,glen.eaton,9,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,AWS Certified Cloud Practitioner,5/21/2024,Passed,Yes,Passed,,,5/21/2027,FY24,May,Q3
+450,Cristina,Hanna,cristina.hanna,9,Data,37 Capital ,latoya.mccann,Google - Associate Cloud Engineer,5/21/2024,Passed,Yes,Passed,,,5/21/2027,FY24,May,Q3
+451,Kathy,Owens,kathy.owens,9,Data,374Water ,gerald.hawkins,AWS Certified Solutions Architect - Professional,5/17/2024,Passed,Yes,Passed,,,5/17/2027,FY24,May,Q3
+452,Rachael,Keith,rachael.keith,9,Data,3D Pioneer Systems ,samuel.crawford,AWS Certified Developer - Associate,5/17/2024,Passed,Yes,Passed,,,5/17/2027,FY24,May,Q3
+453,Marcus,Thompson,marcus.thompson,9,Data,3D Systems Corporation,patricia.goodwin,AWS Certified Developer - Associate,5/17/2024,Passed,Yes,Passed,,,5/17/2027,FY24,May,Q3
+454,Norman,Mclean,norman.mclean,9,Data,3DShoppingcom,stacie.richard,Microsoft - Azure Developer Associate,5/16/2024,Passed,Yes,Passed,,,5/16/2027,FY24,April,Q3
+455,Brandon,Cross,brandon.cross,9,Data,3DX Industries,robin.west,AWS Certified Solutions Architect - Associate,5/13/2024,Passed,Yes,Passed,,,5/13/2027,FY24,May,Q3
+456,Autumn,Soto,autumn.soto,9,Data,3i Group plc,ralph.haas,Google - Professional Cloud Data Engineer,5/11/2024,Passed,Yes,Passed,,,5/11/2027,FY24,May,Q3
+457,Jaime,Cervantes,jaime.cervantes,9,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,AWS Certified Solutions Architect - Associate,5/8/2024,Passed,Yes,Passed,,,5/8/2027,FY24,May,Q3
+458,Reginald,Blankenship,reginald.blankenship,9,Data,3iQ Bitcoin ETF,danny.parrish,AWS Certified Solutions Architect - Associate,5/4/2024,Passed,Yes,Passed,,,5/4/2027,FY24,May,Q3
+459,Chelsey,Mcknight,chelsey.mcknight,9,Data,3M Company,kathy.hill,AWS Certified Machine Learning - Specialty,2/16/2024,Passed,Yes,Passed,,,2/16/2027,FY24,February,Q2
+460,Clayton,Lindsey,clayton.lindsey,9,Data,3Power Energy ,kelli.hardy,Microsoft - Data Engineering on Microsoft Azure,5/2/2024,Passed,Yes,Passed,,,5/2/2027,FY24,May,Q3
+461,Kurt,Prince,kurt.prince,9,Data,3SBio ,lynn.pham,Splunk - Splunk Core Certified Power User,4/29/2024,Passed,Yes,Passed,,,4/29/2027,FY24,April,Q3
+462,Joy,Choi,joy.choi,9,Data,420 Property Management,shelley.harris,SnowPro Core Certification,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+463,Jeremiah,May,jeremiah.may,9,Data,49 North Resources ,eddie.jimenez,SnowPro Core Certification,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+464,Candice,Huang,candice.huang,9,Data,4Cable TV International,chloe.hutchinson,SnowPro Core Certification,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+465,Alejandra,Tran,alejandra.tran,9,Data,4D Molecular Therapeutics,eileen.lynch,Splunk - Splunk Enterprise Security Certified Admin,4/21/2024,Passed,Yes,Passed,,,4/21/2027,FY24,April,Q3
+466,Shaun,Richardson,shaun.richardson,9,Data,4D pharma plc - Equity Warrant,fernando.lambert,Google Cloud Certified - Associate Cloud Engineer,2/7/2024,Passed,Yes,Passed,,,2/7/2027,FY24,February,Q2
+467,Darryl,Russo,darryl.russo,9,Data,4DMedical ,makayla.cannon,Informatica - Cloud Data Integration Developer R41 Certified Professional,4/18/2024,Passed,Yes,Passed,,,4/18/2027,FY24,April,Q3
+468,Joe,Cabrera,joe.cabrera,9,Data,4DS Memory ,tom.alvarado,Microsoft Certified: Azure Data Engineer Associate,4/16/2024,Passed,Yes,Passed,,,4/16/2027,FY24,April,Q3
+469,Travis,Duran,travis.duran,9,Data,4Front Ventures Corp,virginia.dudley,Databricks - Databricks Certified Data Engineer Associate,4/15/2024,Passed,Yes,Passed,,,4/15/2027,FY24,April,Q3
+470,Warren,House,warren.house,9,Data,4imprint Group plc,riley.good,Informatica - Cloud Data Integration Developer R41 Certified Professional,4/14/2024,Passed,Yes,Passed,,,4/14/2027,FY24,April,Q3
+471,Katherine,Haas,katherine.haas,9,Data,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Amazon Web Services (AWS) Certified Solutions Architect - Associate,4/13/2024,Passed,Yes,Passed,,,4/13/2027,FY24,April,Q3
+472,Karen,Burton,karen.burton,9,Data,5:01 Acquisition Corp,richard.roth,Databricks - Databricks Certified Data Engineer Associate,4/5/2024,Passed,Yes,Passed,,,4/5/2027,FY24,April,Q3
+473,Logan,Riddle,logan.riddle,9,Data,5E Advanced Materials,candice.keller,SnowPro Core Certification,3/31/2024,Passed,Yes,Passed,,,3/31/2027,FY24,March,Q3
+474,Kathryn,Hester,kathryn.hester,9,Data,5G Networks ,anita.benson,Splunk - Splunk Core Certified Consultant,3/30/2024,Passed,Yes,Passed,,,3/30/2027,FY24,March,Q3
+475,Christina,Villegas,christina.villegas,9,Data,5N Plus ,regina.stein,AWS Certified Developer - Associate,3/3/2024,In progress - 1st take,No,,,,,FY24,March,Q3
+476,Joel,Walters,joel.walters,9,Data,5th Planet Games A/S,debra.riddle,AWS Certified Solutions Architect - Professional,11/10/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+477,Frederick,Delacruz,frederick.delacruz,9,Data,60 Degrees Pharmaceuticals,brittany.zuniga,Google - Cloud Digital Leader,1/4/2024,In progress - 1st take,No,,,,,FY24,January,Q2
+478,Warren,Cantrell,warren.cantrell,9,Data,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Google - Associate Cloud Engineer,5/10/2023,In progress - 1st take,No,,,,,FY23,May,Q3
+479,Melvin,Bates,melvin.bates,9,Data,727 Communications,laurie.pennington,AWS Certified Cloud Practitioner,8/26/2023,In progress - 1st take,No,,,,,FY23,August,Q4
+480,Meredith,Pollard,meredith.pollard,9,Data,79North ,alejandro.blair,Google - Associate Cloud Engineer,8/22/2023,In progress - 1st take,No,,,,,FY23,August,Q4
+481,Dawn,Hines,dawn.hines,9,Data,7C Solarparken AG,leslie.jennings,Google - Associate Cloud Engineer,1/29/2024,In progress - 1st take,No,,,,,FY24,January,Q2
+482,Audrey,Goodman,audrey.goodman,9,Data,8000 Inc,kathleen.mckay,Google - Associate Cloud Engineer,5/11/2024,In progress - 1st take,No,,,,,FY24,May,Q3
+483,Kurt,Waters,kurt.waters,9,Data,808 Renewable Energy Corporation,hunter.moreno,Google - Associate Cloud Engineer,10/1/2023,In progress - 1st take,No,,,,,FY24,October,Q1
+484,Eugene,Harper,eugene.harper,9,Data,88 Energy ,chad.davidson,Google - Associate Cloud Engineer,1/6/2024,In progress - 1st take,No,,,,,FY24,January,Q2
+485,Caleb,Eaton,caleb.eaton,9,Data,89bio,corey.holt,Google - Associate Cloud Engineer,3/28/2024,In progress - 1st take,No,,,,,FY24,March,Q3
+486,Kaitlin,Mejia,kaitlin.mejia,9,Data,8x8,emma.cunningham,AWS Certified Cloud Practitioner,11/2/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+487,Jennifer,Mercado,jennifer.mercado,9,Data,9 Meters Biopharma,duane.woods,Google - Associate Cloud Engineer,11/21/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+488,David,Cardenas,david.cardenas,9,Data,908 Devices ,alison.vargas,Google - Professional Cloud Database Engineer,12/26/2022,Passed,Yes,Passed,,,12/26/2025,FY23,December,Q2
+489,Jenny,Reid,jenny.reid,9,Data,9342-8530 Québec ,vernon.kane,Google - Associate Cloud Engineer,12/23/2022,Passed,Yes,Passed,,,12/23/2025,FY23,December,Q2
+490,Lonnie,Frye,lonnie.frye,9,Data,99 Acquisition Group ,lori.flowers,Google - Associate Cloud Engineer,12/23/2022,Passed,Yes,Passed,,,12/23/2025,FY23,December,Q2
+491,Janice,Mayer,janice.mayer,9,Data,99 Acquisition Group  - Equity Right,nina.chavez,Microsoft - Azure Solutions Architect Expert,12/20/2022,Passed,Yes,Passed,,,12/20/2025,FY23,December,Q2
+492,Debbie,Bates,debbie.bates,9,Data,99 Acquisition Group  - Equity Warrant,shane.foley,Microsoft - Azure Developer Associate,9/25/2023,Passed,Yes,Passed,,,9/25/2026,FY24,September,Q1
+493,Jean,Christian,jean.christian,9,Data,9F  - Depositary Receipt (Common Stock),collin.ayers,Google - Associate Cloud Engineer,12/19/2022,Passed,Yes,Passed,,,12/19/2025,FY23,December,Q2
+494,Philip,Harding,philip.harding,9,Data,A SPAC II Acquisition Corp,sherry.young,AWS Certified Developer - Associate,12/19/2022,Passed,Yes,Passed,,,12/19/2025,FY23,December,Q2
+495,Jillian,Oneal,jillian.oneal,9,Data,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,AWS Certified Database - Specialty,12/15/2022,Passed,Yes,Passed,,,12/15/2025,FY23,December,Q2
+496,Mindy,Christian,mindy.christian,9,Data,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,AWS Certified Machine Learning - Specialty,12/2/2022,Passed,Yes,Passed,,,12/2/2025,FY23,December,Q2
+497,Bobby,Mclean,bobby.mclean,9,Data,A&W Revenue Royalties Income Fund,lynn.atkinson,Google - Associate Cloud Engineer,9/23/2023,Passed,Yes,Passed,,,9/23/2026,FY23,September,Q1
+498,Amanda,Santos,amanda.santos,9,Data,A-Mark Precious Metals,fred.guerra,Microsoft - Azure AI Fundamentals,11/22/2022,Passed,Yes,Passed,,,11/22/2025,FY23,November,Q1
+499,Ralph,Buckley,ralph.buckley,9,Data,A-Sonic Aerospace ,yvonne.farmer,Google - Associate Cloud Engineer,11/18/2022,Passed,Yes,Passed,,,11/18/2025,FY23,November,Q1
+500,Brian,Montoya,brian.montoya,9,Data,A O Smith Corporation,clarence.haynes,Microsoft - Azure AI Engineer Associate,11/14/2022,Passed,Yes,Passed,,,11/14/2025,FY23,November,Q1
+501,Joann,Dyer,joann.dyer,9,Data,Yangtze River Port and Logistics ,sheryl.baxter,Google - Associate Cloud Engineer,11/14/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+502,Rhonda,Cook,rhonda.cook,9,Data,YanGuFang International Group ,preston.lozano,Google - Associate Cloud Engineer,7/29/2023,Not Started,No,,,,,FY23,July,Q4
+503,Charlene,Huffman,charlene.huffman,9,Data,Yangzijiang Financial Holding ,roy.berry,Google - Associate Cloud Engineer,3/13/2024,Passed,Yes,Passed,,,3/13/2027,FY24,March,Q3
+504,Abigail,Shah,abigail.shah,9,Data,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Google - Associate Cloud Engineer,3/13/2024,Passed,Yes,Passed,,,3/13/2027,FY24,March,Q3
+505,Frances,Bridges,frances.bridges,9,Data,Yankuang Energy Group Company ,joanna.bender,Google - Associate Cloud Engineer,3/11/2024,Passed,Yes,Passed,,,3/11/2027,FY24,March,Q3
+506,Belinda,Kaiser,belinda.kaiser,9,Data,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Google - Associate Cloud Engineer,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+507,Michael,Griffin,michael.griffin,9,Data,01 Communique Laboratory ,darren.peck,Google - Associate Cloud Engineer,8/21/2023,Not Started,,,,,,FY23,August,Q4
+508,Brooke,Briggs,brooke.briggs,9,Data,0187279 BC ,brett.mullen,Google - Associate Cloud Engineer,3/27/2024,Passed,Yes,Passed,,,3/27/2027,FY24,March,Q3
+509,Desiree,Sloan,desiree.sloan,9,Data,1-800-FLOWERSCOM,sheryl.meyers,Google - Associate Cloud Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+510,Jared,Floyd,jared.floyd,9,Data,10X Capital Venture Acquisition Corp III,michelle.gallagher,Google - Associate Cloud Engineer,2/28/2024,Passed,Yes,Passed,,,2/28/2027,FY24,February,Q2
+511,Latasha,Spencer,latasha.spencer,9,Data,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Google - Associate Cloud Engineer,3/31/2024,Passed,Yes,Passed,,,3/31/2027,FY24,March,Q3
+512,Joy,Mack,joy.mack,9,Data,10x Genomics,jenna.dodson,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+513,John,Rhodes,john.rhodes,9,Data,111 - Depositary Receipt (Common Stock),tracey.mata,Google - Associate Cloud Engineer,3/19/2024,Passed,Yes,Passed,,,3/19/2027,FY24,March,Q3
+514,Claire,Schaefer,claire.schaefer,9,Data,1399 Internet Technology Application Group ,kristine.cox,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+515,Judy,Nguyen,judy.nguyen,9,Data,141 Capital,faith.lutz,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+516,Andrea,Dennis,andrea.dennis,9,Data,1511419 Ontario ,miranda.beasley,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+517,Karla,Middleton,karla.middleton,9,Data,1606 Corp,caroline.foley,Google - Professional Cloud Developer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+518,Sean,Coffey,sean.coffey,9,Data,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Google - Associate Cloud Engineer,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+519,Nichole,George,nichole.george,9,Data,180 Degree Capital Corp,clifford.jacobson,Google - Associate Cloud Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+520,Justin,Dougherty,justin.dougherty,9,Data,180 Life Sciences Corp,joanna.kirk,Google - Associate Cloud Engineer,2/16/2023,Passed,Yes,Passed,,,2/16/2026,FY23,February,Q2
+521,Devon,Smith,devon.smith,9,Data,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Google - Associate Cloud Engineer,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+522,Becky,Scott,becky.scott,9,Data,1812 Brewing Company ,kiara.houston,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+523,Misty,Espinoza,misty.espinoza,9,Data,1847 Holdings LLC,colleen.howard,Google - Associate Cloud Engineer,4/2/2023,Passed,Yes,Passed,,,4/2/2026,FY23,April,Q3
+524,Franklin,Rivers,franklin.rivers,9,Data,1867 Western Financial Corporation,janet.valenzuela,Google - Associate Cloud Engineer,3/31/2023,Passed,Yes,Passed,,,3/31/2026,FY23,March,Q3
+525,Leonard,Barber,leonard.barber,9,Data,1895 Bancorp of Wisconsin,shane.wilcox,Google - Associate Cloud Engineer,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+526,Lonnie,Price,lonnie.price,9,Data,1911 Gold Corporation,marcus.moody,Google - Associate Cloud Engineer,6/15/2024,Passed,Yes,Passed,,,6/15/2027,FY24,June,Q4
+527,Clarence,Cantu,clarence.cantu,9,Data,1933 Industries ,dakota.poole,Google - Associate Cloud Engineer,6/5/2024,Passed,Yes,Passed,,,6/5/2027,FY24,June,Q4
+528,Johnny,Foster,johnny.foster,9,Data,1CM ,frederick.harper,AWS Certified Cloud Practitioner,5/25/2024,Passed,Yes,Passed,,,5/25/2027,FY24,May,Q3
+529,Richard,Vasquez,richard.vasquez,9,Data,1mage Software,stefanie.fitzpatrick,Google - Associate Cloud Engineer,3/19/2024,Passed,Yes,Passed,,,3/19/2027,FY24,March,Q3
+530,Tabitha,Compton,tabitha.compton,9,Data,1PM Industries,kent.bradshaw,AWS Certified Cloud Practitioner,3/19/2024,Passed,Yes,Passed,,,3/19/2027,FY24,March,Q3
+531,Adrienne,Wong,adrienne.wong,9,Data,1st Capital Bancorp,jack.tate,Microsoft - Azure Data Engineer Associate,5/31/2024,In progress - 1st take,No,,,,,FY24,May,Q3
+532,Jorge,Farrell,jorge.farrell,9,Data,1st Colonial Bancorp,tom.trujillo,Google - Associate Cloud Engineer,11/5/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+533,Kathy,Richards,kathy.richards,9,Data,1st Federal Savings Bank of SC,gabriel.mejia,Google - Associate Cloud Engineer,10/29/2023,In progress - 1st take,No,,,,,FY24,October,Q1
+534,Larry,Ellison,larry.ellison,9,Data,1st NRG Corp,kaitlyn.santana,Google - Associate Cloud Engineer,9/28/2023,In progress - 1st take,No,,,,,FY24,September,Q1
+535,Gabrielle,Chaney,gabrielle.chaney,9,Data,1st Source Corporation,faith.moon,Google - Associate Cloud Engineer,12/28/2023,In progress - 1st take,No,,,,,FY24,December,Q2
+536,Maxwell,Macias,maxwell.macias,9,Data,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Google - Associate Cloud Engineer,8/29/2023,In progress - 1st take,No,,,,,FY23,August,Q4
+537,Joyce,Chan,joyce.chan,9,Data,1stdibsCom,nicholas.sosa,AWS Certified Cloud Practitioner,11/4/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+538,Kari,Durham,kari.durham,9,Data,2020 Bulkers ,jordan.gay,Google - Associate Cloud Engineer,10/31/2023,In progress - 1st take,No,,,,,FY24,October,Q1
+539,Trevor,Mckee,trevor.mckee,9,Data,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google - Associate Cloud Engineer,5/28/2023,In progress - 1st take,No,,,,,FY23,May,Q3
+540,Diana,Thomas,diana.thomas,9,Data,22nd Century ,sherry.garza,Google - Associate Cloud Engineer,1/21/2024,In progress - 1st take,No,,,,,FY24,January,Q2
+541,Cynthia,Moss,cynthia.moss,9,Data,23andMe Holding ,natalie.gentry,AWS Certified Developer - Associate,2/8/2024,In progress - 1st take,No,,,,,FY24,February,Q2
+542,Billy,Garrison,billy.garrison,9,Data,24SevenOffice Group AB (publ),bryan.dunn,Google - Associate Cloud Engineer,4/29/2024,In progress - 1st take,No,,,,,FY24,April,Q3
+543,Grace,Austin,grace.austin,9,Data,286 Lenox Partners LLC,wayne.simpson,Google - Associate Cloud Engineer,12/16/2023,In progress - 1st take,No,,,,,FY24,December,Q2
+544,Kerri,Hamilton,kerri.hamilton,9,Data,29Metals ,luis.greer,Google - Associate Cloud Engineer,10/7/2023,In progress - 1st take,No,,,,,FY24,October,Q1
+545,Kaylee,Wright,kaylee.wright,9,Data,2seventy bio,rhonda.frost,Google - Professional Cloud Data Engineer,6/7/2024,Passed,Yes,Passed,,,6/7/2027,FY24,June,Q4
+546,Manuel,Delacruz,manuel.delacruz,9,Data,2U,joanne.montes,Microsoft - Azure Data Engineer Associate,4/15/2024,Passed,Yes,Passed,,,4/15/2027,FY24,April,Q3
+547,Helen,Baxter,helen.baxter,9,Data,3 Sixty Risk Solutions ,geoffrey.guzman,Microsoft - Azure Data Engineer Associate,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+548,Leon,Hendricks,leon.hendricks,9,Data,361 Degrees International ,gloria.mccall,Google - Associate Cloud Engineer,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+549,Henry,Contreras,henry.contreras,9,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google - Associate Cloud Engineer,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+550,Gerald,Tanner,gerald.tanner,9,Data,37 Capital ,latoya.mccann,Google - Associate Cloud Engineer,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+551,Ariel,Arnold,ariel.arnold,9,Data,374Water ,gerald.hawkins,Google - Associate Cloud Engineer,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+552,Judy,Fisher,judy.fisher,9,Data,3D Pioneer Systems ,samuel.crawford,AWS Certified Cloud Practitioner,6/16/2024,Passed,Yes,Passed,,,6/16/2027,FY24,June,Q4
+553,Miguel,Wood,miguel.wood,9,Data,3D Systems Corporation,patricia.goodwin,Google - Associate Cloud Engineer,6/15/2024,Passed,Yes,Passed,,,6/15/2027,FY24,June,Q4
+554,Lance,Gillespie,lance.gillespie,9,Data,3DShoppingcom,stacie.richard,AWS Certified Developer - Associate,6/10/2024,Passed,Yes,Passed,,,6/10/2027,FY24,June,Q4
+555,Natalie,Wang,natalie.wang,9,Data,3DX Industries,robin.west,AWS Certified Cloud Practitioner,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+556,Charlotte,Byrd,charlotte.byrd,9,Data,3i Group plc,ralph.haas,Google - Professional Cloud Database Engineer,4/21/2024,Passed,Yes,Passed,,,4/21/2027,FY24,April,Q3
+557,Chelsea,Wagner,chelsea.wagner,9,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,AWS Certified Solutions Architect - Professional,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+558,Larry,Rollins,larry.rollins,9,Data,3iQ Bitcoin ETF,danny.parrish,AWS Certified Machine Learning - Specialty,4/15/2024,Passed,Yes,Passed,,,4/15/2027,FY24,April,Q3
+559,Paul,Leblanc,paul.leblanc,9,Data,3M Company,kathy.hill,AWS Certified Cloud Practitioner,5/4/2024,Passed,Yes,Passed,,,5/4/2027,FY24,May,Q3
+560,Caitlin,Vance,caitlin.vance,9,Data,3Power Energy ,kelli.hardy,AWS Certified Cloud Practitioner,4/5/2024,Passed,Yes,Passed,,,4/5/2027,FY24,April,Q3
+561,Adam,Shaffer,adam.shaffer,9,Data,3SBio ,lynn.pham,AWS Certified Solutions Architect - Associate,3/15/2024,Passed,Yes,Passed,,,3/15/2027,FY24,March,Q3
+562,Martin,Rocha,martin.rocha,9,Data,420 Property Management,shelley.harris,AWS Certified Cloud Practitioner,4/16/2024,Passed,Yes,Passed,,,4/16/2027,FY24,April,Q3
+563,Ronnie,Erickson,ronnie.erickson,9,Data,49 North Resources ,eddie.jimenez,AWS Certified Solutions Architect - Associate,5/30/2024,Passed,Yes,Passed,,,5/30/2027,FY24,May,Q3
+564,Sheryl,Delgado,sheryl.delgado,9,Data,4Cable TV International,chloe.hutchinson,AWS Certified Cloud Practitioner,4/5/2024,Passed,Yes,Passed,,,4/5/2027,FY24,April,Q3
+565,Kristen,Williamson,kristen.williamson,9,Data,4D Molecular Therapeutics,eileen.lynch,AWS Certified Solutions Architect - Associate,3/15/2024,Passed,Yes,Passed,,,3/15/2027,FY24,March,Q3
+566,Cole,Warner,cole.warner,9,Data,4D pharma plc - Equity Warrant,fernando.lambert,AWS Certified Cloud Practitioner,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+567,Lee,Mercado,lee.mercado,9,Data,4DMedical ,makayla.cannon,AWS Certified Cloud Practitioner,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+568,Paula,Bates,paula.bates,9,Data,4DS Memory ,tom.alvarado,AWS Certified Solutions Architect - Professional,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+569,Claire,Shaw,claire.shaw,9,Data,4Front Ventures Corp,virginia.dudley,AWS Certified Solutions Architect - Associate,6/21/2024,Passed,Yes,Passed,,,6/21/2027,FY24,June,Q4
+570,Amy,Mclean,amy.mclean,9,Data,4imprint Group plc,riley.good,AWS Certified Cloud Practitioner,6/19/2024,Passed,Yes,Passed,,,6/19/2027,FY24,June,Q4
+571,Joshua,Winters,joshua.winters,9,Data,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,AWS Certified Cloud Practitioner,6/18/2024,Passed,Yes,Passed,,,6/18/2027,FY24,June,Q4
+572,Brian,Pittman,brian.pittman,9,Data,5:01 Acquisition Corp,richard.roth,AWS Certified Cloud Practitioner,6/21/2024,Passed,Yes,Passed,,,6/21/2027,FY24,June,Q4
+573,Jeffrey,Waters,jeffrey.waters,9,Data,5E Advanced Materials,candice.keller,AWS Certified Solutions Architect - Associate,3/15/2024,Passed,Yes,Passed,,,3/15/2027,FY24,March,Q3
+574,Denise,Barber,denise.barber,9,Data,5G Networks ,anita.benson,Splunk - Splunk Enterprise Certified Admin,4/6/2024,Passed,Yes,Passed,,,4/6/2027,FY24,April,Q3
+575,Wayne,Sanders,wayne.sanders,9,Data,5N Plus ,regina.stein,Google Cloud Certified - Associate Cloud Engineer,2/25/2024,Passed,Yes,Passed,,,2/25/2027,FY24,February,Q2
+576,Sandra,Sparks,sandra.sparks,9,Data,5th Planet Games A/S,debra.riddle,Databricks - Databricks Certified Data Engineer Associate,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+577,Jose,Singleton,jose.singleton,9,Data,60 Degrees Pharmaceuticals,brittany.zuniga,Microsoft Certified: Azure Data Scientist Associate,2/25/2024,Passed,Yes,Passed,,,2/25/2027,FY24,February,Q2
+578,Joel,Shea,joel.shea,9,Data,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Databricks - Databricks Certified Data Engineer Associate,4/29/2024,Passed,Yes,Passed,,,4/29/2027,FY24,April,Q3
+579,Sergio,Marquez,sergio.marquez,9,Data,727 Communications,laurie.pennington,Splunk - Splunk Enterprise Security Certified Admin,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+580,Latoya,Decker,latoya.decker,9,Data,79North ,alejandro.blair,StreamSets White Belt,4/29/2024,Passed,Yes,Passed,,,4/29/2027,FY24,April,Q3
+581,Chase,Guerrero,chase.guerrero,9,Data,7C Solarparken AG,leslie.jennings,Informatica - Cloud Data Integration Developer R41 Certified Professional,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+582,Jeff,Tate,jeff.tate,9,Data,8000 Inc,kathleen.mckay,Informatica - Cloud Data Integration Developer R41 Certified Professional,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+583,Brandy,Valentine,brandy.valentine,9,Data,808 Renewable Energy Corporation,hunter.moreno,Amazon Web Services (AWS) Certified DevOps Engineer - Professional,4/25/2024,Passed,Yes,Passed,,,4/25/2027,FY24,April,Q3
+584,Jade,Vega,jade.vega,9,Data,88 Energy ,chad.davidson,Amazon Web Services (AWS) Certified Cloud Practitioner,4/21/2024,Passed,Yes,Passed,,,4/21/2027,FY24,April,Q3
+585,Melody,Nielsen,melody.nielsen,9,Data,89bio,corey.holt,Microsoft Certified: Azure AI Fundamentals,2/5/2024,Passed,Yes,Passed,,,2/5/2027,FY24,February,Q2
+586,Brandon,Webb,brandon.webb,9,Data,8x8,emma.cunningham,Informatica - Cloud Data Integration Developer R41 Certified Professional,4/19/2024,Passed,Yes,Passed,,,4/19/2027,FY24,April,Q3
+587,Jean,Mclaughlin,jean.mclaughlin,9,Data,9 Meters Biopharma,duane.woods,Google Cloud Certified - Associate Cloud Engineer,6/17/2024,Passed,Yes,Passed,,,6/17/2027,FY24,June,Q4
+588,Albert,Case,albert.case,9,Data,908 Devices ,alison.vargas,Databricks - Databricks Certified Data Engineer Professional,6/16/2024,Passed,Yes,Passed,,,6/16/2027,FY24,June,Q4
+589,Jose,Duarte,jose.duarte,9,Data,9342-8530 Québec ,vernon.kane,Splunk - Splunk Core Certified Power User,6/16/2024,Passed,Yes,Passed,,,6/16/2027,FY24,June,Q4
+590,Jennifer,Brady,jennifer.brady,9,Data,99 Acquisition Group ,lori.flowers,Informatica - Cloud Data Integration Developer R41 Certified Professional,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+591,Angel,Conner,angel.conner,9,Data,99 Acquisition Group  - Equity Right,nina.chavez,Splunk - Splunk Enterprise Certified Admin,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+592,Alyssa,Gamble,alyssa.gamble,9,Data,99 Acquisition Group  - Equity Warrant,shane.foley,Informatica - Cloud Data Integration Developer R41 Certified Professional,6/7/2024,Passed,Yes,Passed,,,6/7/2027,FY24,June,Q4
+593,Lawrence,Campos,lawrence.campos,9,Data,9F  - Depositary Receipt (Common Stock),collin.ayers,Splunk - Splunk Enterprise Security Certified Admin,6/5/2024,Passed,Yes,Passed,,,6/5/2027,FY24,June,Q4
+594,Joyce,Michael,joyce.michael,9,Data,A SPAC II Acquisition Corp,sherry.young,Splunk - Splunk Enterprise Security Certified Admin,6/2/2024,Passed,Yes,Passed,,,6/2/2027,FY24,June,Q4
+595,Doris,Fox,doris.fox,9,Data,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Splunk - Splunk Enterprise Certified Admin,6/2/2024,Passed,Yes,Passed,,,6/2/2027,FY24,June,Q4
+596,Johnny,Harris,johnny.harris,9,AI,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,Splunk - Splunk Enterprise Certified Admin,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+597,Leroy,Vargas,leroy.vargas,9,AI,A&W Revenue Royalties Income Fund,lynn.atkinson,Splunk - Splunk Enterprise Security Certified Admin,5/30/2024,Passed,Yes,Passed,,,5/30/2027,FY24,May,Q3
+598,Diana,Green,diana.green,9,AI,A-Mark Precious Metals,fred.guerra,Splunk - Splunk Cloud Certified Admin,5/30/2024,Passed,Yes,Passed,,,5/30/2027,FY24,May,Q3
+599,Victor,Bowman,victor.bowman,9,AI,A-Sonic Aerospace ,yvonne.farmer,Splunk - Splunk Cloud Certified Admin,1/15/2024,Passed,Yes,Passed,,,1/15/2027,FY24,January,Q2
+600,Alexis,Perry,alexis.perry,9,AI,A O Smith Corporation,clarence.haynes,Informatica - Cloud Data Integration Developer R41 Certified Professional,2/3/2024,Passed,Yes,Passed,,,2/3/2027,FY24,February,Q2
+601,Xavier,Mooney,xavier.mooney,9,AI,Yangtze River Port and Logistics ,sheryl.baxter,Google Cloud Certified - Associate Cloud Engineer,1/20/2024,Passed,Yes,Passed,,,1/20/2027,FY24,January,Q2
+602,Lawrence,Gross,lawrence.gross,9,AI,YanGuFang International Group ,preston.lozano,Splunk - Splunk Core Certified Power User,2/2/2024,Passed,Yes,Passed,,,2/2/2027,FY24,February,Q2
+603,Albert,Myers,albert.myers,9,AI,Yangzijiang Financial Holding ,roy.berry,Splunk - Splunk Cloud Certified Admin,2/2/2024,Passed,Yes,Passed,,,2/2/2027,FY24,February,Q2
+604,Mikayla,Oneal,mikayla.oneal,9,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Splunk - Splunk Enterprise Security Certified Admin,2/1/2024,Passed,Yes,Passed,,,2/1/2027,FY24,February,Q2
+605,Frederick,Mcgrath,frederick.mcgrath,9,AI,Yankuang Energy Group Company ,joanna.bender,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+606,Kirk,Benitez,kirk.benitez,9,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Google Cloud Certified - Associate Cloud Engineer,1/15/2024,Passed,Yes,Passed,,,1/15/2027,FY24,January,Q2
+607,Alex,Mcdonald,alex.mcdonald,9,AI,01 Communique Laboratory ,darren.peck,Splunk - Splunk Enterprise Certified Architect,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+608,Trevor,Hayden,trevor.hayden,9,AI,0187279 BC ,brett.mullen,Teradata VantageCloud Lake Associate Certified,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+609,Sherry,Lane,sherry.lane,9,AI,1-800-FLOWERSCOM,sheryl.meyers,Teradata VantageCloud Lake Associate Certified,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+610,Mallory,Pratt,mallory.pratt,9,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/29/2024,Passed,Yes,Passed,,,1/29/2027,FY24,January,Q2
+611,Daniel,Flores,daniel.flores,9,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/29/2024,Passed,Yes,Passed,,,1/29/2027,FY24,January,Q2
+612,Jesus,Kane,jesus.kane,9,AI,10x Genomics,jenna.dodson,Splunk - Splunk Enterprise Security Certified Admin,1/26/2024,Passed,Yes,Passed,,,1/26/2027,FY24,January,Q2
+613,Gilbert,Hendricks,gilbert.hendricks,9,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Splunk - Splunk Enterprise Security Certified Admin,1/26/2024,Passed,Yes,Passed,,,1/26/2027,FY24,January,Q2
+614,Kerry,Sanders,kerry.sanders,9,AI,1399 Internet Technology Application Group ,kristine.cox,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/26/2024,Passed,Yes,Passed,,,1/26/2027,FY24,January,Q2
+615,Alexandra,Davidson,alexandra.davidson,9,AI,141 Capital,faith.lutz,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/26/2024,Passed,Yes,Passed,,,1/26/2027,FY24,January,Q2
+616,Vincent,Carey,vincent.carey,9,AI,1511419 Ontario ,miranda.beasley,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/24/2024,Passed,Yes,Passed,,,1/24/2027,FY24,January,Q2
+617,Parker,Russo,parker.russo,9,AI,1606 Corp,caroline.foley,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/24/2024,Passed,Yes,Passed,,,1/24/2027,FY24,January,Q2
+618,Ebony,Velasquez,ebony.velasquez,9,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/24/2024,Passed,Yes,Passed,,,1/24/2027,FY24,January,Q2
+619,Jesus,Holden,jesus.holden,8,Data,180 Degree Capital Corp,clifford.jacobson,AWS Certified Cloud Practitioner,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+620,Candace,Chen,candace.chen,8,Data,180 Life Sciences Corp,joanna.kirk,AWS Certified Data Analytics - Specialty,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+621,Juan,Saunders,juan.saunders,8,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Splunk - Splunk Enterprise Security Certified Admin,1/20/2024,Passed,Yes,Passed,,,1/20/2027,FY24,January,Q2
+622,Richard,Serrano,richard.serrano,8,AI,1812 Brewing Company ,kiara.houston,Google Cloud Certified - Associate Cloud Engineer,1/8/2024,Passed,Yes,Passed,,,1/8/2027,FY24,January,Q2
+623,Rick,Barrera,rick.barrera,8,AI,1847 Holdings LLC,colleen.howard,Databricks - Databricks Certified Data Engineer Associate,1/19/2024,Passed,Yes,Passed,,,1/19/2027,FY24,January,Q2
+624,Meagan,Hoover,meagan.hoover,8,AI,1867 Western Financial Corporation,janet.valenzuela,Splunk - Splunk Enterprise Security Certified Admin,1/18/2024,Passed,Yes,Passed,,,1/18/2027,FY24,January,Q2
+625,Larry,Huff,larry.huff,8,AI,1895 Bancorp of Wisconsin,shane.wilcox,Splunk - Splunk Cloud Certified Admin,1/16/2024,Passed,Yes,Passed,,,1/16/2027,FY24,January,Q2
+626,Kelli,Gonzales,kelli.gonzales,8,AI,1911 Gold Corporation,marcus.moody,Splunk - Splunk Enterprise Certified Admin,1/13/2024,Passed,Yes,Passed,,,1/13/2027,FY24,January,Q2
+627,Crystal,Howard,crystal.howard,8,AI,1933 Industries ,dakota.poole,Databricks - Databricks Certified Data Engineer Associate,1/13/2024,Passed,Yes,Passed,,,1/13/2027,FY24,January,Q2
+628,Frank,Walter,frank.walter,8,AI,1CM ,frederick.harper,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/12/2024,Passed,Yes,Passed,,,1/12/2027,FY24,January,Q2
+629,Rhonda,Donaldson,rhonda.donaldson,8,AI,1mage Software,stefanie.fitzpatrick,Google Cloud Certified - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+630,Lisa,Duran,lisa.duran,8,AI,1PM Industries,kent.bradshaw,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/11/2024,Passed,Yes,Passed,,,1/11/2027,FY24,January,Q2
+631,Isabel,Cisneros,isabel.cisneros,8,AI,1st Capital Bancorp,jack.tate,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/11/2024,Passed,Yes,Passed,,,1/11/2027,FY24,January,Q2
+632,Bianca,Jennings,bianca.jennings,8,AI,1st Colonial Bancorp,tom.trujillo,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/10/2024,Passed,Yes,Passed,,,1/10/2027,FY24,January,Q2
+633,Leon,Lang,leon.lang,8,AI,1st Federal Savings Bank of SC,gabriel.mejia,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/10/2024,Passed,Yes,Passed,,,1/10/2027,FY24,January,Q2
+634,Luis,Zamora,luis.zamora,8,AI,1st NRG Corp,kaitlyn.santana,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/9/2024,Passed,Yes,Passed,,,1/9/2027,FY24,January,Q2
+635,Mitchell,Chang,mitchell.chang,8,AI,1st Source Corporation,faith.moon,Google Cloud Certified - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+636,Edgar,Terry,edgar.terry,8,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Google Cloud Certified - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+637,Norman,Howard,norman.howard,8,AI,1stdibsCom,nicholas.sosa,Google Cloud Certified - Associate Cloud Engineer,1/4/2024,Passed,Yes,Passed,,,1/4/2027,FY24,January,Q2
+638,Fred,Alvarez,fred.alvarez,8,AI,2020 Bulkers ,jordan.gay,SnowPro Core Certification,1/6/2024,Passed,Yes,Passed,,,1/6/2027,FY24,January,Q2
+639,Lauren,Nunez,lauren.nunez,8,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,MDA - Data Architect,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+640,Kristen,Terry,kristen.terry,8,AI,22nd Century ,sherry.garza,Informatica - Cloud Data Integration Developer R41 Certified Professional,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+641,Olivia,Cross,olivia.cross,8,AI,23andMe Holding ,natalie.gentry,Google Cloud Certified - Associate Cloud Engineer,12/29/2023,Passed,Yes,Passed,,,12/29/2026,FY24,December,Q2
+642,Leonard,Pennington,leonard.pennington,8,AI,24SevenOffice Group AB (publ),bryan.dunn,Google Cloud Certified - Associate Cloud Engineer,12/29/2023,Passed,Yes,Passed,,,12/29/2026,FY24,December,Q2
+643,Nathan,Bryan,nathan.bryan,8,AI,286 Lenox Partners LLC,wayne.simpson,Google Cloud Certified - Associate Cloud Engineer,12/28/2023,Passed,Yes,Passed,,,12/28/2026,FY24,December,Q2
+644,Theresa,Gallegos,theresa.gallegos,8,AI,29Metals ,luis.greer,SnowPro Core Certification,1/3/2024,Passed,Yes,Passed,,,1/3/2027,FY24,January,Q2
+645,Jamie,Hayes,jamie.hayes,8,AI,2seventy bio,rhonda.frost,Amazon Web Services (AWS) Certified Cloud Practitioner,1/3/2024,Passed,Yes,Passed,,,1/3/2027,FY24,January,Q2
+646,Wayne,Herring,wayne.herring,8,AI,2U,joanne.montes,Google Cloud Certified - Associate Cloud Engineer,12/27/2023,Passed,Yes,Passed,,,12/27/2026,FY24,December,Q2
+647,Allison,Franco,allison.franco,8,AI,3 Sixty Risk Solutions ,geoffrey.guzman,SnowPro Core Certification,12/29/2023,Passed,Yes,Passed,,,12/29/2026,FY24,December,Q2
+648,Ronald,White,ronald.white,8,AI,361 Degrees International ,gloria.mccall,Google Cloud Certified - Associate Cloud Engineer,12/20/2023,Passed,Yes,Passed,,,12/20/2026,FY24,December,Q2
+649,Deborah,Taylor,deborah.taylor,8,AI,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google Cloud Certified - Associate Cloud Engineer,12/18/2023,Passed,Yes,Passed,,,12/18/2026,FY24,December,Q2
+650,Shari,Bender,shari.bender,8,AI,37 Capital ,latoya.mccann,Google Cloud Certified - Associate Cloud Engineer,12/13/2023,Passed,Yes,Passed,,,12/13/2026,FY24,December,Q2
+651,Brooke,Gibbs,brooke.gibbs,8,AI,374Water ,gerald.hawkins,Google Cloud Certified - Associate Cloud Engineer,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+652,Ashley,Melton,ashley.melton,8,AI,3D Pioneer Systems ,samuel.crawford,Google Cloud Certified - Associate Cloud Engineer,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+653,Teresa,Hart,teresa.hart,8,AI,3D Systems Corporation,patricia.goodwin,Informatica - Cloud Data Integration Developer R41 Certified Professional,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+654,Bonnie,Erickson,bonnie.erickson,8,AI,3DShoppingcom,stacie.richard,Databricks - Databricks Certified Data Engineer Associate,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+655,Ruben,Trevino,ruben.trevino,8,AI,3DX Industries,robin.west,Splunk - Splunk Enterprise Certified Admin,12/16/2023,Passed,Yes,Passed,,,12/16/2026,FY24,December,Q2
+656,Fernando,Perez,fernando.perez,8,AI,3i Group plc,ralph.haas,Amazon Web Services (AWS) Certified Cloud Practitioner,12/15/2023,Passed,Yes,Passed,,,12/15/2026,FY24,December,Q2
+657,Katelyn,Cabrera,katelyn.cabrera,8,AI,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Informatica - Cloud Data Integration Developer R41 Certified Professional,12/14/2023,Passed,Yes,Passed,,,12/14/2026,FY24,December,Q2
+658,Sylvia,Lin,sylvia.lin,8,AI,3iQ Bitcoin ETF,danny.parrish,Google Cloud Certified - Associate Cloud Engineer,12/1/2023,Passed,Yes,Passed,,,12/1/2026,FY24,December,Q2
+659,Margaret,Snyder,margaret.snyder,8,AI,3M Company,kathy.hill,Amazon Web Services (AWS) Certified Cloud Practitioner,12/11/2023,Passed,Yes,Passed,,,12/11/2026,FY24,December,Q2
+660,Trevor,Schwartz,trevor.schwartz,8,AI,3Power Energy ,kelli.hardy,Google Cloud Certified - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+661,Bethany,Colon,bethany.colon,8,AI,3SBio ,lynn.pham,Certified Data Vault 2.0 Practitioner,12/10/2023,Passed,Yes,Passed,,,12/10/2026,FY24,December,Q2
+662,Dustin,Vaughan,dustin.vaughan,8,AI,420 Property Management,shelley.harris,Microsoft Certified: Azure AI Engineer Associate,1/16/2024,In progress - 1st take,Requested,,,,,FY24,January,Q2
+663,Jim,Oconnell,jim.oconnell,8,AI,49 North Resources ,eddie.jimenez,Databricks - Databricks Certified Machine Learning Associate,6/10/2024,Passed,Yes,Passed,,,6/10/2027,FY24,June,Q4
+664,Kerry,Roberts,kerry.roberts,8,AI,4Cable TV International,chloe.hutchinson,Amazon Web Services (AWS) Certified Machine Learning - Specialty,12/22/2023,Passed,Yes,Passed,,,12/22/2026,FY24,December,Q2
+665,Allen,Mcgrath,allen.mcgrath,8,AI,4D Molecular Therapeutics,eileen.lynch,Amazon Web Services (AWS) Certified Machine Learning - Specialty,8/15/2022,Passed,Yes,Passed,,,8/15/2025,FY22,August,Q4
+666,Darlene,Ware,darlene.ware,8,AI,4D pharma plc - Equity Warrant,fernando.lambert,Amazon Web Services (AWS) Certified Machine Learning - Specialty,7/8/2022,Passed,Yes,Passed,,,7/8/2025,FY22,July,Q4
+667,Jane,Roman,jane.roman,8,AI,4DMedical ,makayla.cannon,Amazon Web Services (AWS) Certified Machine Learning - Specialty,6/6/2022,Passed,Yes,Passed,,,6/6/2025,FY22,June,Q4
+668,Sheena,Burns,sheena.burns,8,AI,4DS Memory ,tom.alvarado,Amazon Web Services (AWS) Certified Machine Learning - Specialty,2/12/2022,Passed,Yes,Passed,,,2/12/2025,FY22,February,Q2
+669,Patricia,Cole,patricia.cole,8,AI,4Front Ventures Corp,virginia.dudley,Amazon Web Services (AWS) Certified Machine Learning - Specialty,9/7/2021,Passed,Yes,Passed,,,9/7/2024,FY22,September,Q1
+670,Shannon,White,shannon.white,8,AI,4imprint Group plc,riley.good,Amazon Web Services (AWS) Certified Machine Learning - Specialty,6/13/2020,Passed,Yes,Passed,,,6/13/2023,FY20,June,Q4
+671,Mandy,Farley,mandy.farley,8,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Google Cloud Certified - Professional Machine Learning Engineer,11/18/2023,Passed,Yes,Passed,,,11/18/2026,FY24,November,Q1
+672,Walter,Barber,walter.barber,8,AI,5:01 Acquisition Corp,richard.roth,Google Cloud Certified - Professional Machine Learning Engineer,10/20/2022,Passed,Yes,Passed,,,10/20/2025,FY23,October,Q1
+673,Summer,Fox,summer.fox,8,AI,5E Advanced Materials,candice.keller,Google Cloud Certified - Professional Machine Learning Engineer,6/4/2022,Passed,Yes,Passed,,,6/4/2025,FY22,June,Q4
+674,Jeffery,Stuart,jeffery.stuart,8,AI,5G Networks ,anita.benson,Amazon Web Services (AWS) Certified Machine Learning - Specialty,12/14/2019,Passed,Yes,Passed,,,12/14/2022,FY20,December,Q2
+675,Carla,Saunders,carla.saunders,8,AI,5N Plus ,regina.stein,Microsoft Certified: Azure Data Scientist Associate,2/25/2024,Passed,Yes,Passed,,,2/25/2027,FY24,February,Q2
+676,Dustin,Herman,dustin.herman,8,AI,5th Planet Games A/S,debra.riddle,Microsoft Certified: Azure AI Engineer Associate,11/25/2023,Passed,Yes,Passed,,,11/25/2026,FY24,November,Q1
+677,Melody,Mckay,melody.mckay,8,AI,60 Degrees Pharmaceuticals,brittany.zuniga,Microsoft Certified: Azure AI Engineer Associate,11/18/2023,Passed,Yes,Passed,,,11/18/2026,FY24,November,Q1
+678,James,Ward,james.ward,8,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Microsoft Certified: Azure AI Engineer Associate,5/5/2023,Passed,Yes,Passed,,,5/5/2026,FY23,May,Q3
+679,Jasmine,Berry,jasmine.berry,8,AI,727 Communications,laurie.pennington,Microsoft Certified: Azure AI Engineer Associate,11/26/2022,Passed,Yes,Passed,,,11/26/2025,FY23,November,Q1
+680,Vanessa,Webb,vanessa.webb,8,AI,79North ,alejandro.blair,Microsoft Certified: Azure Data Scientist Associate,6/30/2022,Passed,Yes,Passed,,,6/30/2025,FY22,June,Q4
+681,Jermaine,Diaz,jermaine.diaz,8,AI,7C Solarparken AG,leslie.jennings,Microsoft Certified: Azure AI Engineer Associate,6/24/2022,Passed,Yes,Passed,,,6/24/2025,FY22,June,Q4
+682,Mary,Holder,mary.holder,8,AI,8000 Inc,kathleen.mckay,Microsoft Certified: Azure AI Engineer Associate,6/13/2022,Passed,Yes,Passed,,,6/13/2025,FY22,June,Q4
+683,Johnathan,Mclaughlin,johnathan.mclaughlin,8,AI,808 Renewable Energy Corporation,hunter.moreno,Microsoft Certified: Azure AI Engineer Associate,6/8/2022,Passed,Yes,Passed,,,6/8/2025,FY22,June,Q4
+684,Tracey,Massey,tracey.massey,8,AI,88 Energy ,chad.davidson,Microsoft Certified: Azure AI Engineer Associate,6/3/2022,Passed,Yes,Passed,,,6/3/2025,FY22,June,Q4
+685,Tristan,Brooks,tristan.brooks,8,AI,89bio,corey.holt,Microsoft Certified: Azure AI Engineer Associate,5/21/2022,Passed,Yes,Passed,,,5/21/2025,FY22,May,Q3
+686,Sara,Gilmore,sara.gilmore,8,AI,8x8,emma.cunningham,Microsoft Certified: Azure AI Engineer Associate,5/14/2022,Passed,Yes,Passed,,,5/14/2025,FY22,May,Q3
+687,Norma,Page,norma.page,8,AI,9 Meters Biopharma,duane.woods,Microsoft Certified: Azure AI Engineer Associate,5/13/2022,Passed,Yes,Passed,,,5/13/2025,FY22,May,Q3
+688,Levi,Todd,levi.todd,8,AI,908 Devices ,alison.vargas,Microsoft Certified: Azure AI Engineer Associate,4/30/2022,Passed,Yes,Passed,,,4/30/2025,FY22,April,Q3
+689,Anthony,Curtis,anthony.curtis,8,AI,9342-8530 Québec ,vernon.kane,Microsoft Certified: Azure AI Engineer Associate,4/22/2022,Passed,Yes,Passed,,,4/22/2025,FY22,April,Q3
+690,Kristine,Hawkins,kristine.hawkins,8,AI,99 Acquisition Group ,lori.flowers,Microsoft Certified: Azure AI Engineer Associate,3/13/2022,Passed,Yes,Passed,,,3/13/2025,FY22,March,Q3
+691,Ann,Levy,ann.levy,8,AI,99 Acquisition Group  - Equity Right,nina.chavez,Microsoft Certified: Azure AI Engineer Associate,3/12/2022,Passed,Yes,Passed,,,3/12/2025,FY22,March,Q3
+692,Laurie,Mccoy,laurie.mccoy,8,AI,99 Acquisition Group  - Equity Warrant,shane.foley,Microsoft Certified: Azure AI Engineer Associate,3/12/2022,Passed,Yes,Passed,,,3/12/2025,FY22,March,Q3
+693,Stephanie,Rivera,stephanie.rivera,8,AI,9F  - Depositary Receipt (Common Stock),collin.ayers,Microsoft Certified: Azure Data Scientist Associate,2/27/2022,Passed,Yes,Passed,,,2/27/2025,FY22,February,Q2
+694,Ebony,Yang,ebony.yang,8,AI,A SPAC II Acquisition Corp,sherry.young,Microsoft Certified: Azure AI Engineer Associate,2/24/2022,Passed,Yes,Passed,,,2/24/2025,FY22,February,Q2
+695,Norman,Morton,norman.morton,8,AI,A SPAC II Acquisition Corp - Equity Right,darrell.douglas,Microsoft Certified: Azure Data Scientist Associate,2/5/2022,Passed,Yes,Passed,,,2/5/2025,FY22,February,Q2
+696,Joann,Holder,joann.holder,8,AI,A SPAC II Acquisition Corp - Equity Warrant,karl.greer,Microsoft Certified: Azure Data Scientist Associate,12/11/2021,Passed,Yes,Passed,,,12/11/2024,FY22,December,Q2
+697,Catherine,Davis,catherine.davis,8,AI,A&W Revenue Royalties Income Fund,lynn.atkinson,Microsoft Certified: Azure AI Engineer Associate,8/26/2021,Passed,Yes,Passed,,,8/26/2024,FY21,August,Q4
+698,Grant,Mercado,grant.mercado,8,AI,A-Mark Precious Metals,fred.guerra,Microsoft Certified: Azure Data Scientist Associate,7/5/2021,Passed,Yes,Passed,,,7/5/2024,FY21,July,Q4
+699,Jessica,Aguirre,jessica.aguirre,8,AI,A-Sonic Aerospace ,yvonne.farmer,Microsoft Certified: Azure Data Scientist Associate,7/5/2021,Passed,Yes,Passed,,,7/5/2024,FY21,July,Q4
+700,Trevor,Bowers,trevor.bowers,8,AI,A O Smith Corporation,clarence.haynes,Microsoft Certified: Azure AI Engineer Associate,6/30/2021,Passed,Yes,Passed,,,6/30/2024,FY21,June,Q4
+701,Autumn,Norris,autumn.norris,8,AI,Yangtze River Port and Logistics ,sheryl.baxter,Microsoft Certified: Azure AI Engineer Associate,6/28/2021,Passed,Yes,Passed,,,6/28/2024,FY21,June,Q4
+702,Nancy,Price,nancy.price,8,AI,YanGuFang International Group ,preston.lozano,Microsoft Certified: Azure Data Scientist Associate,6/1/2021,Passed,Yes,Passed,,,6/1/2024,FY21,June,Q4
+703,Kevin,Lozano,kevin.lozano,8,AI,Yangzijiang Financial Holding ,roy.berry,Microsoft Certified: Azure AI Engineer Associate,2/28/2021,Passed,Yes,Passed,,,2/28/2024,FY21,February,Q2
+704,Dale,Hendricks,dale.hendricks,8,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Microsoft Certified: Azure Data Scientist Associate,11/13/2020,Passed,Yes,Passed,,,11/13/2023,FY21,November,Q1
+705,Alexis,Carroll,alexis.carroll,8,AI,Yankuang Energy Group Company ,joanna.bender,Microsoft Certified: Azure Data Scientist Associate,8/22/2020,Passed,Yes,Passed,,,8/22/2023,FY20,August,Q4
+706,Javier,Bowers,javier.bowers,8,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Databricks - Databricks Certified Machine Learning Associate,11/26/2023,Failed,Yes,Failed/For Retake,12/23/2023,Failed,,FY24,November,Q1
+707,Zoe,Guerra,zoe.guerra,8,AI,01 Communique Laboratory ,darren.peck,"Informatica - Cloud Data Integration Developer R41, Certified Professional",5/6/2023,Failed,Yes,Failed/For Retake,8/23/2023,Failed,,FY23,May,Q3
+708,Tim,Henson,tim.henson,8,AI,0187279 BC ,brett.mullen,"Informatica - Cloud Data Integration Developer R41, Certified Professional",6/4/2023,Failed,Yes,Failed/For Retake,8/23/2023,Failed,,FY23,June,Q4
+709,Tim,Larson,tim.larson,8,AI,1-800-FLOWERSCOM,sheryl.meyers,Databricks - Databricks Certified Data Engineer Associate,6/3/2023,Failed,Yes,Failed/For Retake,8/23/2023,Failed,,FY23,June,Q4
+710,Brian,Banks,brian.banks,8,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Databricks - Databricks Certified Data Engineer Associate,4/15/2024,Not Started,No,,,,,FY24,April,Q3
+711,Destiny,Cooke,destiny.cooke,8,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Databricks - Databricks Certified Data Engineer Associate,1/24/2024,Not Started,No,,,,,FY24,January,Q2
+712,Austin,Bright,austin.bright,8,AI,10x Genomics,jenna.dodson,Databricks - Databricks Certified Data Engineer Associate,5/8/2024,Not Started,No,,,,,FY24,May,Q3
+713,Briana,Davis,briana.davis,8,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Databricks - Databricks Certified Data Engineer Associate,4/13/2024,Not Started,No,,,,,FY24,April,Q3
+714,Darius,Lara,darius.lara,8,AI,1399 Internet Technology Application Group ,kristine.cox,Databricks - Databricks Certified Data Engineer Associate,2/1/2024,In progress - 1st take,Yes,,,,,FY24,February,Q2
+715,Toni,Rhodes,toni.rhodes,8,AI,141 Capital,faith.lutz,Databricks - Databricks Certified Data Engineer Associate,5/30/2023,In progress - 1st take,Yes,,,,,FY23,May,Q3
+716,Warren,Willis,warren.willis,8,AI,1511419 Ontario ,miranda.beasley,Databricks - Databricks Certified Data Engineer Associate,5/9/2023,In progress - 1st take,Yes,,,,,FY23,May,Q3
+717,Colleen,Cordova,colleen.cordova,8,AI,1606 Corp,caroline.foley,SnowPro Core Certification,2/19/2024,In progress - 1st take,Requested,,,,,FY24,February,Q2
+718,Marie,Norman,marie.norman,8,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Databricks - Databricks Certified Data Engineer Associate,9/6/2023,In progress - 1st take,Requested,,,,,FY24,September,Q1
+719,Jasmine,Morrison,jasmine.morrison,8,AI,180 Degree Capital Corp,clifford.jacobson,Google Cloud Certified - Associate Cloud Engineer,11/27/2023,In progress - 1st take,Requested,,,,,FY24,November,Q1
+720,Catherine,Perkins,catherine.perkins,8,AI,180 Life Sciences Corp,joanna.kirk,Amazon Web Services (AWS) Certified Data Analytics - Specialty,3/16/2024,In progress - 1st take,Yes,,,,,FY24,March,Q3
+721,Nancy,Williams,nancy.williams,8,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Microsoft Certified: Azure AI Fundamentals,8/18/2023,Not Started,No,,,,,FY23,August,Q4
+722,Noah,Hebert,noah.hebert,8,AI,1812 Brewing Company ,kiara.houston,Google Cloud Certified - Associate Cloud Engineer,8/12/2023,Not Started,No,,,,,FY23,August,Q4
+723,Latoya,Gillespie,latoya.gillespie,8,AI,1847 Holdings LLC,colleen.howard,Google Cloud Certified - Associate Cloud Engineer,9/25/2023,Not Started,No,,,,,FY24,September,Q1
+724,Chelsea,Oneal,chelsea.oneal,8,AI,1867 Western Financial Corporation,janet.valenzuela,Google Cloud Certified - Associate Cloud Engineer,3/13/2024,Failed,Yes,Failed/For Retake,6/1/2024,Failed,,FY24,March,Q3
+725,Katie,King,katie.king,8,AI,1895 Bancorp of Wisconsin,shane.wilcox,Google Cloud Certified - Associate Cloud Engineer,10/27/2023,Failed,Yes,Failed/For Retake,9/1/2023,Failed,,FY24,October,Q1
+726,Colin,Doyle,colin.doyle,8,AI,1911 Gold Corporation,marcus.moody,Google Cloud Certified - Associate Cloud Engineer,2/26/2024,Failed,Yes,Failed/For Retake,4/1/2024,Failed,,FY24,February,Q2
+727,Sonya,Schroeder,sonya.schroeder,8,AI,1933 Industries ,dakota.poole,Google Cloud Certified - Associate Cloud Engineer,6/23/2023,Failed,Yes,Failed/For Retake,9/1/2023,Failed,,FY23,June,Q4
+728,Kayla,Guzman,kayla.guzman,8,AI,1CM ,frederick.harper,Google Cloud Certified - Associate Cloud Engineer,10/25/2023,Not Started,No,,,,,FY24,October,Q1
+729,Christie,Jenkins,christie.jenkins,8,AI,1mage Software,stefanie.fitzpatrick,Databricks - Databricks Certified Data Engineer Associate,3/4/2024,Not Started,No,,,,,FY24,March,Q3
+730,Joanne,Ferguson,joanne.ferguson,8,AI,1PM Industries,kent.bradshaw,Amazon Web Services (AWS) Certified Machine Learning - Specialty,11/13/2023,Not Started,No,,,,,FY24,November,Q1
+731,Yolanda,Robinson,yolanda.robinson,8,AI,1st Capital Bancorp,jack.tate,Google Cloud Certified - Associate Cloud Engineer,5/8/2023,Not Started,No,,,,,FY23,May,Q3
+732,Katie,Craig,katie.craig,8,AI,1st Colonial Bancorp,tom.trujillo,Google Cloud Certified - Associate Cloud Engineer,10/28/2023,Failed,Yes,Failed/For Retake,9/1/2023,Failed,,FY24,October,Q1
+733,Dakota,Chavez,dakota.chavez,8,AI,1st Federal Savings Bank of SC,gabriel.mejia,Google Cloud Certified - Associate Cloud Engineer,2/7/2024,Failed,Yes,Failed/For Retake,4/7/2024,Failed,,FY24,February,Q2
+734,Johnny,Randolph,johnny.randolph,8,AI,1st NRG Corp,kaitlyn.santana,Google Cloud Certified - Associate Cloud Engineer,11/9/2023,Failed,Yes,Failed/For Retake,12/1/2023,Failed,,FY24,November,Q1
+735,Collin,Alvarez,collin.alvarez,8,AI,1st Source Corporation,faith.moon,Google Cloud Certified - Associate Cloud Engineer,2/18/2024,Failed,Yes,Failed/For Retake,5/1/2024,Failed,,FY24,February,Q2
+736,Cassidy,Melton,cassidy.melton,8,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Google Cloud Certified - Associate Cloud Engineer,3/18/2024,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,March,Q3
+737,Adam,Singh,adam.singh,8,AI,1stdibsCom,nicholas.sosa,AZ-305: Designing Microsoft Azure Infrastructure Solutions,6/10/2024,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,June,Q4
+738,Hayden,Pugh,hayden.pugh,8,AI,2020 Bulkers ,jordan.gay,Google Cloud Certified - Associate Cloud Engineer,12/9/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,December,Q2
+739,Kellie,Salas,kellie.salas,8,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Microsoft Certified: Azure AI Engineer Associate,10/17/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,October,Q1
+740,Caleb,Watkins,caleb.watkins,8,AI,22nd Century ,sherry.garza,Microsoft Certified: Power BI Data Analyst Associate,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+741,Troy,Fritz,troy.fritz,8,AI,23andMe Holding ,natalie.gentry,Google Cloud Certified - Associate Cloud Engineer,5/23/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY23,May,Q3
+742,Phillip,Duffy,phillip.duffy,8,AI,24SevenOffice Group AB (publ),bryan.dunn,Amazon Web Services (AWS) Certified Cloud Practitioner,8/5/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY23,August,Q4
+743,Claire,Robinson,claire.robinson,8,AI,286 Lenox Partners LLC,wayne.simpson,Google Cloud Certified - Associate Cloud Engineer,2/28/2024,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,February,Q2
+744,Jackson,Estrada,jackson.estrada,8,AI,29Metals ,luis.greer,Microsoft Certified: Azure AI Engineer Associate,11/30/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,November,Q1
+745,Tiffany,Peterson,tiffany.peterson,8,AI,2seventy bio,rhonda.frost,Google Cloud Certified - Associate Cloud Engineer,6/6/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY23,September,Q1
+746,Jessica,Carlson,jessica.carlson,8,AI,2U,joanne.montes,Google Cloud Certified - Associate Cloud Engineer,11/18/2023,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,November,Q1
+747,Alvin,Roy,alvin.roy,8,AI,3 Sixty Risk Solutions ,geoffrey.guzman,Google Cloud Certified - Associate Cloud Engineer,5/21/2024,In progress - 2nd take,Requested,Failed/For Retake,7/8/2024,,,FY24,May,Q3
+748,Harold,Paul,harold.paul,7,Data,361 Degrees International ,gloria.mccall,Google - Professional Cloud Data Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+749,Rodney,Underwood,rodney.underwood,7,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Google - Professional Cloud Architect,12/23/2023,Passed,Yes,Passed,,,12/23/2026,FY24,December,Q2
+750,Adrian,Herman,adrian.herman,7,Data,37 Capital ,latoya.mccann,Google - Professional Cloud Data Engineer,11/1/2022,Passed,Yes,Passed,,,11/1/2025,FY23,November,Q1
+751,Clifford,Phillips,clifford.phillips,7,Data,374Water ,gerald.hawkins,Google - Professional Cloud Data Engineer,5/5/2023,Passed,Yes,Passed,,,5/5/2026,FY23,May,Q3
+752,Regina,Mccoy,regina.mccoy,7,Data,3D Pioneer Systems ,samuel.crawford,Google - Professional Cloud Data Engineer,11/10/2023,Passed,Yes,Passed,,,11/10/2026,FY24,November,Q1
+753,Kaylee,Bowers,kaylee.bowers,7,Data,3D Systems Corporation,patricia.goodwin,Google - Professional Cloud Data Engineer,6/21/2024,Passed,Yes,Passed,,,6/21/2027,FY24,June,Q4
+754,Reginald,Frederick,reginald.frederick,7,Data,3DShoppingcom,stacie.richard,Google - Professional Cloud Database Engineer,12/29/2023,Passed,Yes,Passed,,,12/29/2026,FY24,December,Q2
+755,Shelby,Reese,shelby.reese,7,Data,3DX Industries,robin.west,AWS Certified Solutions Architect - Professional,9/8/2023,Passed,Yes,Passed,,,9/8/2026,FY24,September,Q1
+756,Connor,Gentry,connor.gentry,7,Data,3i Group plc,ralph.haas,AWS Certified Solutions Architect - Professional,9/10/2022,Passed,Yes,Passed,,,9/10/2025,FY23,September,Q1
+757,Kevin,Fleming,kevin.fleming,7,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Google - Professional Machine Learning Engineer,11/18/2023,Passed,Yes,Passed,,,11/18/2026,FY24,November,Q1
+758,Connie,Mercado,connie.mercado,7,Data,3iQ Bitcoin ETF,danny.parrish,Google - Professional Cloud Data Engineer,2/17/2024,In progress - 2nd take,Yes,Failed/For Retake,8/23/2024,,,FY24,February,Q2
+759,Kaylee,Barber,kaylee.barber,7,Data,3M Company,kathy.hill,Google - Professional Cloud Data Engineer,10/24/2023,In progress - 2nd take,Yes,Failed/For Retake,11/23/2023,,,FY24,October,Q1
+760,Betty,Duncan,betty.duncan,7,Data,3Power Energy ,kelli.hardy,Google - Professional Cloud Data Engineer,5/2/2024,In progress - 2nd take,Requested,Failed/For Retake,7/10/2024,,,FY24,May,Q3
+761,Dwayne,Sweeney,dwayne.sweeney,7,Data,3SBio ,lynn.pham,AWS Certified Solutions Architect - Professional,1/14/2024,In progress - 1st take,No,,,,,FY24,January,Q2
+762,Kenneth,Anthony,kenneth.anthony,7,Data,420 Property Management,shelley.harris,Google - Professional Cloud Data Engineer,10/10/2023,In progress - 1st take,No,,,,,FY24,October,Q1
+763,Peggy,Montoya,peggy.montoya,7,Data,49 North Resources ,eddie.jimenez,Google - Professional Machine Learning Engineer,8/9/2023,In progress - 1st take,No,,,,,FY23,August,Q4
+764,Jonathan,Briggs,jonathan.briggs,7,Data,4Cable TV International,chloe.hutchinson,Google - Professional Machine Learning Engineer,11/7/2023,In progress - 1st take,No,,,,,FY24,November,Q1
+765,Sean,Gray,sean.gray,7,AI,4D Molecular Therapeutics,eileen.lynch,Google - Professional Machine Learning Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+766,Rebekah,Villegas,rebekah.villegas,7,AI,4D pharma plc - Equity Warrant,fernando.lambert,Google - Associate Cloud Engineer,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+767,Lisa,Small,lisa.small,7,AI,4DMedical ,makayla.cannon,Microsoft - Azure Data Fundamentals,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+768,Paige,Pineda,paige.pineda,7,AI,4DS Memory ,tom.alvarado,AWS Certified Data Analytics - Specialty,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+769,Howard,Glass,howard.glass,7,AI,4Front Ventures Corp,virginia.dudley,Google - Professional Cloud Architect,12/15/2023,Passed,Yes,Passed,,,12/15/2026,FY24,December,Q2
+770,Jose,Bond,jose.bond,7,AI,4imprint Group plc,riley.good,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+771,Janet,Bass,janet.bass,7,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Google - Professional Cloud Architect,10/17/2023,Passed,Yes,Passed,,,10/17/2026,FY24,October,Q1
+772,Jasmin,Waters,jasmin.waters,7,AI,5:01 Acquisition Corp,richard.roth,Microsoft - Azure Data Fundamentals,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+773,Jennifer,Mcintosh,jennifer.mcintosh,7,AI,5E Advanced Materials,candice.keller,AWS Certified Cloud Practitioner,1/3/2024,Passed,Yes,Passed,,,1/3/2027,FY24,January,Q2
+774,Gina,Benson,gina.benson,7,AI,5G Networks ,anita.benson,AWS Certified Cloud Practitioner,11/12/2022,Passed,Yes,Passed,,,11/12/2025,FY23,November,Q1
+775,Vanessa,Gardner,vanessa.gardner,7,AI,5N Plus ,regina.stein,AWS Certified Solutions Architect - Associate,9/23/2022,Passed,Yes,Passed,,,9/23/2025,FY23,September,Q1
+776,Brenda,Clark,brenda.clark,7,AI,5th Planet Games A/S,debra.riddle,AWS Certified Solutions Architect - Professional,9/10/2022,Passed,Yes,Passed,,,9/10/2025,FY23,September,Q1
+777,Chelsea,Randolph,chelsea.randolph,7,AI,60 Degrees Pharmaceuticals,brittany.zuniga,Google - Associate Cloud Engineer,12/19/2023,Passed,Yes,Passed,,,12/19/2026,FY24,December,Q2
+778,Tabitha,Logan,tabitha.logan,7,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Google - Professional Cloud Data Engineer,6/16/2023,Not Started,No,,,,,FY23,June,Q4
+779,Anne,Cabrera,anne.cabrera,7,AI,727 Communications,laurie.pennington,AWS Certified Database - Specialty,11/25/2023,Passed,Yes,Passed,,,11/25/2026,FY24,November,Q1
+780,Logan,Lamb,logan.lamb,7,AI,79North ,alejandro.blair,Google - Professional Machine Learning Engineer,9/15/2023,Not Started,No,,,,,FY24,September,Q1
+781,Reginald,Mann,reginald.mann,7,AI,Yangtze River Port and Logistics ,sheryl.baxter,Google - Associate Cloud Engineer,7/30/2023,Not Started,No,,,,,FY23,July,Q4
+782,Bob,Rosario,bob.rosario,7,AI,YanGuFang International Group ,preston.lozano,Microsoft - Azure Data Fundamentals,4/21/2024,Not Started,No,,,,,FY24,April,Q3
+783,Andrew,Weiss,andrew.weiss,7,AI,Yangzijiang Financial Holding ,roy.berry,AWS Certified Data Analytics - Specialty,5/17/2024,Not Started,No,,,,,FY24,May,Q3
+784,Rita,Livingston,rita.livingston,7,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Google - Professional Cloud Architect,7/24/2023,Not Started,No,,,,,FY23,July,Q4
+785,Briana,Peck,briana.peck,7,AI,Yankuang Energy Group Company ,joanna.bender,Google - Associate Cloud Engineer,4/6/2024,Not Started,No,,,,,FY24,April,Q3
+786,Brady,Mcdaniel,brady.mcdaniel,7,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Google - Professional Cloud Architect,4/19/2024,Not Started,No,,,,,FY24,April,Q3
+787,Clifford,Rivers,clifford.rivers,7,AI,01 Communique Laboratory ,darren.peck,Microsoft - Azure Data Fundamentals,2/27/2024,Not Started,No,,,,,FY24,February,Q2
+788,Kathryn,Burgess,kathryn.burgess,7,AI,0187279 BC ,brett.mullen,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+789,Rodney,Esparza,rodney.esparza,7,AI,1-800-FLOWERSCOM,sheryl.meyers,Google - Associate Cloud Engineer,2/3/2024,Passed,Yes,Passed,,,2/3/2027,FY24,February,Q2
+790,Gabrielle,Vincent,gabrielle.vincent,7,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+791,Yolanda,Schroeder,yolanda.schroeder,7,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Google - Professional Cloud Data Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+792,Jonathon,West,jonathon.west,7,AI,10x Genomics,jenna.dodson,Google - Associate Cloud Engineer,1/19/2024,Passed,Yes,Passed,,,1/19/2027,FY24,January,Q2
+793,Lee,Harvey,lee.harvey,7,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Google - Associate Cloud Engineer,11/25/2023,Passed,Yes,Passed,,,11/25/2026,FY24,November,Q1
+794,Yvette,Mccoy,yvette.mccoy,7,AI,1399 Internet Technology Application Group ,kristine.cox,Google - Associate Cloud Engineer,11/5/2023,Passed,Yes,Passed,,,11/5/2026,FY24,November,Q1
+795,Kayla,Fleming,kayla.fleming,7,AI,141 Capital,faith.lutz,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+796,Vernon,Flowers,vernon.flowers,7,AI,1511419 Ontario ,miranda.beasley,Google - Associate Cloud Engineer,3/19/2024,Passed,Yes,Passed,,,3/19/2027,FY24,March,Q3
+797,Bobby,Dodson,bobby.dodson,7,AI,1606 Corp,caroline.foley,Google - Associate Cloud Engineer,1/7/2024,Passed,Yes,Passed,,,1/7/2027,FY24,January,Q2
+798,Lindsey,Blevins,lindsey.blevins,7,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+799,Jared,Howe,jared.howe,7,AI,180 Degree Capital Corp,clifford.jacobson,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+800,Mike,Mckay,mike.mckay,7,AI,180 Life Sciences Corp,joanna.kirk,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+801,Leon,Summers,leon.summers,7,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+802,Darren,Gibbs,darren.gibbs,7,AI,1812 Brewing Company ,kiara.houston,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+803,Chase,Lucas,chase.lucas,7,AI,1847 Holdings LLC,colleen.howard,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+804,Kent,Cobb,kent.cobb,7,AI,1867 Western Financial Corporation,janet.valenzuela,Google - Associate Cloud Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+805,Miranda,Lawson,miranda.lawson,7,AI,1895 Bancorp of Wisconsin,shane.wilcox,AWS Certified Data Analytics - Specialty,2/27/2024,Passed,Yes,Passed,,,2/27/2027,FY24,February,Q2
+806,Kathy,Nguyen,kathy.nguyen,7,AI,1911 Gold Corporation,marcus.moody,Google - Associate Cloud Engineer,2/3/2024,Passed,Yes,Passed,,,2/3/2027,FY24,February,Q2
+807,Jeremiah,Rubio,jeremiah.rubio,7,AI,1933 Industries ,dakota.poole,Google - Associate Cloud Engineer,11/5/2023,Passed,Yes,Passed,,,11/5/2026,FY24,November,Q1
+808,Gilbert,Barry,gilbert.barry,7,AI,1CM ,frederick.harper,AWS Certified Solutions Architect - Professional,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+809,Tony,Shannon,tony.shannon,7,AI,1mage Software,stefanie.fitzpatrick,Google - Associate Cloud Engineer,1/21/2024,Passed,Yes,Passed,,,1/21/2027,FY24,January,Q2
+810,Dana,Salas,dana.salas,7,AI,1PM Industries,kent.bradshaw,Microsoft - Azure Data Engineer Associate,4/16/2024,Passed,Yes,Passed,,,4/16/2027,FY24,April,Q3
+811,Benjamin,Galvan,benjamin.galvan,7,AI,1st Capital Bancorp,jack.tate,Google - Associate Cloud Engineer,1/5/2024,Passed,Yes,Passed,,,1/5/2027,FY24,January,Q2
+812,Teresa,Vargas,teresa.vargas,7,AI,1st Colonial Bancorp,tom.trujillo,Google - Professional Cloud Data Engineer,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+813,Tricia,Leon,tricia.leon,7,AI,1st Federal Savings Bank of SC,gabriel.mejia,Google - Professional Cloud Data Engineer,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+814,Carmen,Daugherty,carmen.daugherty,7,AI,1st NRG Corp,kaitlyn.santana,AWS Certified Cloud Practitioner,4/5/2024,Passed,Yes,Passed,,,4/5/2027,FY24,April,Q3
+815,Tiffany,Rowe,tiffany.rowe,7,AI,1st Source Corporation,faith.moon,Google - Associate Cloud Engineer,10/25/2023,Passed,Yes,Passed,,,10/25/2026,FY24,October,Q1
+816,Wesley,Snow,wesley.snow,7,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,AWS Certified Solutions Architect - Associate,2/29/2024,Passed,Yes,Passed,,,3/1/2027,FY24,February,Q2
+817,Raven,Mejia,raven.mejia,7,AI,1stdibsCom,nicholas.sosa,AWS Certified Solutions Architect - Associate,1/31/2024,Passed,Yes,Passed,,,1/31/2027,FY24,January,Q2
+818,Elijah,Richardson,elijah.richardson,7,AI,2020 Bulkers ,jordan.gay,Microsoft - Azure Data Fundamentals,5/31/2024,Passed,Yes,Passed,,,5/31/2027,FY24,May,Q3
+819,Colton,Sandoval,colton.sandoval,7,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google - Associate Cloud Engineer,2/16/2024,Passed,Yes,Passed,,,2/16/2027,FY24,February,Q2
+820,Krista,Mcclure,krista.mcclure,7,AI,22nd Century ,sherry.garza,AWS Certified Solutions Architect - Associate,10/25/2023,Passed,Yes,Passed,,,10/25/2026,FY24,October,Q1
+821,Johnny,Rubio,johnny.rubio,7,AI,23andMe Holding ,natalie.gentry,Google - Associate Cloud Engineer,10/5/2023,Passed,Yes,Passed,,,10/5/2026,FY24,October,Q1
+822,Amy,Ballard,amy.ballard,7,AI,24SevenOffice Group AB (publ),bryan.dunn,AWS Certified Data Analytics - Specialty,9/25/2023,Passed,Yes,Passed,,,9/25/2026,FY24,September,Q1
+823,Rachel,Watts,rachel.watts,7,AI,286 Lenox Partners LLC,wayne.simpson,Google - Associate Cloud Engineer,9/25/2023,Passed,Yes,Passed,,,9/25/2026,FY24,September,Q1
+824,Judy,Mullins,judy.mullins,7,AI,29Metals ,luis.greer,Microsoft - Azure Data Engineer Associate,11/3/2023,Not Started,No,,,,,FY24,November,Q1
+825,Priscilla,Huff,priscilla.huff,7,AI,2seventy bio,rhonda.frost,Microsoft - Azure Data Fundamentals,1/30/2024,Passed,Yes,Passed,,,1/30/2027,FY24,January,Q2
+826,Zoe,Solomon,zoe.solomon,7,AI,2U,joanne.montes,AWS Certified Cloud Practitioner,5/5/2023,In progress - 2nd take,Yes,Failed/For Retake,7/9/2024,,,FY23,May,Q3
+827,Gabriella,Ho,gabriella.ho,7,AI,3 Sixty Risk Solutions ,geoffrey.guzman,Google - Associate Cloud Engineer,12/29/2023,In progress - 2nd take,Yes,Failed/For Retake,7/9/2024,,,FY24,December,Q2
+828,Jeff,Jensen,jeff.jensen,7,AI,361 Degrees International ,gloria.mccall,AWS Certified Developer - Associate,11/23/2023,In progress - 2nd take,Yes,Failed/For Retake,7/9/2024,,,FY24,November,Q1
+829,Natalie,Ball,natalie.ball,7,AI,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,AWS Certified Cloud Practitioner,8/17/2023,In progress - 2nd take,Yes,Failed/For Retake,7/9/2024,,,FY23,August,Q4
+830,Matthew,Fields,matthew.fields,7,AI,37 Capital ,latoya.mccann,Microsoft - Azure Data Fundamentals,9/4/2023,In progress - 2nd take,Yes,Failed/For Retake,9/30/2023,,,FY24,September,Q1
+831,Jack,Mendoza,jack.mendoza,7,AI,374Water ,gerald.hawkins,AWS Certified Machine Learning - Specialty,12/1/2023,Failed,Yes,Failed/For Retake,5/29/2024,Failed,,FY24,December,Q2
+832,Sheryl,Lyons,sheryl.lyons,7,AI,3D Pioneer Systems ,samuel.crawford,AWS Certified Cloud Practitioner,6/24/2023,Failed,Yes,Failed/For Retake,6/29/2024,Failed,,FY23,June,Q4
+833,Nina,Contreras,nina.contreras,7,AI,3D Systems Corporation,patricia.goodwin,Google - Associate Cloud Engineer,8/13/2023,In progress - 2nd take,Yes,Failed/For Retake,7/23/2024,,,FY23,August,Q4
+834,Samuel,Walker,samuel.walker,7,AI,3DShoppingcom,stacie.richard,AWS Certified Cloud Practitioner,6/30/2023,In progress - 2nd take,Yes,Failed/For Retake,7/2/2023,,,FY23,June,Q4
+835,Charlotte,Spencer,charlotte.spencer,12,AI,3DX Industries,robin.west,AWS Certified Solutions Architect - Professional,3/15/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,March,Q3
+836,Eduardo,Schultz,eduardo.schultz,12,AI,3i Group plc,ralph.haas,AWS Certified Developer - Associate,1/8/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,January,Q2
+837,Adrienne,Medina,adrienne.medina,12,AI,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,AWS Certified Developer - Associate,6/2/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,June,Q4
+838,Darrell,French,darrell.french,12,AI,3iQ Bitcoin ETF,danny.parrish,Microsoft - Azure Developer Associate,1/31/2024,In progress - 1st take,Requested,,,,,FY24,January,Q2
+839,Rodney,Dunn,rodney.dunn,12,AI,3M Company,kathy.hill,Google - Professional Cloud Data Engineer,7/11/2023,In progress - 1st take,Requested,,,,,FY23,July,Q4
+840,Bryan,Sampson,bryan.sampson,12,AI,3Power Energy ,kelli.hardy,AWS Certified Solutions Architect - Associate,3/31/2024,In progress - 1st take,Requested,,,,,FY24,March,Q3
+841,Gregory,Baxter,gregory.baxter,12,AI,3SBio ,lynn.pham,Microsoft - Azure AI Engineer Associate,12/14/2023,In progress - 1st take,Requested,,,,,FY24,December,Q2
+842,Edgar,Norman,edgar.norman,12,AI,420 Property Management,shelley.harris,AWS Certified Solutions Architect - Associate,1/10/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,January,Q2
+843,April,Garner,april.garner,12,AI,49 North Resources ,eddie.jimenez,AWS Certified Data Analytics - Specialty,5/16/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,April,Q3
+844,Mercedes,Bush,mercedes.bush,12,AI,4Cable TV International,chloe.hutchinson,Google - Professional Cloud Data Engineer,8/23/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY23,August,Q4
+845,Theresa,Randolph,theresa.randolph,12,AI,4D Molecular Therapeutics,eileen.lynch,Microsoft - Azure Developer Associate,6/9/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY23,September,Q1
+846,Tom,White,tom.white,12,AI,4D pharma plc - Equity Warrant,fernando.lambert,AWS Certified Solutions Architect - Associate,5/31/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY23,May,Q3
+847,Tiffany,White,tiffany.white,12,AI,4DMedical ,makayla.cannon,AWS Certified Cloud Practitioner,6/5/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY23,June,Q4
+848,Lacey,Clark,lacey.clark,12,AI,4DS Memory ,tom.alvarado,Microsoft - Azure AI Fundamentals,9/29/2023,In progress - 1st take,Requested,,,,,FY23,September,Q1
+849,Gail,Thornton,gail.thornton,12,AI,4Front Ventures Corp,virginia.dudley,AWS Certified Data Analytics - Specialty,12/27/2023,In progress - 1st take,Requested,,,,,FY24,December,Q2
+850,Leslie,Figueroa,leslie.figueroa,12,AI,4imprint Group plc,riley.good,AWS Certified Solutions Architect - Associate,9/24/2023,In progress - 1st take,Requested,,,,,FY24,September,Q1
+851,Katie,Mcintosh,katie.mcintosh,12,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Google - Associate Cloud Engineer,10/26/2023,In progress - 1st take,Requested,,,,,FY24,October,Q1
+852,Kelly,Bradshaw,kelly.bradshaw,12,AI,5:01 Acquisition Corp,richard.roth,AWS Certified Machine Learning - Specialty,10/16/2023,In progress - 2nd take,Yes,Failed/For Retake,7/10/2024,,12/31/1902,FY24,October,Q1
+853,Blake,Avila,blake.avila,12,AI,5E Advanced Materials,candice.keller,AWS Certified Cloud Practitioner,4/25/2024,In progress - 2nd take,Yes,Failed/For Retake,7/10/2024,,12/31/1902,FY24,April,Q3
+854,Jesse,Miranda,jesse.miranda,12,AI,5G Networks ,anita.benson,AWS Certified Cloud Practitioner,11/19/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,November,Q1
+855,Kristi,Thompson,kristi.thompson,12,AI,5N Plus ,regina.stein,AWS Certified Cloud Practitioner,10/3/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY23,October,Q1
+856,Isabel,Snow,isabel.snow,12,AI,5th Planet Games A/S,debra.riddle,AWS Certified Cloud Practitioner,12/3/2023,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,December,Q2
+857,Donna,Sims,donna.sims,12,AI,60 Degrees Pharmaceuticals,brittany.zuniga,AWS Certified Cloud Practitioner,1/18/2024,In progress - 2nd take,Yes,Failed/For Retake,7/8/2024,,7/8/2027,FY24,January,Q2
+858,Connor,Thomas,connor.thomas,12,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Microsoft - Azure AI Fundamentals,9/23/2023,Passed,Yes,Failed/For Retake,9/23/2023,Passed,9/23/2026,FY23,September,Q1
+859,Chloe,Hanson,chloe.hanson,12,AI,727 Communications,laurie.pennington,Microsoft - Azure AI Fundamentals,9/25/2023,Passed,Yes,Passed,,,9/25/2026,FY24,September,Q1
+860,Drew,Guzman,drew.guzman,12,AI,79North ,alejandro.blair,Microsoft - Azure AI Engineer Associate,6/15/2023,Passed,Yes,Passed,,,6/15/2026,FY23,June,Q4
+861,Clifford,Conway,clifford.conway,12,AI,Yangtze River Port and Logistics ,sheryl.baxter,Microsoft - Azure AI Engineer Associate,9/23/2023,Passed,Yes,Failed/For Retake,9/23/2023,Passed,9/23/2026,FY23,September,Q1
+862,Ashlee,Carney,ashlee.carney,12,AI,YanGuFang International Group ,preston.lozano,Microsoft - Azure AI Engineer Associate,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+863,Jackie,Mccullough,jackie.mccullough,12,AI,Yangzijiang Financial Holding ,roy.berry,Microsoft - Azure AI Fundamentals,8/4/2023,Passed,Yes,Passed,,,8/4/2026,FY23,August,Q4
+864,Crystal,Dougherty,crystal.dougherty,12,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Microsoft - Azure AI Engineer Associate,6/5/2023,Passed,Yes,Passed,,,6/5/2026,FY23,June,Q4
+865,Caitlyn,Tapia,caitlyn.tapia,12,AI,Yankuang Energy Group Company ,joanna.bender,Microsoft - Azure AI Engineer Associate,8/12/2023,Passed,Yes,Passed,,,8/12/2026,FY23,August,Q4
+866,Brenda,Estrada,brenda.estrada,12,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Microsoft - Azure AI Fundamentals,6/16/2023,Passed,Yes,Failed/For Retake,7/25/2023,Passed,7/25/2026,FY23,July,Q4
+867,Tina,Andrews,tina.andrews,12,AI,01 Communique Laboratory ,darren.peck,Microsoft - Azure AI Fundamentals,6/12/2023,Passed,Yes,Failed/For Retake,8/5/2023,Passed,8/5/2026,FY23,August,Q4
+868,Andre,Cunningham,andre.cunningham,12,AI,0187279 BC ,brett.mullen,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+869,Jesus,Abbott,jesus.abbott,12,AI,1-800-FLOWERSCOM,sheryl.meyers,Microsoft - Azure AI Engineer Associate,6/16/2023,Passed,Yes,Failed/For Retake,7/31/2023,Passed,7/31/2026,FY23,July,Q4
+870,Kendra,Bishop,kendra.bishop,12,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Microsoft - Azure AI Engineer Associate,8/3/2023,Passed,Yes,Passed,,,8/3/2026,FY23,August,Q4
+871,Tyrone,Ayers,tyrone.ayers,12,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Microsoft - Azure AI Fundamentals,8/3/2023,Passed,Yes,Passed,,,8/3/2026,FY23,August,Q4
+872,Isaiah,Andersen,isaiah.andersen,12,AI,10x Genomics,jenna.dodson,Microsoft - Azure AI Fundamentals,6/16/2023,Passed,Yes,Failed/For Retake,7/31/2023,Passed,7/31/2026,FY23,July,Q4
+873,Shelia,Rojas,shelia.rojas,12,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Microsoft - Azure AI Fundamentals,6/26/2023,Passed,Yes,Passed,,,6/26/2026,FY23,June,Q4
+874,Donald,Arnold,donald.arnold,12,AI,1399 Internet Technology Application Group ,kristine.cox,Microsoft - Azure AI Engineer Associate,12/13/2023,Passed,Yes,Passed,,,12/13/2026,FY24,December,Q2
+875,Kaitlin,Fowler,kaitlin.fowler,12,AI,141 Capital,faith.lutz,Microsoft - Azure AI Fundamentals,5/29/2023,Passed,Yes,Failed/For Retake,7/29/2023,Passed,7/29/2026,FY23,July,Q4
+876,Mallory,Browning,mallory.browning,12,AI,1511419 Ontario ,miranda.beasley,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,Yes,Failed/For Retake,10/5/2023,Passed,10/5/2026,FY24,October,Q1
+877,Cathy,Compton,cathy.compton,12,AI,1606 Corp,caroline.foley,Microsoft - Azure AI Fundamentals,5/25/2023,Passed,Yes,Passed,,,5/25/2026,FY23,May,Q3
+878,Larry,Blanchard,larry.blanchard,12,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+879,Robert,Henderson,robert.henderson,12,AI,180 Degree Capital Corp,clifford.jacobson,Microsoft - Azure AI Fundamentals,6/6/2023,Passed,Yes,Failed/For Retake,7/9/2023,Passed,7/9/2026,FY23,July,Q4
+880,Glen,Simon,glen.simon,12,AI,180 Life Sciences Corp,joanna.kirk,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+881,Holly,Nelson,holly.nelson,12,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Microsoft - Azure AI Fundamentals,8/4/2023,Passed,Yes,Failed/For Retake,9/30/2023,Passed,9/30/2026,FY24,September,Q1
+882,Erin,Wall,erin.wall,12,AI,1812 Brewing Company ,kiara.houston,Microsoft - Azure AI Engineer Associate,8/3/2023,Passed,Yes,Failed/For Retake,9/30/2023,Passed,9/30/2026,FY24,September,Q1
+883,Chloe,Durham,chloe.durham,12,AI,1847 Holdings LLC,colleen.howard,Microsoft - Azure AI Engineer Associate,11/17/2023,Passed,Yes,Passed,,,11/17/2026,FY24,November,Q1
+884,Jeanette,Schwartz,jeanette.schwartz,12,AI,1867 Western Financial Corporation,janet.valenzuela,Microsoft - Azure AI Engineer Associate,8/7/2023,Passed,Yes,Failed/For Retake,8/30/2023,Passed,8/30/2026,FY23,August,Q4
+885,Max,Clements,max.clements,12,AI,1895 Bancorp of Wisconsin,shane.wilcox,Microsoft - Azure AI Fundamentals,8/3/2023,Passed,Yes,Failed/For Retake,8/31/2023,Passed,8/31/2026,FY23,August,Q4
+886,Julie,Coffey,julie.coffey,12,AI,1911 Gold Corporation,marcus.moody,Microsoft - Azure AI Engineer Associate,8/10/2023,Passed,Yes,Failed/For Retake,9/25/2023,Passed,9/25/2026,FY24,September,Q1
+887,Regina,Gilmore,regina.gilmore,12,AI,1933 Industries ,dakota.poole,Microsoft - Azure AI Engineer Associate,7/30/2023,Passed,Yes,Passed,,,7/30/2026,FY23,July,Q4
+888,Lacey,Stark,lacey.stark,12,AI,1CM ,frederick.harper,Microsoft - Azure AI Fundamentals,8/25/2023,Passed,Yes,Failed/For Retake,8/1/2023,Passed,8/1/2026,FY23,August,Q4
+889,Devin,Jefferson,devin.jefferson,12,AI,1mage Software,stefanie.fitzpatrick,Microsoft - Azure AI Fundamentals,8/4/2023,Passed,Yes,Passed,,,8/4/2026,FY23,August,Q4
+890,Shawna,Spencer,shawna.spencer,12,AI,1PM Industries,kent.bradshaw,Microsoft - Azure AI Fundamentals,7/3/2023,Passed,Yes,Passed,,,7/3/2026,FY23,July,Q4
+891,Edgar,Meyers,edgar.meyers,12,AI,1st Capital Bancorp,jack.tate,Microsoft - Azure AI Engineer Associate,8/4/2023,Passed,Yes,Passed,,,8/4/2026,FY23,August,Q4
+892,Levi,Larsen,levi.larsen,12,AI,1st Colonial Bancorp,tom.trujillo,Microsoft - Azure AI Engineer Associate,6/16/2023,Passed,Yes,Passed,,,6/16/2026,FY23,June,Q4
+893,Victor,Simon,victor.simon,12,AI,1st Federal Savings Bank of SC,gabriel.mejia,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Failed/For Retake,9/24/2023,Passed,9/24/2026,FY24,September,Q1
+894,Lacey,Boone,lacey.boone,12,AI,1st NRG Corp,kaitlyn.santana,Microsoft - Azure AI Fundamentals,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+895,Chelsea,Lester,chelsea.lester,12,AI,1st Source Corporation,faith.moon,Microsoft - Azure AI Fundamentals,4/24/2023,Passed,Yes,Passed,,,4/24/2026,FY23,April,Q3
+896,Dominique,Benjamin,dominique.benjamin,12,AI,1ST SUMMIT BANCORP of Johnstown,tammie.haley,Microsoft - Azure AI Engineer Associate,8/13/2023,Passed,Yes,Failed/For Retake,9/24/2023,Passed,9/24/2026,FY24,September,Q1
+897,Cheyenne,Marshall,cheyenne.marshall,12,AI,1stdibsCom,nicholas.sosa,Microsoft - Azure AI Fundamentals,7/8/2023,Passed,Yes,Passed,,,7/8/2026,FY23,July,Q4
+898,Frances,Vance,frances.vance,12,AI,2020 Bulkers ,jordan.gay,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,Yes,Failed/For Retake,8/30/2023,Passed,8/30/2026,FY23,August,Q4
+899,Melvin,Todd,melvin.todd,12,AI,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Microsoft - Azure AI Fundamentals,8/14/2023,Passed,Yes,Passed,,,8/14/2026,FY23,August,Q4
+900,Gilbert,Larson,gilbert.larson,12,AI,22nd Century ,sherry.garza,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+901,Tim,Hawkins,tim.hawkins,12,AI,23andMe Holding ,natalie.gentry,Microsoft - Azure AI Fundamentals,9/17/2023,Passed,Yes,Failed/For Retake,9/17/2023,Passed,9/17/2026,FY24,September,Q1
+902,Peter,Glass,peter.glass,12,AI,24SevenOffice Group AB (publ),bryan.dunn,Microsoft - Azure AI Fundamentals,6/7/2023,Passed,Yes,Failed/For Retake,8/14/2023,Passed,8/14/2026,FY23,August,Q4
+903,Dan,Shepard,dan.shepard,12,AI,286 Lenox Partners LLC,wayne.simpson,Microsoft - Azure AI Fundamentals,8/9/2023,Passed,Yes,Passed,,,8/9/2026,FY23,August,Q4
+904,Crystal,Garcia,crystal.garcia,12,AI,29Metals ,luis.greer,Microsoft - Azure AI Engineer Associate,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+905,Helen,Diaz,helen.diaz,12,AI,2seventy bio,rhonda.frost,Microsoft - Azure AI Engineer Associate,12/23/2022,Passed,Yes,Failed/For Retake,6/29/2023,Passed,6/29/2026,FY23,June,Q4
+906,Christine,Cervantes,christine.cervantes,12,AI,2U,joanne.montes,Microsoft - Azure AI Engineer Associate,11/14/2023,Passed,Yes,Passed,,,11/14/2026,FY24,November,Q1
+907,Jeffery,Zhang,jeffery.zhang,12,AI,3 Sixty Risk Solutions ,geoffrey.guzman,Microsoft - Azure AI Fundamentals,9/29/2023,Passed,Yes,Passed,,,9/29/2026,FY23,September,Q1
+908,Mario,Nolan,mario.nolan,12,AI,361 Degrees International ,gloria.mccall,Microsoft - Azure AI Engineer Associate,8/13/2023,Passed,Yes,Failed/For Retake,9/16/2023,Passed,9/16/2026,FY24,September,Q1
+909,Abigail,Cochran,abigail.cochran,12,AI,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Microsoft - Azure AI Engineer Associate,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+910,Darlene,Nelson,darlene.nelson,12,AI,37 Capital ,latoya.mccann,Microsoft - Azure AI Fundamentals,8/12/2023,Passed,Yes,Passed,,,8/12/2026,FY23,August,Q4
+911,Dwayne,Davidson,dwayne.davidson,12,AI,374Water ,gerald.hawkins,Microsoft - Azure AI Fundamentals,6/12/2023,Passed,Yes,Failed/For Retake,8/11/2023,Passed,8/11/2026,FY23,August,Q4
+912,Gregory,Osborne,gregory.osborne,12,AI,3D Pioneer Systems ,samuel.crawford,Microsoft - Azure AI Fundamentals,8/8/2023,Passed,Yes,Passed,,,8/8/2026,FY23,August,Q4
+913,Latoya,Clements,latoya.clements,12,AI,3D Systems Corporation,patricia.goodwin,Microsoft - Azure AI Engineer Associate,8/28/2023,Passed,Yes,Passed,,,8/28/2026,FY23,August,Q4
+914,Brooke,Savage,brooke.savage,12,AI,3DShoppingcom,stacie.richard,Microsoft - Azure AI Engineer Associate,7/29/2023,Passed,Yes,Failed/For Retake,8/3/2023,Passed,8/3/2026,FY23,August,Q4
+915,Savannah,Grimes,savannah.grimes,12,AI,3DX Industries,robin.west,Microsoft - Azure AI Fundamentals,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+916,Donna,Webster,donna.webster,12,AI,3i Group plc,ralph.haas,Microsoft - Azure AI Fundamentals,8/12/2023,Passed,Yes,Passed,,,8/12/2026,FY23,August,Q4
+917,Jim,Ochoa,jim.ochoa,12,AI,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+918,Leslie,Spencer,leslie.spencer,12,AI,3iQ Bitcoin ETF,danny.parrish,Microsoft - Azure AI Engineer Associate,9/6/2023,Passed,Yes,Passed,,,9/6/2026,FY24,September,Q1
+919,Ariana,Harmon,ariana.harmon,12,AI,3M Company,kathy.hill,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+920,Paige,Wong,paige.wong,12,AI,3Power Energy ,kelli.hardy,Microsoft - Azure AI Fundamentals,8/7/2023,Passed,Yes,Passed,,,8/7/2026,FY23,August,Q4
+921,Darryl,Burnett,darryl.burnett,12,AI,3SBio ,lynn.pham,Microsoft - Azure AI Fundamentals,10/22/2023,Passed,Yes,Failed/For Retake,10/22/2023,Passed,10/22/2026,FY24,October,Q1
+922,Kristopher,Glass,kristopher.glass,12,AI,420 Property Management,shelley.harris,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,No,Failed/For Retake,9/25/2023,Passed,9/25/2026,FY24,September,Q1
+923,Michael,Huff,michael.huff,12,AI,49 North Resources ,eddie.jimenez,Microsoft - Azure AI Fundamentals,8/12/2023,Passed,Yes,Passed,,,8/12/2026,FY23,August,Q4
+924,Douglas,Wilkerson,douglas.wilkerson,12,AI,4Cable TV International,chloe.hutchinson,Microsoft - Azure AI Fundamentals,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+925,Tanya,Howard,tanya.howard,12,AI,4D Molecular Therapeutics,eileen.lynch,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Passed,,,8/13/2026,FY23,August,Q4
+926,Christy,Franklin,christy.franklin,12,AI,4D pharma plc - Equity Warrant,fernando.lambert,Microsoft - Azure AI Engineer Associate,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+927,George,Dorsey,george.dorsey,12,AI,4DMedical ,makayla.cannon,Microsoft - Azure AI Engineer Associate,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+928,Colton,Nixon,colton.nixon,12,AI,4DS Memory ,tom.alvarado,Microsoft - Azure AI Engineer Associate,8/8/2023,Passed,Yes,Failed/For Retake,9/1/2023,Passed,9/1/2026,FY24,September,Q1
+929,Daniel,Cobb,daniel.cobb,12,AI,4Front Ventures Corp,virginia.dudley,Microsoft - Azure AI Fundamentals,2/3/2024,In progress - 1st take,Yes,,,,,FY24,February,Q2
+930,Cristian,Ball,cristian.ball,12,AI,4imprint Group plc,riley.good,Microsoft - Azure AI Engineer Associate,2/9/2024,In progress - 1st take,Yes,,,,,FY24,February,Q2
+931,Francis,Goodman,francis.goodman,12,AI,51Talk Online Education Group - Depositary Receipt (Common Stock),alexandria.buck,Microsoft - Azure AI Engineer Associate,1/5/2024,In progress - 1st take,Yes,,,,,FY24,January,Q2
+932,Dylan,Boyer,dylan.boyer,12,AI,5:01 Acquisition Corp,richard.roth,Microsoft - Azure AI Fundamentals,1/13/2024,In progress - 1st take,Yes,,,,,FY24,January,Q2
+933,Olivia,Cooke,olivia.cooke,12,AI,5E Advanced Materials,candice.keller,Microsoft - Azure AI Fundamentals,8/10/2023,Not Started,No,,,,,FY23,August,Q4
+934,Dana,Cohen,dana.cohen,12,AI,5G Networks ,anita.benson,Microsoft - Azure AI Fundamentals,2/5/2024,Not Started,No,,,,,FY24,February,Q2
+935,Megan,Mills,megan.mills,12,AI,5N Plus ,regina.stein,Microsoft - Azure AI Engineer Associate,8/28/2023,Not Started,No,,,,,FY23,August,Q4
+936,Daniel,Hurst,daniel.hurst,12,AI,5th Planet Games A/S,debra.riddle,Microsoft - Azure AI Engineer Associate,2/2/2024,Not Started,No,,,,,FY24,February,Q2
+937,Danielle,Compton,danielle.compton,12,AI,60 Degrees Pharmaceuticals,brittany.zuniga,Microsoft - Azure AI Fundamentals,8/13/2023,Passed,Yes,Failed/For Retake,9/25/2023,Passed,9/25/2026,FY24,September,Q1
+938,Mitchell,Mack,mitchell.mack,12,AI,60 Degrees Pharmaceuticals - Equity Warrant,cassidy.mcmahon,Microsoft - Azure AI Fundamentals,8/11/2023,Passed,Yes,Passed,,,8/11/2026,FY23,August,Q4
+939,Jessica,Mcknight,jessica.mcknight,12,AI,727 Communications,laurie.pennington,Microsoft - Azure AI Fundamentals,8/30/2023,Passed,Yes,Passed,,,8/30/2026,FY23,August,Q4
+940,Tyrone,Marshall,tyrone.marshall,12,AI,79North ,alejandro.blair,Microsoft - Azure AI Engineer Associate,5/5/2023,Passed,Yes,Passed,,,5/5/2026,FY23,May,Q3
+941,Greg,Allen,greg.allen,12,AI,Yangtze River Port and Logistics ,sheryl.baxter,Microsoft - Azure AI Fundamentals,8/9/2023,Passed,Yes,Failed/For Retake,9/15/2023,Passed,9/15/2026,FY24,September,Q1
+942,Jill,Schultz,jill.schultz,12,AI,YanGuFang International Group ,preston.lozano,Microsoft - Azure AI Fundamentals,8/31/2023,Passed,Yes,Failed/For Retake,8/30/2023,Passed,8/30/2026,FY23,August,Q4
+943,Noah,Hall,noah.hall,12,AI,Yangzijiang Financial Holding ,roy.berry,Microsoft - Azure AI Fundamentals,8/12/2023,Passed,Yes,Passed,,,8/12/2026,FY23,August,Q4
+944,Wendy,Melendez,wendy.melendez,12,AI,Yangzijiang Shipbuilding (Holdings) ,linda.olsen,Microsoft - Azure AI Fundamentals,11/12/2022,Passed,Yes,Passed,,,11/12/2025,FY23,November,Q1
+945,Guy,Rush,guy.rush,12,AI,Yankuang Energy Group Company ,joanna.bender,Microsoft - Azure AI Fundamentals,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+946,Monica,Joyce,monica.joyce,12,AI,Yankuang Energy Group Company  - Depositary Receipt (Common Stock),aimee.downs,Microsoft - Azure AI Engineer Associate,9/7/2023,Passed,Yes,Failed/For Retake,10/10/2023,Passed,10/10/2026,FY24,October,Q1
+947,Lauren,Garcia,lauren.garcia,12,AI,01 Communique Laboratory ,darren.peck,Microsoft - Azure AI Engineer Associate,11/29/2022,Passed,Yes,Failed/For Retake,11/29/2022,Passed,11/29/2025,FY23,November,Q1
+948,Louis,Norris,louis.norris,12,AI,0187279 BC ,brett.mullen,Microsoft - Azure AI Engineer Associate,11/14/2022,Passed,Yes,Passed,,,11/14/2025,FY23,November,Q1
+949,Shelly,Rasmussen,shelly.rasmussen,11,AI,1-800-FLOWERSCOM,sheryl.meyers,Google - Associate Cloud Engineer,11/13/2022,Passed,Yes,Passed,,,11/13/2025,FY23,November,Q1
+950,Dave,Espinoza,dave.espinoza,11,AI,10X Capital Venture Acquisition Corp III,michelle.gallagher,Google - Cloud Digital Leader,9/7/2023,Passed,Yes,Failed/For Retake,9/28/2023,Passed,9/28/2026,FY24,September,Q1
+951,Beverly,Mayo,beverly.mayo,11,AI,10X Capital Venture Acquisition Corp III - Equity Warrant,carl.schroeder,Google - Professional Machine Learning Engineer,11/11/2022,Passed,Yes,Passed,,,11/11/2025,FY23,November,Q1
+952,Larry,Key,larry.key,11,AI,10x Genomics,jenna.dodson,Microsoft - Azure Data Scientist Associate,10/24/2022,Passed,Yes,Passed,,,10/24/2025,FY23,October,Q1
+953,Jennifer,Mcguire,jennifer.mcguire,11,AI,111 - Depositary Receipt (Common Stock),tracey.mata,Google - Cloud Digital Leader,12/23/2022,Passed,Yes,Failed/For Retake,6/23/2023,Passed,6/23/2026,FY23,June,Q4
+954,Olivia,Mills,olivia.mills,11,AI,1399 Internet Technology Application Group ,kristine.cox,AWS Certified Solutions Architect - Associate,10/3/2023,Passed,Yes,Passed,,,10/3/2026,FY23,October,Q1
+955,Loretta,Simon,loretta.simon,11,AI,141 Capital,faith.lutz,AWS Certified Solutions Architect - Associate,10/1/2023,Passed,Yes,Passed,,,10/1/2026,FY24,October,Q1
+956,Janet,Stevens,janet.stevens,11,AI,1511419 Ontario ,miranda.beasley,Google - Professional Cloud Data Engineer,9/30/2023,Passed,Yes,Passed,,,9/30/2026,FY24,September,Q1
+957,Laurie,Hutchinson,laurie.hutchinson,11,AI,1606 Corp,caroline.foley,Google - Professional Cloud Data Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+958,Shelly,Green,shelly.green,11,AI,17 Education & Technology Group  - Depositary Receipt (Common Stock),greg.mata,AWS Certified Machine Learning - Specialty,10/28/2023,Passed,Yes,Passed,,,10/28/2026,FY24,October,Q1
+959,Curtis,Marsh,curtis.marsh,11,AI,180 Degree Capital Corp,clifford.jacobson,Microsoft - Azure AI Fundamentals,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+960,Molly,Prince,molly.prince,11,AI,180 Life Sciences Corp,joanna.kirk,Google - Associate Cloud Engineer,5/5/2023,Passed,Yes,Passed,,,5/5/2026,FY23,May,Q3
+961,Jaclyn,Mcmillan,jaclyn.mcmillan,11,AI,180 Life Sciences Corp - Equity Warrant,maxwell.frye,Google - Associate Cloud Engineer,10/1/2023,Passed,Yes,Passed,,,10/1/2026,FY24,October,Q1
+962,Alejandra,Harding,alejandra.harding,11,AI,1812 Brewing Company ,kiara.houston,AWS Certified Cloud Practitioner,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+963,Angie,Salas,angie.salas,11,AI,1847 Holdings LLC,colleen.howard,AWS Certified Cloud Practitioner,3/11/2024,Passed,Yes,Passed,,,3/11/2027,FY24,March,Q3
+964,Krystal,English,krystal.english,11,AI,1867 Western Financial Corporation,janet.valenzuela,AWS Certified Developer - Associate,3/9/2024,Passed,Yes,Passed,,,3/9/2027,FY24,March,Q3
+965,Jenny,Chase,jenny.chase,11,AI,1895 Bancorp of Wisconsin,shane.wilcox,AWS Certified Developer - Associate,10/30/2023,Passed,Yes,Passed,,,10/30/2026,FY24,October,Q1
+966,Erika,Collier,erika.collier,11,AI,1911 Gold Corporation,marcus.moody,Google - Associate Cloud Engineer,3/6/2023,Passed,Yes,Passed,,,3/6/2026,FY23,March,Q3
+967,Anthony,Meza,anthony.meza,11,AI,1933 Industries ,dakota.poole,AWS Certified Cloud Practitioner,4/28/2023,Passed,Yes,Failed/For Retake,4/28/2023,Passed,4/28/2026,FY23,April,Q3
+968,Alice,Choi,alice.choi,11,AI,1CM ,frederick.harper,Microsoft - Azure Data Fundamentals,2/27/2023,Passed,Yes,Passed,,,2/27/2026,FY23,February,Q2
+969,Malik,Marks,malik.marks,11,Data,1mage Software,stefanie.fitzpatrick,Microsoft - Azure Data Scientist Associate,4/14/2023,Passed,Yes,Passed,,,4/14/2026,FY23,April,Q3
+970,Ruth,Jensen,ruth.jensen,11,Data,1PM Industries,kent.bradshaw,Google - Associate Cloud Engineer,2/28/2023,Passed,Yes,Passed,,,2/28/2026,FY23,February,Q2
+971,Jack,Boone,jack.boone,11,Data,1st Capital Bancorp,jack.tate,AWS Certified Developer - Associate,11/16/2022,Passed,Yes,Passed,,,11/16/2025,FY23,November,Q1
+972,Charlene,Zamora,charlene.zamora,11,Data,1st Colonial Bancorp,tom.trujillo,AWS Certified Cloud Practitioner,3/1/2023,Passed,Yes,Passed,,,3/1/2026,FY23,March,Q3
+973,Jorge,Mcgrath,jorge.mcgrath,11,Data,1st Federal Savings Bank of SC,gabriel.mejia,AWS Certified Solutions Architect - Associate,7/25/2023,Passed,Yes,Passed,,,7/25/2026,FY23,July,Q4
+974,Tricia,Harris,tricia.harris,11,Data,1st NRG Corp,kaitlyn.santana,AWS Certified Solutions Architect - Associate,2/28/2023,Passed,Yes,Passed,,,2/28/2026,FY23,February,Q2
+975,Tyrone,Nolan,tyrone.nolan,11,Data,1st Source Corporation,faith.moon,AWS Certified Cloud Practitioner,9/29/2023,Passed,Yes,Passed,,,9/29/2026,FY23,September,Q1
+976,Arthur,Pugh,arthur.pugh,11,Data,1ST SUMMIT BANCORP of Johnstown,tammie.haley,AWS Certified Cloud Practitioner,9/25/2023,Passed,Yes,Passed,,,9/25/2026,FY24,September,Q1
+977,Kristie,Oconnor,kristie.oconnor,11,Data,1stdibsCom,nicholas.sosa,AWS Certified Cloud Practitioner,11/19/2023,Passed,Yes,Failed/For Retake,12/13/2023,Passed,12/13/2026,FY24,December,Q2
+978,Albert,Acosta,albert.acosta,11,Data,2020 Bulkers ,jordan.gay,Microsoft - Azure AI Fundamentals,12/9/2023,Passed,Yes,Passed,,,12/9/2026,FY24,December,Q2
+979,Erin,Deleon,erin.deleon,11,Data,21Shares AG - Amun Ripple (xrp) ETN,bruce.esparza,Google - Associate Cloud Engineer,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+980,Jasmine,Robles,jasmine.robles,11,Data,22nd Century ,sherry.garza,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+981,Kendra,Zamora,kendra.zamora,11,Data,23andMe Holding ,natalie.gentry,Google - Professional Machine Learning Engineer,11/9/2023,Passed,Yes,Passed,,,11/9/2026,FY24,November,Q1
+982,Dakota,Salas,dakota.salas,11,Data,24SevenOffice Group AB (publ),bryan.dunn,Microsoft - Azure Data Scientist Associate,11/10/2023,Passed,Yes,Passed,,,11/10/2026,FY24,November,Q1
+983,Jimmy,Wang,jimmy.wang,8,Data,286 Lenox Partners LLC,wayne.simpson,AWS Certified Solutions Architect - Associate,11/4/2023,Passed,Yes,Passed,,,11/4/2026,FY24,November,Q1
+984,Lisa,Yates,lisa.yates,8,Data,29Metals ,luis.greer,AWS Certified Solutions Architect - Associate,11/7/2023,Passed,Yes,Passed,,,11/7/2026,FY24,November,Q1
+985,Collin,White,collin.white,8,Data,2seventy bio,rhonda.frost,Microsoft - Azure Solutions Architect Expert,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+986,Brittney,Horn,brittney.horn,8,Data,2U,joanne.montes,Google - Associate Cloud Engineer,9/16/2023,Passed,Yes,Passed,,,9/16/2026,FY24,September,Q1
+987,Maureen,Hurst,maureen.hurst,8,Data,3 Sixty Risk Solutions ,geoffrey.guzman,Google - Associate Cloud Engineer,6/25/2023,Passed,Yes,Passed,,,6/25/2026,FY23,June,Q4
+988,Cynthia,Greene,cynthia.greene,8,Data,361 Degrees International ,gloria.mccall,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+989,Maureen,Rivers,maureen.rivers,8,Data,36Kr Holdings  - Depositary Receipt (Common Stock),brady.cohen,Microsoft - Azure Data Engineer Associate,11/7/2023,Passed,Yes,Passed,,,11/7/2026,FY24,November,Q1
+990,Garrett,Villa,garrett.villa,8,Data,37 Capital ,latoya.mccann,AWS Certified Cloud Practitioner,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+991,Bill,Richards,bill.richards,8,Data,374Water ,gerald.hawkins,Microsoft - Azure Data Fundamentals,12/15/2023,Passed,Yes,Passed,,,12/15/2026,FY24,December,Q2
+992,Kiara,Moon,kiara.moon,8,Data,3D Pioneer Systems ,samuel.crawford,Google - Associate Cloud Engineer,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+993,Colin,Kaufman,colin.kaufman,8,Data,3D Systems Corporation,patricia.goodwin,AWS Certified Cloud Practitioner,11/19/2023,Passed,Yes,Passed,,,11/19/2026,FY24,November,Q1
+994,Evan,Marsh,evan.marsh,8,Data,3DShoppingcom,stacie.richard,Google - Associate Cloud Engineer,11/30/2023,Passed,Yes,Passed,,,11/30/2026,FY24,November,Q1
+995,Kristie,Rice,kristie.rice,8,Data,3DX Industries,robin.west,AWS Certified Developer - Associate,12/1/2023,Passed,Yes,Passed,,,12/1/2026,FY24,December,Q2
+996,Diana,Monroe,diana.monroe,8,Data,3i Group plc,ralph.haas,Google - Professional Cloud Architect,10/16/2023,Passed,Yes,Passed,,,10/16/2026,FY24,October,Q1
+997,Jerry,Morales,jerry.morales,8,Data,3i Group plc - Depositary Receipt (Common Stock),phyllis.maldonado,Google - Professional Cloud Data Engineer,10/28/2023,Passed,Yes,Passed,,,10/28/2026,FY24,October,Q1
+998,Tracie,Floyd,tracie.floyd,8,Data,3iQ Bitcoin ETF,danny.parrish,Google - Professional Cloud Architect,10/31/2023,Passed,Yes,Passed,,,10/31/2026,FY24,October,Q1
+999,Paul,Barnes,paul.barnes,8,Data,3M Company,kathy.hill,Google - Professional Machine Learning Engineer,10/27/2023,Passed,Yes,Passed,,,10/27/2026,FY24,October,Q1
+1000,Dominic,Duran,dominic.duran,8,Data,3Power Energy ,kelli.hardy,Google - Professional Cloud Data Engineer,12/28/2023,Passed,Requested,Passed,,,12/28/2026,FY24,December,Q2

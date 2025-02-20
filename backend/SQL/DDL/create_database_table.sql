@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS database_table 
+    (
+        EMPLOYEE_ID INTEGER, 
+        FIRST_NAME TEXT, 
+        LAST_NAME TEXT, 
+        EID TEXT, 
+        MANAGEMENT_LEVEL INTEGER, 
+        CAPABILITY TEXT, 
+        PROJECT_NAME TEXT, 
+        MANAGER_EID TEXT, 
+        TARGET_CERTIFICATION TEXT, 
+        col_1ST_TARGET_CERTIFICATION_DATE TEXT, 
+        CURRENT_PROGRESS TEXT, 
+        WITH_VOUCHER_ TEXT, 
+        col_1ST_TAKE_RESULT TEXT, 
+        RETAKE_EXAM_DATE TEXT, 
+        RETAKE_RESULT TEXT, 
+        EXPIRATION_DATE TEXT, 
+        Fiscal_Year TEXT, 
+        Month TEXT, 
+        Quarter TEXT
+    )

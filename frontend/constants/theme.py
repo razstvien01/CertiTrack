@@ -1,0 +1,6 @@
+PRIM_COLOR = "#6eb52f"
+BG_COLOR = "#f0f0f5"
+SEC_BG_COLOR = "#e0e0ef"
+TEXT_COLOR = "#262730"
+COLOR_A = "#ff6347"
+COLOR_B = "#1e90ff"
